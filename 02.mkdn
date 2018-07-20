@@ -22,7 +22,7 @@ I twirl the quarterstaff, and it hums with magic.
 Packing what I might concievably need and what I can carry into the non-magical knapsack,
 I throw the rest in the summoning heptagram. A quick _prestidigitation_ cleans the chalk and
 ash and scorch marks, and once all my old clothes and all the books that aren't of value to me
-are gathered there, I light it on fire with the third mote of magic in my head. «__Burn, baby.__»
+are gathered there, I light it on fire with the third mote of magic in my head. «__Flame baby.__»
 A mote of fire appears above my open hand, and I toss it at the pile.
 
 It burns like a small bonfire, which is not fast enough for my tastes. «__Wondertje,__» I
@@ -195,11 +195,12 @@ arm.
 > Level up! Warlock 2
 >
 > - Hit Dice: 2d8
-> - Hit Points: 18 (6 HP + 4 THP)
+> - Hit Points: 10 (4 Tempoary)
+>   - Max roll 2d8 + 4: 6 + 7 + 4 = 17
 > - Pact Magic
 >   - Invocations learned: _Agonizing Blast, Beguiling Influence_
 >   - Spells learned: _Charm Person_
->   - Spell slot gained!
+>   - Spell slot gained! 2 slots, spell level 1
 >
 > Proficiency summary!
 >

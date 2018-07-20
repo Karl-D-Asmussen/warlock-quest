@@ -11,7 +11,7 @@ In the interest of fairness for single-player play, the following rules apply:
 
 # Warlock Buffs
 
-- Number of Invocations: Level/2 + 1
+- Number of Invocations: (Level + 1)/2 + 1
 - Spells known: Level + 1
 - Extra spell slot at 5th level
 - Extra cantrip at 1st level

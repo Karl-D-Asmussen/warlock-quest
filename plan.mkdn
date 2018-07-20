@@ -1,16 +1,38 @@
 
 Spells:
-  1: Hex
-  1: Command
-  2: Charm Person
+  C1: Eldritch Blast, Prestidigitation, Produce Flame (Patron)
+  C4: Minor Illusion
+  C10: Mage Hand
+  1: Hex (1), Command (1)
+  2: Charm Person (1)
+  3: Suggestion (2)
+  4: 
 
+
+Pact of the Tome:
+  - Mending
+  - Guidance
+  - Spare the Dying (buffed)
+
+Incantations:
+  2: Agonizing Blast, Beguiling Influence
+  3: Book of Ancient Secrets
+  5: Aspect of the Moon
+  7: Eyes of the Rune Keeper
+  9: Eldrich Shaping (Cone, Beam)
+  11: Eldrich Spear
+  13: Repelling Blast
+  14: Eldrich Shaping (Beam, Onslaught)
+  15: Master of Myriad Forms
+  17: Lance of Lethargy
+  19: Armor of Shadows
 
 Feats/ASIs:
   Bonus: Skilled (Arcana, History, Stealth)
   Bonus: Magic Initiate (Warlock: Message, Friends, Healing Elixir)
   4: Silver Tongued (Edited third benefit: Bonus action rather than attack)
   8: Cha +2
-  12: Spell Sniper (Warlock: Shocking Grasp)
+  12: Spell Sniper (Warlock: Shocking Grasp (Patron))
   16: Ressilient (Constitution)
   19: War Caster
 

@@ -147,8 +147,8 @@ years.
 As soon as I can, I leave.
 
 I leave town, across the piers in the drained marshland, into the desert. It's
-I not easy to travel with an infant, but I make do. Only once am two days away,
-I do I change course, entering the dry rocky wilderness.
+not easy to travel with an infant, but I make do. Only once am two days away, I
+change course, entering the dry rocky wilderness.
 
 In one of the books I've brought with me lies a dark ritual, and in the knapsack
 the components for it.
@@ -287,6 +287,7 @@ sensible set of gear.
 >
 > - Hit Dice: 1d8
 > - Hit Points: 10
+>   - Max roll 1d8 + 2: 8 + 2 = 10
 > - Proficiency Bonus: +2
 > - Skills: Investigation, Intimidation
 > - Weapons & Armor: Simple, Light
