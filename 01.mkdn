@@ -138,7 +138,7 @@ and feel nothing.
 ----
 
 It's a week hence that I give birth. A kindly innkeeper takes me in and is my
-midwife. It's a baby boy with red skin and horns like mine.
+midwife. It's a baby boy with red skin.
 
 I don't love him one bit. I cry and pretend it's happiness as I swaddle the
 offspring of the man who so thoroughly violated my mind and flesh for years and
@@ -156,14 +156,14 @@ the components for it.
 With grim resolution, ignoring the cries of the little imp that... that... _beast_ of
 a man Haquim put in me, I draw up the heptagram, spill the ashes, and incant.
 
-There's a column of hellfire, and out of it dances a figure I cannot place a gender upon.
-All legs and black scaly skin, clad in a tailored tunic that leaves nothing to the imagination,
-and with a brow crowned in a cirlce of horns. Their eyes are deep pits that threaten to swallow
-me up.
+There's a column of hellfire, and out of it dances a feminine figure.  All
+legs and curves and black carapace, clad in a tailored tunic of grey silk that
+leaves nothing to the imagination. Her eight eyes are deep pits that threaten to
+swallow me up.
 
 "_Why hello, what have we here?_"
 
-They casually step over the bounds of the diagram, and a shiver runs down my spine.
+She casually steps over the bounds of the diagram, and a shiver runs down my spine.
 
 "I--- I want power. I have gifts."
 
@@ -174,16 +174,16 @@ soiled himself again. "My firstborn."
 
 "_Huh. That's usually a thing given to the Archfey. It's not really to my taste._"
 
-They snap their fingers, and my arms are empty. There's a hollow pang in my chest of
+She snaps her fingers, and my arms are empty. There's a hollow pang in my chest of
 feelings I am supposed to have but do not. "Uh, I..." scrambling for another sacrifice,
 I upend my knapsack --- it's a useful, if common, magic item. "This?"
 
-They snap their fingers again. "_Hum. Anything else?_"
+She snaps her fingers again. "_Hum. Anything else?_"
 
 I dig through the pile of things, and find Haquim's personalized spell book --- the one
 he kept on him at all times. Another snap, another void suddenly between my hands.
 
-"_All right, that's enough of trinkets. I want someting_ personal."
+"_All right, that's enough of trinkets. I want someting personal._"
 
 "Take my womb," I say without hesitation.
 
@@ -195,19 +195,21 @@ nauseous beyond measure.
 
 "_Anything else, snow-white?_"
 
-I rack my addled mind for something. "You. Can. Have. My---" I gag "_name._"
+I rack my addled mind for something. "You. Can. Have. My---" I gag "_name._" Haquim only
+ever called me 'pet' --- Jacaranda was what my mother called me.
 
-They kneel over me. "_Archfey, darling, look it up. Still, Jacaranda... Maybe I can trade it._"
+They kneel over me. "_Archfey, darling, look it up. Jacaranda... Why not, I'll take it._"
 
 I dry heave once, curling up in the foetal position.
-Though watering eyes, I see them smile.
+Though watering eyes, I see her smile. She snaps her fingers once more, and I don't feel any
+change.
 
 "_Now, you of course know the conditions of this pact,
 no? Once you die, your sorry soul is mine._"
 
 I close my eyes.
 
-"_And if you want to get on my good side... Girl, you gotta be spectacular._"
+"_And if you want to get on my good side... Girl, you gotta be spectacular. I'll be in touch._"
 
 ----
 
@@ -304,6 +306,7 @@ sensible set of gear.
 > - Light armor (AC 11): gambeson; protective gear (AC +1): vambracers, greaves, forehead plate.
 > - Knapsack
 >   - Books of rituals, magic theory, and arcana
+>   - Bedroll
 >   - Crowbar
 >   - Hammer
 >   - Pitons

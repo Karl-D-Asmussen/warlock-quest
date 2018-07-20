@@ -6,13 +6,29 @@ I cauterize them.
 
 When the deed is done, I clean my wounds of grime and stagger into the tavern
 and use the last of my money to purchase a room for the night. It's not a very
-nice establishment.
+nice establishment; dirt floors and cheap ale, tiny rooms with hard beds. I unroll
+my own bedroll, doff my armor, and fall asleep under my cloak.
 
 ----
 
 _"Hello, my dear."_
 
-_I look_
+_Jet-black horror, somehow recognizable. A black-skinned woman's body atop the
+thorax of a spider. Eight powerful legs protrude from her throax, and a slender
+abdomen slowly gyrates behind her._
+
+_"Yes, it's me, Mephala, your mistress. I said I'd be in touch."_
+
+_What does she want?_
+
+_"I want to know that if you find yourself in need of power, I'm willing
+to trade favors for boons."_
+
+_Does that include sexual favors?_
+
+_"Yes, but they don't count for very much."_
+
+_We make love._
 
 ----
 
@@ -22,6 +38,57 @@ sleep and follow it with a fight to the death.
 
 Although, of course, I might have to. News have surely come to Pawpaw at this
 point. I'm also penniless, and I live out of a backpack of dungeon-delving
-equipment. Theoretically, I don't need a place to sleep
+equipment. Theoretically, I don't need much else, since I can take care of hygeine
+with just magic.
+
+Perhaps that is the solution: to go underground in the catacombs beneath the city,
+and lie low until the heat is past.
+
+Packing up my stuff and donning my armor, I make my way out of the abysmally small room,
+and into the narrow hallway. In the main room, I find not a soul --- which is
+worrying.
+
+Warily, I peek out between the crack in the blinders, and see the street empty.
+
+This is _very_ worrying. It pratically screams 'trap.' Instead of steppting out into
+an ambush, I search the tavern itself. The back room and kitchen is deserted; all the
+six tiny rooms upstairs are empty as well. One of the rooms upstairs does however have
+a window with blinders. I unlatch them and open just a crack to look.
+
+More or less as soon as they move, a crossbow bolt hammers through the wood, and I leap
+back with a yelp.
+
+I back away from the blinds. Then I cast _thaumaturgy_ with a gesture, and make them
+gently open. Another bolt impacts the wall outside --- probably a miss.
+
+From the trajectory of the arrows, I can guess at the shooter's position. They
+are waiting for me to exit the tavern, obviously. And it might be the only
+option --- if I don't leave, they will either storm me or burn the tavern
+down. The walls are also too thick for me to blast my way out before they storm
+me.
+
+I tie my rope to the hinges on the door to the room. I creep up to the edge of the
+window, and look in the direction of the shooter. Another bolt buries itself in the wall,
+and I catch a glimpse of the shooter.
+
+«__Pew!__» I hiss, and a beam of light shoots from my fingertip. It hits him, and I feel
+the rush of dark energy from his defeat.
+
+This creates commotion --- four rough-looking guys come out of they alley next to the tavern
+and head for the door. As soon as they enter, I toss down the rope and rappel down from the first floor
+without making a sound. A quick _prestidigitation_ makes the tied-down end of the rope unfurl itself,
+and _thaumaturgy_ makes the window blinds close.
+
+Then I run like hell, round a corner into an alley, and run right into a guy holding two mean-looking
+hounds in chain leash. He smirks, and lets go, and the dogs charge me.
+
+<!-- HP 22 (Tmp 5) -->
+
+I stand my ground, cast _thaumaturgy_ and with magic, 
+
+I _hex_ the first one, and avoid its bite --- not so with the second, which manages to get ahold of
+my arm. Then I blast the hexed one, which falls over with a whimper, all its fur sagging off. The second
+bites at my arm again, ineffectually, and I transfer the hex to it, before blasting it as well --- my shot
+goes wide.
 
 
