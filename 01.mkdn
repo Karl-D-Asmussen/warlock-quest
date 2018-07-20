@@ -273,7 +273,7 @@ sensible set of gear.
 > Background selected! Slave (Variants: Comfort Slave, Escaped)
 >
 > - Insight, Performance
-> - Instrument: Lute, Language: Elvish
+> - Instrument: Lute, Tool: Disguise Kit, Language: Elvish
 > - Feature: _Parallel Society._ Advantage to checks made to
 >   gather information and gain trust among slaves.
 > - Bond: Wanted
@@ -306,6 +306,7 @@ sensible set of gear.
 > - Light armor (AC 11): gambeson; protective gear (AC +1): vambracers, greaves, forehead plate.
 > - Knapsack
 >   - Books of rituals, magic theory, and arcana
+>   - Disguise Kit
 >   - Bedroll
 >   - Crowbar
 >   - Hammer

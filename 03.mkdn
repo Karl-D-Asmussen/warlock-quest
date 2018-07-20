@@ -82,13 +82,23 @@ and _thaumaturgy_ makes the window blinds close.
 Then I run like hell, round a corner into an alley, and run right into a guy holding two mean-looking
 hounds in chain leash. He smirks, and lets go, and the dogs charge me.
 
-<!-- HP 22 (Tmp 5) -->
-
 I stand my ground, cast _thaumaturgy_ and with magic, 
 
-I _hex_ the first one, and avoid its bite --- not so with the second, which manages to get ahold of
-my arm. Then I blast the hexed one, which falls over with a whimper, all its fur sagging off. The second
-bites at my arm again, ineffectually, and I transfer the hex to it, before blasting it as well --- my shot
-goes wide.
+I _hex_ one and blast the other --- the beam, by whatever raw magic it contains, causes the critter to
+loose literally all its fur at once and tumble mid-step. The second lunges at me and I let it bite into my
+vambrace. I reward its efforts with a blast to the face, searing the flesh clean off its skull.
 
+The guy advances on me, indeed he began the moment I offed his first dog, and he comes at me with a club,
+which I parry with my vambrance; but I loose hold of the _hex_ I had on him. I step back out of his range
+to get a better shot, but his effort to stop me misses completely.
 
+My return fire does not, and I put a glowing beam in his shoulder, which for some reason turns all
+his clothes soaking wet; he staggers some, switches hands with his club and lunges for another hit which
+misses. I duck past him, deeper into the alley and he clocks me in the back of the head --- but thankfully
+at a poor angle. I shoot backwards while running, and hit him in the inner thigh. I don't see what it does
+to him, but I hear him scream, and feel a rush of energy once more.
+
+<!-- 1 slot left, HP 16 + 5 -->
+
+I mumble «__Wondertje__» and extend the magic in search of an unlocked door as I pass
+down the back alleys. I come across one, and bid it to open --- without lo
