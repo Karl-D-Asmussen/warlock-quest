@@ -316,6 +316,6 @@ sensible set of gear.
 >   - Waterskin
 >   - Rope
 >   - Chalk
->   - Rare inks worth 400gp
+>   - Rare inks worth 300gp
 > - Cloak, rugged clothes, belt pouch.
 > - 10 sp.

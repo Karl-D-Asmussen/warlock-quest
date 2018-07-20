@@ -148,8 +148,8 @@ Looking behind me, to make sure I am not followed, I descend.
 > Level up! Warlock 3
 > 
 > - Hit Dice 3d8 (Constitution/Proficiency bonus cap: 2) (expended 2)
-> - Hit Points 19
->   -  Max roll 2d8 + 6: 5 + 8 + 6 = 19
+> - Hit Points 21 (5 temp)
+>   - Max roll 2d8 + 6: 5 + 8 + 6 = 19
 > - Pact of the Tome
 >   - Cantrips gained: _Guidance, Mending, Spare the Dying (homebrew)_
 > - Pact Magic:

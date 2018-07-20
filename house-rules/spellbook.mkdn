@@ -57,7 +57,7 @@ _1st-level abjuration (ritual)_
 ----
 
 **Casting time:** Varies  
-**Components:** V, S, M (5gp holy symbol, and ointments, candles, and incences worth at least 10 gp, which are consumed)  
+**Components:** V, S, M (holy symbol, and ointments, candles, and incences worth at least 10 gp, which are consumed)  
 **Range:** Varies  
 **Duration:** Varies  
 **Available to:** Cleric  
@@ -80,9 +80,7 @@ water containing no more than 1 pint of water total, causing it to become holy w
 This variant requires no material component other than the holy symbol, if not cast as a ritual.
 
 _At higher levels:_ casting this spell as a spell of 2nd level or higher quadruples the amount of
-holy water created per level above 1st. (----
-
-**Casting as a 2nd level spell creates up to a gallon of holy  
+holy water created per level above 1st. (Casting as a 2nd level spell creates up to a gallon of holy  
 water, casting as a 5th level spell creates up to about half a barrel, casting as a 9th level spell creates  
 over 500 barrels of holy water.)  
   
@@ -1004,15 +1002,16 @@ where the target returns to 1 HP immediately.
 
 ***Mercy Kill.*** You speak a prayer of last rites for a living creature that has 0 hp.
 The creature beings dying and must make its subsequent death saving throws at
-disadvantage.
+disadvantage, and Wisdom (Medicine) checks made to stabilize it are made at disadvantage.
 
 This effect escalates at 5th level, where the target suffers a failed death saving
 throw immediately, at 11th level (two failed saves)
 at disadvantage, and 17th level (three failed saves --- death).
 
-***Last Rites.*** Alternatley, you may speak a prayer for the protection from necromancy of a
-dead creature. Upon becoming undead before the end of one week, the creature immediately
-takes 1d12 radiant damage. This protection can be undone with _dispel magic_.
+***Last Rites.*** Alternatley, you may speak a prayer for the protection from
+necromancy of a dead creature. Upon becoming undead before the end of one week,
+the newly created undead creature immediately takes 1d12 radiant damage. This
+protection can be undone with _dispel magic_.
 
 This effect's damage increases by 1d12 when you reach
 5th level (2d12), 11th level (3d12), and 17th level (4d12). The duration increases
