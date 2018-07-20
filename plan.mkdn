@@ -1,0 +1,17 @@
+
+Spells:
+  1: Hex
+  1: Command
+  2: Charm Person
+
+
+Feats/ASIs:
+  Bonus: Skilled (Arcana, History, Stealth)
+  Bonus: Magic Initiate (Warlock: Message, Friends, Healing Elixir)
+  4: Silver Tongued (Edited third benefit: Bonus action rather than attack)
+  8: Cha +2
+  12: Spell Sniper (Warlock: Shocking Grasp)
+  16: Ressilient (Constitution)
+  19: War Caster
+
+

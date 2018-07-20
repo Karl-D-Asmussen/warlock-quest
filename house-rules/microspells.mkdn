@@ -1,0 +1,49 @@
+
+Firebolt
+School: ev
+Level: cantrip
+CT: action
+Comps: V S
+Range: 120 feet
+Target: Creature/object
+Roll: spell attack
+Damage: 1d10 fire
+Effect: ignites fires on non-worn/carried
+Progression: tiers +1d10 fire damamge
+
+Fireball
+School: ev
+Level: 3rd
+CT: action
+Comps: V S M
+Materials: bat guano, sulfur
+Range: 150 feet
+Target: 20 foot sphere
+Roll: DEX save halves
+Damage: 8d6 fire damage
+Progression: upcast +1d6 fire damage
+
+Ray of Frost
+School: ev
+Level: cantrip
+CT: action
+Comps: V S
+Range: 60 feet
+Target: Creature/object
+Roll: spell attack
+Damage: 1d8 cold
+Effect: target loses 10 feet move next turn
+Progression: tiers +1d10 fire
+
+Toll of the Dead
+School: nec
+Level: cantrip
+CT: action
+Comps: V S
+Range: 60 feet
+Target: Creature
+Roll: WIS save negates
+Damage:
+  - 1d8 necrotic if target full HP
+  - 1d12 necrotic if target not full HP
+Progression: tiers +1d8/12 necrotic

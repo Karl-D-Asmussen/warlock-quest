@@ -1,0 +1,1448 @@
+
+# Everything Narrative's Reworked Spells
+
+#### Acid Splash (Alternate Version)
+
+_Conjuration cantrip_
+
+----
+
+**Casting time:** 1 action  
+**Components:** V, S  
+**Range:** 60 feet  
+**Duration:** Instantaneous  
+**Availabel to:** Sorcerer, Wizard  
+
+You hurl a bubble of volatile acid. Make a ranged spell attack against the
+target. On a hit, the target takes 1d6 acid damage. If a die comes up six on
+the damage roll, all creatures within 5 feet of the target must
+make a Dexterity saving throw. On a failed save, they take 1d4 acid damage for each six rolled.
+
+This spell's damage increases by 1d6 when you reach 5th level (2d6),
+11th level (3d6), and 17th level (4d6).
+
+<div class='descriptive'>
+This is merely an alternate version, not a fix. More old-school dice silliness.
+</div>
+
+#### Blade Ward (Buffed)
+
+_Abjuration cantrip_
+
+----
+
+**Casting time:** 1 action  
+**Components:** V, S  
+**Range:** Touch  
+**Duration:** 1 round  
+**Available to:** Bard, Sorcerer, Warlock, Wizard  
+
+You extend your hand and trace a sigil of warding in the air and touch a willing creature.
+Until the end of your next turn, the target has resistance against bludgeoning, piercing, and slashing
+damage.
+
+This spell's duration increases by 1 round when you reach 5th level (2 rounds), 11th level (3 rounds),
+and 17th level (4 rounds).
+
+<div class='descriptive'>
+Forgoing your action to take _less_ damage from attacks is a pretty shitty tradeoff. With
+this version, you get the ability to buff the big stupid fighter, and also
+the increased duration at higher tiers adds utility in a natural manner.
+</div>
+
+#### Ceremony (Buffed, Fluffed, Reworked)
+
+_1st-level abjuration (ritual)_
+
+----
+
+**Casting time:** Varies  
+**Components:** V, S, M (5gp holy symbol, and ointments, candles, and incences worth at least 10 gp, which are consumed)  
+**Range:** Varies  
+**Duration:** Varies  
+**Available to:** Cleric  
+
+You perform a special religious ceremony that is infused with magic. When you
+cast the spell, choose one of the following rites, the target of which must be
+present for the whole casting.
+
+***Atonement.*** You indulge a willing, intelligent creature of compatible
+faith a confession of sins for at least half an hour. If the creature's
+alignment has strayed from the one associated with their faith, you may make
+a DC 20 Wisdom (Insight) check. On a success, the creature returns to the
+alignment of their faith.
+
+_At higher levels:_ casting this spell as a spell of 2nd level or higher,
+lowers the DC of the check by 5 per level above 1st.
+
+***Bless water.*** You spend 1 round in prayer, then touch containers of
+water containing no more than 1 pint of water total, causing it to become holy water.
+This variant requires no material component other than the holy symbol, if not cast as a ritual.
+
+_At higher levels:_ casting this spell as a spell of 2nd level or higher quadruples the amount of
+holy water created per level above 1st. (----
+
+**Casting as a 2nd level spell creates up to a gallon of holy  
+water, casting as a 5th level spell creates up to about half a barrel, casting as a 9th level spell creates  
+over 500 barrels of holy water.)  
+  
+***Coming of age.*** You spend one hour preaching a cathecismic  
+call-and-response sermon to a congregation of humanoids who are young adults.
+For the next 24 hours, whenever the target makes an ability check, it can roll
+a d4 and add the number rolled to the ability check. A creature can benefit
+from this rite only once.
+
+_At higher levels:_ casting this spell as spell of 2nd level or higher increases the duration
+of the bonus by an additional 24 hours per level of spell slot beyond 1st.
+
+***Dedication.*** You spend ten minutes blessing one humanoid who wishes to be
+dedicated to your god’s service. For the next 24 hours, whenever the target
+makes a saving throw, it can roll a d4 and add the number rolled to the save. A
+creature can benefit from this rite only once.
+
+_At higher levels:_ casting this spell as a spell of 2nd level or higher
+increases the duration of the bonus by an additional 24 hours per level of spell slot beyond 1st.
+
+***Funeral rite.*** You spend half an hour perfoming the last rites for the
+dead. For one week, the creatures affected cannot be made into undead by
+anything less than a 5th level spell, or unless a _remove curse_ spell is cast to
+undo the protection first; _dispel magic_ cannot undo this protection.
+
+_At higher levels:_ casting this spell as a higher level spell increases the duration
+of protection and required potency to overcome. Cast at 2nd, 3rd, and 4th level, the duration
+increases to 1 month, 1 year, and permanent, respectively, while the required spell
+level increases to 6th, 7th, 8th, and 9th, respectively. Cast at 5th, 6th, 7th, or 8th,
+level, a _hallow_ spell of higher level is required to first weaken the protection,
+or reanimation is impossible. Cast at 9th level, only a _wish_ spell can undo the protection.
+
+***Wedding.*** You spend an hour binding two (or more, if your faith endorses
+polyamorous relationships) adult humanoids, who are prepared to dedicate
+themselves to each other, in matrimony, while in the presence of witnesses.
+For the next week, each of the newlyweds gain a +1 bonus to AC. A creature can
+benefit from this rite only once.
+
+(Though the legal and spiritual significance of a second marriage will be just
+as great, depending on faith, there is no AC bonus to be had.)
+
+_At higher levels:_ casting this spell as a spell of 2nd level or higher, increases the duration
+of protection by an addittional week per level of spell slot beyond 1st.
+
+<div class='descriptive'>
+Major overhaul of all fluff and mechanics. Reduced price of material component,
+and changed the effects and scale of the funeral rite.
+A spell with costly material component should do cool shit.
+</div>
+
+\page
+#### Cloud of Daggers (Buffed)
+
+_2nd-level conjuration_
+
+----
+
+**Casting Time:** 1 action  
+**Range:** 60 feet  
+**Components:** V, S, M (a sliver of glass)  
+**Duration:** Concentration, up to 1 minute  
+**Available to:** Bard, Sorcerer, Warlock, Wizard  
+
+You fill the air with spinning daggers, shurikens, or shards of glass, in
+a cube 5 feet on each side, centered on a point you choose within range. A
+creature takes 4d4 slashing damage when it enters the spell’s area for the
+first time in a turn or starts its turn there.
+
+_At higher levels:_ casting this spell as a 3rd-level spell or higher, allows
+you to make the cloud bigger: the total volume of the cloud becomes as that
+of a cube 5 feet larger on a side for each spell slot level beyond 2nd. When
+casting, you may arrange the cloud in any configuration of 5 foot cubes, so
+long as it is contiguous and remains the same total volume
+
+<div class='descriptive'>
+Added spell progression to cover more area.
+</div>
+
+#### Contagion (Nerfed)
+
+_5th-level necromancy_
+
+----
+
+**Casting Time:** 1 action  
+**Range:** Touch  
+**Components:** V, S  
+**Duration:** 1 week  
+**Available to:** Cleric, Druid  
+
+Your touch inflicts disease. Make a mêlée spell attack against a creature
+within your reach. On a hit, you afflict the creature with a disease of your
+choice from any of the ones described below.
+
+When the target completes a long rest, it must make a Constitution saving throw.
+On a success, the spell ends. On a failure, the spell takes hold, and the negative
+effects of the disease activates. Each time the target completes a long rest, it
+repeats this saving throw. After three failed saves, the disease runs the course of
+its full duration.
+
+The disease is contagious: any creature that touches the target while
+the disease is active, or spends an hour in close proximity, must make the same
+series of saving throws as the original target, with the same consequence for failure;
+including the possibility of a full seven-day duration.
+
+A creature cannot be affected twice by a disease originating from a single casting
+of _contagion_. A _lesser restoration_ can remove the disease.
+
+Undead, constructs are unaffected by this spell. The disease can only spread to
+sufficiently similar creatures, at the DM's discretion.
+
+***Blinding Sickness.*** Pain grips the creature’s mind, and its eyes turn
+milky white. The creature has disadvantage on Wisdom checks and Wisdom saving
+throws and is blinded.
+
+***Filth Fever.*** A raging fever sweeps through the creature’s body. The
+creature has disadvantage on Strength checks, Strength saving throws, and
+attack rolls that use Strength.
+
+***Flesh Rot.*** The creature’s flesh decays and with it, their will to live.
+The creature has disadvantage on Charisma checks, Charisma saving throws, and
+vulnerability to all damage.
+
+***Mindfire.*** The creature’s mind becomes feverish. The creature has disadvantage
+on Intelligence checks and Intelligence saving throws, and the creature behaves
+as if under the effects of the _confusion_ spell during combat.
+
+***Seizure.*** The creature is overcome with shaking. The creature has
+disadvantage on Dexterity checks, Dexterity saving throws, and attack rolls
+that use Dexterity.
+
+***Slimy Doom.*** The creature begins to bleed uncontrollably. The creature has
+disadvantage on Constitution checks and Constitution saving throws --- except
+Constitution saving throws made to end the effects of this spell. In addition,
+whenever the creature takes damage, it is stunned until the end of its next
+turn.
+
+_At higher levels:_ when you cast this spell as a 7th level spell, the
+duration of infection is 1 month. When you cast this spell as a 9th level
+spell, the duration of infection 1 year.
+
+<div class='descriptive'>
+No longer immediately takes effect, and Slimy Doom isn't a total hoot. This
+spell is intended as a slow killer; a debuff for an entire army. Not a combat spell.
+</div>
+
+#### Conjure Munitions (New)
+
+_Conjuration cantrip_
+
+----
+
+**Casting time:** 1 bonus action  
+**Range:** Self  
+**Components:** S  
+**Duration:** 1 minute  
+**Available to:** Any class  
+
+You create a glass-like projectile of your choice in the palm of your hand,
+including sling stones, rocks for throwing, arrows, crossbow bolts, or weapons
+with the _thrown_ property, which disintegrate after hitting a target.
+The creations of this cantrip can also be used for mêlée attacks in a pinch.
+
+The weapons and projectiles created count as magical weapons for
+the purpose of overcoming resistances.
+
+Beginning at 5th level, you create two projectiles, at 11th level you create
+three, and at 17th level you create four.
+
+<div class='descriptive'>
+Credit: Everything Narrative
+</div>
+
+\page
+#### Color Spray (Alternate version)
+
+_1st-level illusion_
+
+----
+
+**Casting time:** 1 action  
+**Duration:** 1 minute  
+**Range:** self  
+**Components:** TK  
+**Available to:**  
+
+Roll 3d10. Creatures within a 30 foot cone originating from your position with
+less hit points than the number rolled must make your choice of Dexterity or
+Constitution saving throws. On a failed save, the creature is blinded until the
+until the spell ends. Creatures affected can end the effect by standing still for the
+duration of their turn and spending their action on waving away the
+illusory motes of light and rubbing their eyes.
+
+Creatures with blindsight, or which are immune to the blinded condition are not affected.
+
+_At higher levels:_ When you cast this spell from a 2nd level slot or higher, increase
+the dice rolled to determine hit points threshold for affected creatures by 1d10 per spell slot
+level above 1st.
+
+<div class='descriptive'>
+Original formulation, with rolling to affect HP totals, is a historical artifact.
+This is an alternate version for those who like that sort of thing.
+</div>
+
+&nbsp;
+
+&nbsp;
+
+> ##### Analysing spells
+
+> When another creature casts a spell, analysing the spell cast to discern its
+> nature, requires an Intelligence (Arcana) check. Performing this analysis is
+> a free action.
+
+> On a success you learn the spell's school and level, as well as information
+> about the spell to the extent that you are familiar with it, at the dungeon
+> master's discretion.
+
+> Recognizing an ongoing spell effect without seeing the initial casting may
+> impose advantage or disadvantage as appropriate. The destructive wake of a
+> _fireball_ makes it obvious what was cast, while the effects of _enhance
+> ability_ may not be so readily apparent.
+
+> ----
+
+> Should you fail this analysis check, you may still use _counterspell_ or _dispel magic_ but you
+> will have to _guess_ at the appropriate level of spell slot to use!
+
+```
+```
+
+#### Counterspell (Alternate)
+
+_3rd-level abjuration_
+
+----
+
+**Casting time:** 1 reaction, which is taken when you see a creature within range  
+casting a spell  
+**Range:** 60 feet  
+**Components:** S  
+**Duration:** Instantaneous  
+**Available to:** Sorcerer, Warlock, Wizard
+
+You attempt to interrupt a creature in the process of casting a spell.
+
+If the spell is of 3nd level or below, the spell fails immediately and
+outright. If the spell is of 4th, or 5th level, the caster must make a save
+with their spellcasting ability. On a success they maintain
+control of the spell, and cast successfully; on a failure their spell fails.
+If the spell is of 6th level or higher, it is too powerful to counter, and the
+counterspell itself fails
+
+_At higher levels:_ if you cast this spell from a spell slot of 4th level or
+higher, the spell levels that this spell can affect, increase by one for each
+spell slot level beyond 3rd (so cast from a 4th level spell slot, a spell of 
+4th level or lower fails outright, while a 5th or 6th level spell gets a save,
+and 7th level spells and above are unaffected.)
+
+
+
+&nbsp;
+
+<div class='descriptive'>
+The original wording relied on passing a skill check, with DC determined
+by spell level, which is unorthodox. This version imposes a save — most casters
+are proficient in the saves with their spellcasting ability — and has a hard cap on
+max spell level which is raised by upcasting.
+
+Also changed the spell-recognition rules to be sensible, a la passive perception being
+a lower bound for perception checks.
+</div>
+
+\page
+#### Crown of Madness (Buffed)
+
+_2nd-level enchantment_
+
+----
+
+**Casting time:** 1 action  
+**Range:** 120 feet  
+**Components:** V, S  
+**Duration:** Concentration, up to 1 minute  
+**Available to:** Bard, Sorcerer, Warlock, Wizard  
+
+One creature of your choice that you can see within range must succeed on a
+Wisdom saving throw or become charmed by you for the duration. While the target
+is charmed in this way, a twisted crown of jagged iron appears on its head, and
+a madness glows in its eyes. Creatures with a challenge rating higher than 1 have advantage on this save,
+creatures with a challenge rating higher than 2 automatically succeed.
+
+On the creature's turn, you can use your reaction to mentally command the charmed
+target to use its action to make a weapon attack — ranged or mêlée — against a
+creature other than itself that you mentally choose. If the target you pick isn't within range,
+the charmed creature is compelled to take the most direct route to the target.
+You cannot specify a target it cannot move to and reach with an attack within its turn.
+
+The target can act normally on its turn if you do not use your reaction to command it,
+and make a Wisdom saving throw at the end of each of its turns; this
+saving throw is unaffected by the creature's challenge rating. On a success, the spell ends.
+
+_At higher levels:_ when cast as a 3rd level spell or higher, the CR threshold for advantage
+on the initial saving throw, and the maximum challenge rating of creatures that can be affected increase by
+one for each spell slot level beyond 2nd.
+
+<div class='descriptive'>
+Requiring an action and concentration to maintain control is prohibitively expensive
+in the action economy, when you could be casting damage cantrips.
+</div>
+
+#### Dancing Lights (Buffed)
+
+_Evocation cantrip_
+
+----
+
+**Casting time:** 1 action  
+**Duration:** 1 minute  
+**Range:** 120 feet  
+**Components:** V, S, M (Bit of phosphorous/wychwood, or a glow worm)  
+**Available to:** Bard, Sorcerer, Wizard  
+
+You create up to four torch-sized lights within range. Each light sheds dim
+light in a radius of up to 20 feet. You choose what color the lights are, and
+how they appear: as glowing balls of light, flying flames, small golden birds,
+or similar. As a bonus action, you can direct all the lights to move as you
+please within range, and also change their appearance and color.
+
+You can also when casting or as a bonus action collect the four lights into
+a vaguely humanoid or bestial form of medium size. You decide the appearance
+of this form as well, and it can move like the lights, imitating gait or
+mannerisms in a crude fashion.
+
+You can dismiss any number of lights as a free action, and retain existing lights
+when you cast this spell anew. When lights are dismissed, they go out with an effect
+of your choosing: simply winking out, giving a small flash of light, a shower of
+sparks, or similar.
+
+The number of lights you can create increase by four at 5th level (eight), 11th
+level (twelve), and 17th level (sixteen). Four lights come together to form a
+figure of medium size; eight lights can combine into a figure of large size;
+sixteen lights can combine into a figure of huge size.
+
+<div class='descriptive'>
+Dancing lights is a social cantrip, used to play tricks on people in the 
+dead of night, plus some utility.
+</div>
+
+#### Dispel Magic (Alternate)
+
+_3rd-level abjuration_
+
+----
+
+**Casting time:** 1 action  
+**Range:** 120 feet  
+**Components:** V, S  
+**Duration:** Instantaneous  
+**Available to:**  
+
+Choose any creature, object affected by a spell within range,
+or a magic effect within range created by a spell.
+
+Any the spell is of 3nd level or below immediately ends.
+If the spell is of 4th, or 5th level, the caster must make a save
+with their spellcasting ability. On a successful saving throw they maintain
+the spell, and the effect persists; on a failure their spell ends.
+If the spell is of 6th level or higher, it is too powerful to dispel, and the
+the dispelling itself fails.
+
+_At higher levels:_ if you cast this spell from a spell slot of 4th level or
+higher, the spell levels that this spell can affect, increase by one for each
+spell slot level beyond 3rd (so cast from a 4th level spell slot, a spell of 
+4th level or lower fails outright, while a 5th or 6th level spell gets a save,
+and 7th level spells and above are unaffected.)
+
+<div class='descriptive'>
+The original wording relied on passing a skill check, with DC determined
+by spell level, which is unorthodox. This version imposes a save — most casters
+are proficient in the saves with their spellcasting ability — and has a hard cap on
+max spell level which is raised by upcasting.
+</div>
+
+\page
+#### Druidcraft (Fluffed)
+
+_Enchantment cantrip_
+
+----
+
+**Casting time:** 1 action  
+**Range:** 300 feet  
+**Components:** M (dirt or rock from less than 100 miles away)  
+**Duration:** Up to 10 minutes  
+**Available to:** Druid  
+
+Whispering to the spirits of nature, you persuade them to make your druidic
+nature known to all around you, or aid you in a minor way. The effects created
+by this spell are harmless and have no combat utility. Examples include:
+
+- Buds and flowers to bloom and open around you, and small withered
+  plants are revitalized.
+- Grass and small vegetation withers, flowers fall apart, and leaves
+  on trees turn brown.
+- Flowers and grass and butterflies erupt where you step.
+- Small vegetation you tread on immediately dies.
+- A fallen treetrunk or a nearby corpse sprouts musrooms.
+- Growing vines emerge from your sleaves and wrap themselves around
+  your arms and staff.
+- Leaves or feathers appear in your hair.
+- Slug slime glistens on your skin.
+- Insects crawl from your nostrils and mouth.
+- A harmless squall whips up loose sand, leaves, or flower petals to
+  dance on the wind.
+- The wind to suddnely picks up to a squall, or abades entirely.
+- Wild animals appear in the area to watch from a safe distance.
+- A murder of crows converge on your location.
+- The area fall dead silent, quieting even the rustling of trees.
+- The area erupt in a cacophony as every animal capable of making
+  noise does.
+- A single distinctive animal call sounds in the distance.
+- Wonderful scents of flowers, sea breeze, or honey fill the air.
+- Putrid stench and noxious fumes fill the air.
+- Fires no larger than a medium-sized bonfire either lights or
+  snuffs out.
+- You know with certanity what the local weather will be for the next few days.
+- You know what kind of beasts love locally and what plants can be found.
+- You know the most direct way to a source of fresh water, or other generic geographic feature.
+
+You can dismiss any ongoing effect as a free action. If you attempt to interact
+with a mindless creature using this spell, it remains shy and suspicious on a
+successful Charisma saving throw.
+
+As your level increases, you can have more ongoing effects active at the
+same time, at the DM's discretion.
+
+<div class='descriptive'>
+PHB description is pitiful and off-putting. Druidcraft is _the definitive druid RP spell_.
+Also changed school to enchantment, because it is about entreating with spirits, not conjuring
+cheap tricks. Also changed component to material only.
+</div>
+
+```
+```
+
+#### Goodberry (Nerfed)
+
+_1st-level transmutation_
+
+----
+
+**Casting time:** 1 minute  
+**Range:** touch  
+**Components:** V, S, M (a sprig of mistletoe which is consumed)  
+**Duration:** instantaneous  
+**Available to:** Druid, Ranger  
+
+Up to ten berries appear in your hand and are infused with magic for the
+duration. A creature can use its action to eat one berry. Eating a berry
+restores 1 hit point, and the berry provides enough nourishment to sustain a
+creature for one day.
+
+The berries lose their potency if they have not been consumed within 24 hours
+of the casting of this spell.
+
+<div class='descriptive'>
+Now consumes its material component: forage for food, or forage for mistletoe.
+</div>
+
+#### Grease (Buffed)
+
+_1st-level conjuration_
+
+----
+
+**Casting time:** 1 action  
+**Duration:** 1 minute  
+**Range:** 60 feet  
+**Components:** V, S, M (bit of pork rind, or a bit of butter)  
+**Available to:**  
+
+Grease covers a 10 foot square area of ground within range. It is difficult
+terrain for the duration, and any creature ending their turn on the affected area or
+standing there when the spell takes effect, must make a Dexterity saving throw. On
+a failed saving throw, it falls prone.
+
+The area can also be an equivalent number of 5 foot squares, so long as they are contiguous; it also
+need not be on the ground. If a vertical surface or a ceiling is covered, the area is considered
+difficult terrain with regards to climbing. Creatures climbing on the affected surface
+must make Dexterity saving throws in the same manner as above, on a failed saving throw they
+loose grip and fall down.
+
+Alternately, Grease can be used to cover a medium creature within range. The creature must
+make a Dexterity saving throw. On a failed saving throw, thre creature is covered in grease.
+Whenever the affected creature is moved against their will, such as by a shove attack or the _thunderwave_
+spell, they move twice as far. On the end of its turn, the affected creature must make a Dexterity
+saving throw. On a failed saving throw, the creature falls prone if standing, or falls down if climbing.
+
+_At higher levels:_ when you cast this spell from a 2nd level spell slot or higher, the square area
+you can affect increases by 5 feet on a side for each spell slot level beyond 1st. Additionally,
+you can target one additional medium creature within range for each spell slot level beyond 1st.
+Whenever you can target two medium creatures, you can choose to target one large creature instead;
+and the same holds for two large and one huge creature, and two huge and one gargantuan creature.
+
+<div class='descriptive'>
+Added progression, the ability to grease climbable walls, and creatures themselves.
+</div>
+
+\page
+#### Hold Person (Buffed)
+
+_2nd-level enchantment_
+
+----
+
+**Casting time:** 1 action  
+**Range:** 60 feet  
+**Components:** V, S, M (a small, straight piece of iron)  
+**Duration:** 1 minute  
+**Available to:** Bard, Cleric, Druid, Sorcerer, Warlock, Wizard  
+
+Choose a humanoid that you can see within range. The target must succeed on a
+Wisdom saving throw or be paralyzed for the duration. At the end of each of its
+turns, the target can make another Wisdom saving throw. On a success, the spell
+ends on the target.
+
+_At higher levels:_ When you cast this spell using a spell slot of 3rd level or
+higher, you can target one additional humanoid for each slot level above 2nd.
+The humanoids must be within 30 feet of each other when you target them.
+
+<div class='descriptive'>
+The concentration requirement is slightly redundant, as the continued saves
+breaks most anyone free in a few rounds. With concentration, this spell is much more
+limited in utility for e.g. War clerics.
+</div>
+
+#### Light (Buffed)
+
+_Evocation cantrip_
+
+----
+
+**Casting time:** 1 action  
+**Range:** touch  
+**Components:** V, S, M (A firefly or glowing moss)  
+**Duration:** 1 hour  
+**Available to:** TK  
+
+You touch one object that is no larger than 10 feet in any dimension, or a
+larger or smaller creater. Until the spell ends, the object sheds bright light
+in up to a 30-foot radius and dim light for up to an additional 30 feet. The
+light can be colored as you like, pulse, strobe, and gradually change color.
+Not all parts of the creature or object need glow the same way.
+
+The target object can also be up to ten gallons of liquid. The light cast
+by this liquid is not enough to be useful as dim light, but it can be spread on
+surfaces or objects to mark them visibly in darkness.
+
+Completely covering the object with something opaque blocks the light. The
+spell ends if you cast it again or dismiss it as a free action.
+
+If you target an object held or worn by a hostile creature, you must make a
+mêlée spell attack against the creature. On a hit, the creature or its
+equipment begins glowing as per the effects of this spell. A glowing creature,
+or a creature holding a glowing object, gets no benefit from taking the hide
+action in combat, or from being invisible.
+
+You can make one additional object or creature glow when you reach 5th level,
+and again at 11th and 17th level.
+
+<div class='descriptive'>
+Light is a useful dungeoneering spell, circumventing the need for torches, and at
+the same time enabling some sweet raves. The progression allows for splitting the party! (Never a good idea.)
+</div>
+
+```
+```
+
+#### Mage Armor (Nerfed)
+
+_1st-level abjuration_
+
+----
+
+**Casting time:** 1 action  
+**Range:** touch  
+**Components:** V, S, M (a piece of cured leather)  
+**Duration:** 8 hours  
+**Available to:** Sorcerer, Wizard  
+
+You touch a willing creature who isn’t wearing armor, and a protective
+magical force surrounds it until the spell ends. The target’s base AC becomes
+13 + its Dexterity modifier. The spell ends if the target dons armor or if you
+dismiss the spell as an action. The spell also ends if the protected creature
+is hit by an attack that is a critical hit.
+
+_At higher levels:_ when you cast this spell using a spell slot of 2nd level
+or higher, the protection can resist an additional critical hit for each spell level
+beyond 1st.
+
+<div class='descriptive'>
+Armor is a very significant part of D&D and Mage Armor breaks that a little.
+Critical hits breaks mage armor; this makes casters more vulnerable, but not uselessly so.
+</div>
+
+#### Melf's Whistling Dart (New)
+
+_1st-level transmutation_
+
+----
+
+**Casting time:** 1 action.  
+**Components:** V, M (a pointed projectile)  
+**Range:** 120 feet  
+**Duration:** Concentration, up to one minute  
+**Available to:** Bard, Ranger, Wizard  
+
+You imbue a dart or other projectile with automotive force, and control it by
+whistling. For the duration of the spell, so long as you can whistle unimpeded,
+the dart can be commanded to attack targets of your choice with great precision
+and speed. If any effect would prevent you from whistling, such as magical
+silence or more mundanely clapping a hand over your mouth, for more than one
+round, the spell ends.
+
+For the duration of the spell, as a bonus action, you can command the whistling
+dart to attack any creature you can see within range of the spell. You make a
+ranged spell attack against the target, and the dart deals its damage die plus
+your spellcasting modifier in magical piercing damage on a hit.
+
+The damage die of the whistling dart is determined by the projectile you
+used: a dart or dagger deals 1d4, an arrow or crossbow bolt deals
+1d6, a javelin deals 1d8, a spear or ballista bolt deals 1d10, and a 10 lb
+sharpened wooden stake, pike, lance, or glavie deals 1d12 damage. When the spell ends,
+the projectile is destroyed.
+
+_At higher levels:_ when you cast this spell using a 3rd level spell slot or
+higher, you imbue an extra dart for every two spell slot levels beyond 1st. You
+can command all the darts as a bonus action; make a separate attack roll for
+each dart; you can direct them to attack one creature or several.
+
+<div class='descriptive'>
+Credit: Everything Narrative, inspired by Yondu from Guardians of the Galaxy
+</div>
+
+\page
+#### Message (Buffed)
+
+_Transmutation cantrip_
+
+----
+
+**Casting time:** 1 action  
+**Components:** V, S, M (a piece of copper wire)  
+**Range:** 120 feet  
+**Duration:** 1 round  
+**Available to:** TK  
+
+You point your finger toward a creature within range and whisper a message. The
+target (and only the target) hears the message and can reply in a whisper that
+only you can hear.
+
+You can cast this spell through solid objects if you are familiar with the
+target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1
+inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell.
+The spell doesn't have to follow a straight line and can travel freely around
+corners or through openings.
+
+The range of this spell increases to 300 feet when you reach 5th level,
+to 750 feet when you reach 11th level, and to 2000 feet when you reach 17th level.
+
+<div class='descriptive'>
+Added range progression.
+</div>
+
+#### Nystul's Magical Aura (Nerfed)
+
+_2nd-level illusion_
+
+----
+
+**Casting time:** 1 action  
+**Components:** V, S, M (a small square of silk)  
+**Range:** Touch  
+**Duration:** 24 hours  
+**Available to:** Wizard  
+
+You place an illusion on a creature or an object you touch so that divination
+spells reveal false information about it. The target can be a willing creature
+or an object that isn’t being carried or worn by another creature.
+
+When you cast the spell, choose one or both of the following effects. The
+effect lasts for the duration. If you cast this spell on the same creature or
+object every day for 30 days, placing the same effect on it each time, the
+illusion lasts until it is dispelled.
+
+***False Aura.*** You change the way the target appears to spells and magical
+effects, such as _detect magic_, that detect magical auras. You can make a
+nonmagical object appear magical, a magical object appear nonmagical, or change
+the object’s magical aura so that it appears to belong to a specific school
+of magic that you choose. When you use this effect on an object, you can make
+the false magic apparent to any creature that handles the item.
+
+***Mask.*** You change the way the target appears to spells and magical effects
+that detect creature types, such as a paladin’s Divine Sense or the trigger
+of a symbol spell. You choose a creature type and other spells and magical
+effects treat the target as if it were a creature of that type or of that
+alignment.
+
+On a successful Intelligence saving throw, anyone using a magical means of
+detection on the affected object or creature will know the information to
+be false, but not gain any true information.
+
+<div class='descriptive'>
+Allowing an Int save to know it is deceptive makes this spell good, but not godly.
+</div>
+
+```
+```
+#### Poison Spray (Buffed)
+
+_Conjuration cantrip_
+
+----
+
+**Casting time:** 1 action  
+**Components:** V, M (a pinch of paprika)  
+**Range:** 20 feet  
+**Duration:** Instantaneous  
+**Available to:** Druid, Sorcerer, Warlock, Wizard  
+
+You turn toward a creature you can see within range and project a
+stream of aerosolized noxious toxins from your mouth. The creature must succeed
+on a Constitution saving throw or take 1d12 poison damage.
+
+Alternately, you can alter the composition of toxins to be incapacitating
+rather than deadly. The creature must succeed on a Constitution saving throw or
+gain the poisoned condition until the end of their next turn. The poisoned creature can repeat the
+Constitution saving throw on the end of each of its turns, and the effect
+ends on a success.
+
+This spell’s damage increases by 1d12 and the duration of the poisoned effect increases by 1 round,
+when you reach 5th level (2d12, 2 rounds), 11th level (3d12, 3 rounds),
+and 17th level (4d12, rounds).
+
+<div class='descriptive'>
+Poison resistance is extremely common, so a buff is needed. Poisoned immunity is
+also common, but it is good with a non-lethal option anyway. Doubled range, removed somatic
+component in favor of hidden-joke material, and made it a _spitting_ spell, because that is funny.
+
+It's a magical pepper spray.
+</div>
+
+\page
+#### Prestidigitation (Fluffed)
+
+_Conjuration cantrip_
+
+----
+
+**Casting time:** 1 action  
+**Components:** V, S  
+**Range:** 10 feet  
+**Duration:** 1 hour  
+**Available to:** Bard, Sorcerer, Warlock, Wizard  
+
+You cause a minor magical trick to affirm your ability to do magic to any
+onlookers, perform small menial tasks, or change minor things. The effects
+created by this spell are harmless and have no combat utility. Examples
+include: hange the apparent color and surface appearance of any object or part
+of an object within range, the effect is illusory and disappears when the spell
+ends.
+
+- You light or snuff a fire no larger than a medium-sized bonfire.
+- You chill or warm a person to fend off hot or cold
+  weather respectively.
+- You chill or warm a beverage or meal turning cold porridge or tea
+  piping hot, or lukewarm beer ice cold.
+- You create odors of your choice, pleasant ones such as perfume,
+  fresh baking, or sea breeze, or noxious ones such as flatulence,
+  rot, or sulfur.
+- You can alter the taste of foodstuffs, adding aromas and spices,
+  sweetening bitter things, bittering sweet things, or salting to
+  taste an unsalted steak. You cannot alter the nutritional value of a
+  meal this way, and you cannot wholly change the taste of food, any
+  more than you could if you had cooked it with access to all the
+  world’s spices and additives.
+- You clean up soiled or soaked clothes and objects, making them neat,
+  dry, and clean.
+- You splash cojured mud, water, urine or other liquid, or otherwise
+  soul an object.
+- You create a small visual effect like crackling electricity, a
+  shower of sparks, or a miniature dancing aurora.
+- You create a sound effect like an animal call or the chiming of
+  a bell.
+- You conjure marks, small symbols, a splotches color, or a short
+  written text on an object; if the object normally receptive to
+  writing, such as a piece of parchment, it is permanent. If not, it
+  disappears when the spenn ends.
+- You create small items of poor quality, such as paper flowers,
+  colored handkerchiefs, or glass marbles, which disappear when the
+  spell ends.
+- You manipulate the wind to make feathers, leaves or paper scraps
+  dance on it, or blow at an object no stronger than you could with
+  your lungs and mouth.
+- You move small items such as a coin or a game piece by telekinesis,
+  no faster than you could by hand.
+
+```
+```
+
+- You make a broom levitate and begin sweeping — though without your
+  guidance it does so without a method to it.
+- You make clothes fold themsleves, or a deck of playing cards shuffle
+  and deal itself.
+- You make a set of tools fly back into their tool box, a lenght of
+  rope coil itself, or adventuring gear pack itself in a backpack.
+
+You can dismiss any ongoing effect as a free action. If you attempt to fool
+a creature with this spell, the creature sees through the trickery on a
+successful Intelligence save.
+
+As your level increases, you can have more ongoing effects active at the
+same time.
+
+<div class='descriptive'>
+PHB description is pitiful and off-putting. Prestidigitation is _the definitive arcane RP spell_.
+A wizard is clean, warm, dry, eating hot soup and drinking cold ale, while 20 miles out of town
+and a hundred feet underground in a damp cave.
+</div>
+
+#### Produce Flame (Reworked)
+
+_Conjuration cantrip_
+
+----
+
+**Casting Time:** 1 bonus action  
+**Range:** self  
+**Duration:** 10 minutes  
+**Components:** V, S  
+**Available to:** Druid  
+
+A flame appears in your hand. The flame remains there for the duration and
+harms neither you or your equipment. The flame sheds bright light in up to a
+20-foot radius and dim light for up to an additional 20 feet. You can decide
+the color, size, and appearance of the fire, such as making the flame green,
+or make them billow downwards instead of up.
+
+The spell ends if you dismiss it as a free action or if you cast it again.
+
+The flame itself is almost a physical object. You can 'put it down' on a
+surface, although it goes out if you spend minute more than 10 feet away from
+it. The flame can also be used to ignite objects that aren't being worn or
+carried, but doesn't cause fires unless you do so deliberately.
+
+You can also use it as a weapon. You can throw it as if it was a weapon with
+the _thrown_ and _ranged (20/60)_ properties. Use your spell casting ability instead
+of Dexterity when you make this attack. It deals 1d8 fire damage on a
+hit, causing the spell to end. 
+
+The damage of the flame increases by 1d8 at 5th level, and again at 11th and 17th level.
+
+<div class='descriptive'>
+Increased light-radius, changed casting time, and attack mechanic.
+</div>
+
+\page
+#### Sleep (Alternate Version)
+
+_1st-level enchantment_
+
+----
+
+**Casting Time:** 1 action  
+**Range:** 90 ft  
+**Components:** V, S, M (A pinch of fine sand, rose petals, or a cricket)  
+**Duration:** 1 minute  
+**Available to:** Bard, Sorcerer, Wizard  
+
+Roll 2d8. Creatures within a 15 foot sphere with less hit points than the
+number rolled must make your choice of Charisma or Wisdom saving throws. On a failed save, the creature
+falls unconscious until the spell ends. Affected creatures wake up if they take
+any damage, or if someone uses an action to slap them awake.
+
+Undead, creatures immune to the charmed condition, and creatures that otherwise cannot
+be put to sleep by magical means are immune to this spell.
+
+_At higher levels:_ When you cast this spell from a 2nd level slot or higher, increase
+the dice rolled to determine hit points threshold for affected creatures by 1d8 per spell slot
+level above 1st.
+
+<div class='descriptive'>
+Original formulation, with rolling to affect HP totals, is a historical artifact.
+This is an alternate version for those who like that sort of thing.
+</div>
+
+#### Shield (Nerfed)
+
+_1st-level conjuration_
+
+----
+
+**Casting time:** 1 reaction which you take when you hit by an attack  
+or targeted by the _magic missile_ spell  
+**Range:** self  
+**Components:** V, S  
+**Duration:** 1 round  
+**Available to:** Sorcerer, Wizard
+
+An invisible barrier of magical force appears and protects you. Until the start
+of your next turn, you have a +5 bonus to AC, including against the triggering
+attack, and you take no damage from the bolts the spell _magic missile_.
+
+After you are targeted by three attacks or become the target of three _magic
+missile_ bolts, the spell ends.
+
+_At higher levels:_ when you cast this spell from a spell slot of 2th level or
+higher, the spell provides protection from one additional attack or magic bolt.
+
+<div class='descriptive'>
+Restricted to a set number of attacks, matching the number of bolts produced
+by magic missile. This is to prevent a Wizard from throwing one up when twenty
+goblins trail their crossbows on her and walking away unscathed.
+</div>
+
+```
+```
+#### Spare the Dying (Buffed, Rework)
+
+_Necromancy cantrip_
+
+----
+
+**Casting time:** 1 bonus action OR 1 reaction which you take when a creature in  
+range falls to 0 hp  
+**Range:** 10 feet  
+**Components:** V  
+**Duration:** instantaneous OR 1 week  
+**Available to:** Cleric
+
+This cantrip has several effects.
+
+***Spare Death.*** You speak a prayer for the survival of a living creature that has fallen to
+0 hp. The creature becomes stable and recovers 1 HP in 1d4 hours as usual.
+
+This effect escalates at 5th level, where the target returns to 1 HP after 1d4 minutes,
+again at 11th level, where the target returns to 1 HP after 1d4 rounds, and 17th level,
+where the target returns to 1 HP immediately.
+
+***Mercy Kill.*** You speak a prayer of last rites for a living creature that has 0 hp.
+The creature beings dying and must make its subsequent death saving throws at
+disadvantage.
+
+This effect escalates at 5th level, where the target suffers a failed death saving
+throw immediately, at 11th level (two failed saves)
+at disadvantage, and 17th level (three failed saves --- death).
+
+***Last Rites.*** Alternatley, you may speak a prayer for the protection from necromancy of a
+dead creature. Upon becoming undead before the end of one week, the creature immediately
+takes 1d12 radiant damage. This protection can be undone with _dispel magic_.
+
+This effect's damage increases by 1d12 when you reach
+5th level (2d12), 11th level (3d12), and 17th level (4d12). The duration increases
+as well, when you reach 5th level (1 month), 11th level (1 year), and 17th level (permanent).
+
+<div class='descriptive'>
+Original was a glorified Healer's kit. Added range, more options, still highly situational.
+</div>
+
+#### Stinger (New)
+
+_Conjuration cantrip_
+
+----
+
+**Casting time:** 1 action  
+**Range:** 60 feet  
+**Components:** V, M (a thorn, barb, or stinger from an animal or plant, at least 2 inches in length)  
+**Duration:** instantaneous  
+**Available to:** Druid  
+
+You spit a toxin-coated, barbed stinger made of bone. Make a ranged spell attack against a creature within
+range. On a hit, 1d4 piercing damage, and the stinger is stuck. On the
+end of each of the creature's turns, they take 1d4 poison damage for each spine stuck in them.
+
+The target creature can remove 1d6 stingers by using their action. This can
+only be done if it has jaws or hands that can reach and grasp it.
+
+This number of stingers lauched increases by one when you reach 5th level, to a total of
+two, and again at 11th (three) and 17th level (four). You make one attack roll for all the
+stingers launched, and can only target one creature.
+
+<div class='descriptive'>
+Credit: Everything Narrative
+
+Spitting spells are hilarious.
+</div>
+
+\page
+#### Tenser’s Submarine Sphere (New)
+
+_5th-level abjuration (ritual)_
+
+----
+
+**Casting time:** 1 minute  
+**Range:** touch  
+**Duration:** 1 hour  
+**Components:** V, S, M (a sample of water and a small hollow glass sphere  
+which costs 2gp from a glass blower; both of which the spell consumes)  
+**Available to:** Wizard
+
+You touch a willing creature. Until the effect ends, one large body of water
+from which the material component was taken (such as a river, lake, or an
+ocean) will recede from the target creature, creating an air bubble around
+them. The air bubble never runs out of breathable air, despite being only
+a 5 foot radius sphere, centered on the creature. The creature can walk on
+the river-, lake- or sea bed as if it was dry land, and will fall at 60 feet
+per round through the water, should they jump in where they cannot reach the
+bottom.
+
+If a creature is submerged when the spell ends, they take damage as the water
+rushes in to fill the hollow created by the sphere. The creature takes falling
+damage as if it had fallen from a height equal to the depth at which it is
+submerged, and now finds itself at the predicament of being potentially very
+deep under water.
+
+_At higher levels:_ when you cast this spell from a spell slot of 6th level or
+higher, you may either extend the duration by one hour, or the radius of the
+sphere by 5 feet, for each spell slot level above 5th.
+
+<div class='descriptive'>
+Credit: Everything Narrative. Inspired by _The Wizard of Donkerk._
+</div>
+
+#### Tenser's Transformation (Fixed)
+
+_6th-level transmutation_
+
+----
+
+**Casting time:** 1 action  
+**Range:** Self  
+**Components:** V, S, M (a few hairs from a bull)  
+**Duration:** Concentration, up to 10 minutes  
+**Available to:** Wizard  
+
+You endow yourself with endurance and martial prowess fueled by magic. Until
+the spell ends, you can’t cast spells, and you gain the following benefits:
+
+```
+```
+
+- You gain 50 temporary hit points. If any of these remain when the
+  spell ends, they are lost.
+- You have advantage on attack rolls that you make with simple and
+  martial weapons. When you hit a target with a weapon attack, that
+  target takes an extra 2d12 force damage.
+- You have proficiency with all armor, shields, simple weapons, and
+  martial weapons. You can don and doff any armor in 1 action.
+- You have proficiency in Strength and Constitution saving throws, and
+  advantage on Constitution saving throws to avoid
+  losing concentration.
+- You attack twice, instead of once, when you take the Attack action
+  on your turn. You ignore this benefit if you already have a feature,
+  like Extra Attack, that gives you extra attacks.
+
+Immediately after this spell ends, you must succeed on a DC 15 Constitution
+saving throw or suffer one level of exhaustion.
+
+<div class='descriptive'>
+Donning plate takes 10 minutes; the entire duration of the spell! Now you
+can suit up Iron-man style.
+</div>
+
+#### True Strike (Buffed)
+
+_Divination cantrip_
+
+----
+
+**Casting time:** 1 action  
+**Range:** 300 feet  
+**Components:** S  
+**Duration:** 1 round  
+**Avaiable to:** Bard, Sorcerer, Warlock, Wizard  
+
+You extend your hand and point a finger at a target in range. Your magic grants
+you a brief insight into the target’s defenses. Until the end of your next turn, you may gain
+advantage on one attack roll of your choice against the target, provided that this
+spell hasn’t ended. After the affected attack roll has been made, the spell ends.
+
+This spell's maximum duration increases by 1 round when you reach 5th level (2 rounds),
+11th level (3 rounds), and 17th level (4 rounds).
+
+<div class='descriptive'>
+Mathematically worse than attacking twice.
+Added cantrip progression on duration, increased range, and made it possible to
+'pocket' the buff for a later big attack.
+</div>
+
+\page
+#### Thaumaturgy (Fluffed)
+
+_Transmutation cantrip_
+
+----
+
+**Casting time:** 1 action  
+**Range:** 30 feet  
+**Components:** V OR S  
+**Duration:** up to 1 minute  
+**Avaiable to:** Cleric  
+
+You call for a minor wonder to affirm your otherworldly backing to any
+onlookers, or perform very minor miracles. The effects created by this spell
+are harmless and have no combat utility. Examples include:
+
+- Your eyes glow with an unnatural gloom and color.
+- Your voice booms with terrible power and volume.
+- You appear to grow a foot or two in height so as to better tower
+  over others.
+- A halo glows behind your head, horns appear on your head, flowers
+  grow in your hair, or an ethereal-looking crown rests on your brow.
+- Smoke and sparks and a smell of sulfur erupts from your mouth as
+  you speak.
+- A powerful scent of incense fills the area.
+- Swirling fog follows your form, and within it strange faces and
+  shapes are visible.
+- Thunder booms in the distance to accentuate your words or actions.
+- An otherworldly unseen choir sings praise of your patron.
+- A nearby unlocked doors, trap door, or window shutters opens or
+  slams shut; if the locking mechanism or the crossbar on your side,
+  you can slam it shut and lock it at once.
+- The wind suddenly picks up and swirls around you.
+- The ground shakes, silverware falls off the table, light objects fall
+  off shelves, drawers move in and out, and cabinet doors open
+  and shut.
+- A fragile object that isn’t being worn or carried shatters as if you
+  had struck it.
+- Candle flames or a bonfire suddenly flares up, diminish, wafts
+  unnaturally, snuffs out, or ignites.
+- Glowing symbols appear in the air.
+- A large ghostly figure appears behind you, mirroring your movements.
+- Dirty water turns visibly pure, but poison and disease
+  within remains.
+- Water temporarily turns to wine for the duration of the spell, and
+  turns back into water unless drunk.
+- Milk and other perishable food spoils, or any food is rendered
+  filthy with flies and maggots.
+- Laying your hands on an injured creature eases their pain but
+  provides no healing and cures no ailment.
+
+You can dismiss any ongoing effect as a free action. If you attempt to cow
+a creature with this spell, the creature sees through the empty threat on a
+successful Wisdom saving throw.
+
+As your level increases, you can have more ongoing effects active at the
+same time.
+
+<div class='descriptive'>
+PHB description is pitiful and off-putting. Prestidigitation is _the definitive divine RP spell_.
+A cleric is a walking performer of miracles! Act like it!
+</div>
+
+#### Vagueness (New)
+
+_1st-level enchantment_
+
+----
+
+**Casting time:** 1 action  
+**Duration:** 1 hour  
+**Components:** V, S, M (a piece of frosted glass)  
+**Range:** 30 feet  
+**Available to:** Wizard, Bard, Sorcerer, Warlock  
+  
+Target creature capable of speech must succeed a Charisma saving throw every
+time they wish to communicate specific information, if they fail, they can only
+use vague and circumloquacious descriptions. Once they succeed three saving
+throws in a row, the effect ends. This spell doesn’t work on creatures that
+are immune to the charmed condition.
+
+_At higher levels:_ when you cast this spell from a 2nd level spell
+slot or higher, the duration doubles for each spell slot level beyond first.
+
+<div class='descriptive'>
+Credit: Everything Narrative
+
+Good alternative to killing witnesses.
+</div>
+
+#### Ventriloquy (New)
+
+_1st-level enchantment_
+
+----
+
+**Casting time:** 1 action  
+**Range:** 60 feet  
+**Components:** V, S  
+**Duration:** instantaneous  
+**Available to:** Bard, Sorcerer, Wizard  
+
+Target creature capable of speech must succeed a Wisdom saving throw or be
+compelled to speak a short phrase of your choice. This spell doesn’t work on
+creatures that are immune to the charmed condition.
+
+_At higher levels:_ when you cast this spell from a 2nd level spell
+slot or higher, you may enact the effect of the spell one additional
+time for each spell slot level beyond 1st. The multiple effects can play
+out simoultaneously or in sequence, and you may freely choose targets within
+range.
+
+<div class='descriptive'>
+Credit: Everything Narrative
+
+Good for making henchmen shout expletives at their boss, or make two people get
+into a heated argument.
+</div>
+
+\page
+#### Wall of Force (Altered)
+
+_5th-level evocation_
+
+----
+
+**Casting time:** 1 action  
+**Range:** 120 feet  
+**Components:** V, S, M (A pinch of powder made by crushing a clear gemstone)  
+**Duration:** Concentration, up to 10 minutes  
+**Available to:** TK  
+
+An invisible wall of force springs into existence at a point you choose within
+range. The wall appears in any orientation you choose, as a horizontal or
+vertical barrier or at an angle. It can be free floating or resting on a
+solid surface. You can form it into a number of shapes:
+
+- A hemispherical dome with a radius of up to 15 feet
+- A sphere with a radius of up to 10 feet
+- A cylinder with a radius of up to 10 feet and a height of up to 10 feet.
+  You can choose to leave open one of the ends of this cylinder, for and additional 5 feet of height.
+- A flat surface made up of up to twelve square panels each up to 10 feet on a side. Each
+  panel must be contiguous with another panel, but can meet at any angle either edge-to-edge or
+  edge-to-face.
+- A flat surface made up of up to six square panels each up to 15 feet on a side, same restrictions
+  apply.
+
+In any form, the wall is 1/4 inch thick. It lasts for the duration. If the wall
+cuts through a creature's space when it appears, the creature is pushed to one
+side of the wall (your choice which side).
+
+The wall counts as total cover for the purpose of targeting spells, even though you can see through it,
+and blocks harmful effects.
+
+The wall cannot be removed by _dispel magic_. A _disintegrate_ spell destroys the wall instantly, however.
+The wall also extends into the ethereal plane, blocking ethereal travel through the wall.
+
+_At higher levels:_ When you cast this spell from a spell slot of 6th level
+or above, the wall resists the _disintegrate_ spell unless it is cast from
+a higher spell slot than _wall of force_.
+
+If this spell is cast from a 7th level slot or higher, and the wall encloses a
+volume of space, it impedes interplanar travel and teleportation to and from
+the enclosed volume. Any creature attempting to use these means to enter or
+leave, must make a Charisma saving throw. On a success, the travel attempt
+proceeds without issue. On a failure, the travel attempt fails, and the
+creature wastes the use of the spell or effect.
+
+<div class='descriptive'>
+Supercedes Forcecage when cast at the same level,
+but no longer allows trapping creatures inside and pelting
+them with spells until dead.
+</div>
+
+```
+```
+#### Warding Bond (Buffed)
+
+_2nd-level abjuration (ritual)_
+
+----
+
+**Casting time:** 1 action  
+**Range:** touch  
+**Components:** V, S, M (a pair of engraved steel rings worth 1gp each,  
+which you and the target must wear for the duration)  
+**Duration:** Concentration, up to 1 hour  
+**Available to:** Cleric
+
+This spell wards a willing creature you touch and creates a mystic connection
+between you and the target until the spell ends. While the target is within 60
+feet of you, it gains a +1 bonus to AC and saving throws, and it has resistance
+to all damage. Also, each time the protected creature takes damage, you take
+the loose the same amount of hit points; this does not provoke Constitution
+saving throws to maintain concentration.
+
+The spell ends if you drop to 0 hit points or if you and the target become
+separated by more than 60 feet. It also ends if the spell is cast again on
+either of the connected creatures. You can also dismiss the spell as an action.
+
+_At higher levels:_ if you cast this spell using a 4th level spell slot or higher,
+the bonus to AC and saving throws increase by +1 for every two spell slot levels beyond 2nd.
+
+<div class='descriptive'>
+Clarified the damage-sharing rule, especially that the damage does not
+break concentration, added progression.
+</div>
+
+
+#### Water Breathing (Buffed)
+
+_3rd-level transmutation (ritual)_
+
+----
+
+**Casting time:** 1 action  
+**Range:** 30 feet  
+**Components:** V, S, M (a short piece of straw)  
+**Duration:** 8 hours  
+**Available to:** Druid, Ranger, Sorcerer, Wizard  
+
+This spell grants up to 10 willing creatures in range the ability to breathe
+underwater or in air, whichever they cannot naturally do, until the spell ends.
+Affected creatures also retain their normal mode of respiration.
+
+_At higher levels:_ casting this spell using a spell slot of 4th level or higher, you may
+increase the number of affected creatures by 5 for every spell slot level beyond 3rd.
+
+<div class='descriptive'>
+Reduced duration, but added progression, and the ability to make fish breathe air.
+</div>
+
+\page
+#### Witch Bolt (Buffed)
+
+_1st-level evocation_
+
+----
+
+**Casting time:** 1 action  
+**Range:** 30 feet  
+**Components:** V, S, M (A twig from a tree that has been struck by lightning)  
+**Duration:** Concentration, up to 1 minute  
+**Available to:** Sorcerer, Warlock, Wizard  
+
+A beam of crackling, blue energy lances out toward a creature within range,
+forming a sustained arc of lightning between you and the target. Make a ranged
+spell attack against that creature. On a hit, the target takes 1d12 lightning
+damage, and on each of your turns for the duration, you can use your bonus action to
+deal 1d12 lightning damage to the target automatically. The spell ends if you
+use your bonus action to do anything else. The spell also ends if the target is ever
+outside the spell’s range or if it has total cover from you.
+
+*At higher levels:* when you cast this spell using a spell slot of 2nd level or
+higher, the initial damage increases by 1d12 for each spell slot levels above 1st.
+
+<div class='descriptive'>
+Made continuation require merely a bonus action. It is very easy to break the connection due to the short
+range and required LOS, limiting the power of this spell. Good for stationary bosses!
+</div>

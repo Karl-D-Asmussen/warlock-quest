@@ -1,0 +1,6 @@
+
+Giants (Firbolg, Goliath, Longmen, Hill, Stone, Fire, Ice, Storm)
+'Lings (Tyflings, Faelings, Darlings)
+Smallfolk (Halflongs, Gnomes)
+Humans (Folk, Dwargs, Aulder)
+Orcs (Orcs, Matrons)

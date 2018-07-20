@@ -1,0 +1,298 @@
+
+# Class Feature Rework
+
+## Bard
+
+### Reserves of Inspiration
+
+_(New)_
+
+----
+
+At 15th level, your reserves of creativity allow
+you to use your bardic inspiration more often. Whenever you
+roll initiative and you have no uses of bardic inspiration left,
+you regain one use.
+
+
+### Unparalleled Wit
+
+_(Replaces the_ Superior Inspiration _feature)_
+
+----
+
+At 20th level, you embody the chronicle of all things.
+Your Charisma and Wisdom scores increase by 4. Your maximum for
+these scores is now 24.
+
+----
+
+<div class='descriptive'>
+The Bard's _Superior Inspiration_ feature is widely considered sub-par for
+a capstone. Bardic Inspiration by level 5 already recharges on a short rest,
+and doesn't quite meet the utility of other class resources. It is at best,
+an addition to spellcasting.
+
+It more closely resemble the superiority dice of the Fighter, which get
+an initiative-roll recharge at 15th level, and have the added benefit of
+being damage boosters.
+
+Thus, the new Bardic capstone resembles the Barbarian capstone. Bards are supposed
+to be incredibly perceptive and charismatic, and as a bonus you gain two additional
+uses of Bardic Inspiration, as well as a boost to spellcasting.
+</div>
+
+## Fighter
+
+### Action Surge
+
+_(Changed level for second use)_
+
+----
+
+Starting at 2nd level, you can push yourself beyond your normal limits for a
+moment. On your turn, you can take one additional action on top of your regular
+action and a possible bonus action.
+
+Once you use this feature, you must finish a short or long rest before you can
+use it again. Starting at 10th level, you can use it twice before a rest, but
+only once on the same turn.
+
+### Extra Attack
+
+_(Changed level for fourth attack)_
+
+----
+
+Beginning at 5th level, you can attack twice, instead of once, whenever you
+take the attack action on your turn.
+
+The number of attacks increases to three when you reach 11th level in this
+class and to four when you reach 17th level in this class.
+
+### Martial Pinnacle
+
+_(New)_
+
+----
+
+At level 20, you are the art of combat made flesh. When you roll initiative
+and have no uses left of your action surge feature, you regain one use.
+Alternately, if you have no uses left of your second wind, you may instead regain one
+use of that.
+
+Additionally, you regain one use of your Indomitable feature whenever you
+finish a short rest.
+
+----
+
+<div class='descriptive'>
+Cantrip progressions cleanly follow the tiers of play, but the Fighter gets
+short-changed on tier 4. A Warlock gets an extra Eldrich blast at 17, while the
+Fighter gets an additional use of Action Surge and Indomitable.
+
+Action surge is supposed to make up for the difference, but is a limited resource.
+The solution is to give the second Action Surge as the 10th level 'capstone' since most
+campaigns stall at 10th level.
+
+Action Surge utility ultimately scales with the number of Extra
+Attacks, and is supposed to let the fighter make up for the lack of powerful class features like
+the damage bonus from the Ranger's _Hunter's Mark_, or a Paladin's smites.
+
+The capstone is like many others, one that increases the availability of resources,
+instead of increasing lethality.
+</div>
+
+## Monk
+
+### Perfect Soul
+
+_(Added benefit)_
+
+----
+
+At 20th level, when you roll for initiative and have no ki points remaining,
+you regain four ki points.
+
+Additionally, if a feature has a ki cost of 1, you can ignore that cost.
+
+<div class='description'>
+The Monk capstone takes flak as well for being underpowered. The added benefit
+of this version lets a Monk perform their signature, peak-utility moves without
+needing to use Ki. More interesting and unconventional abilities still require ki
+expenditure as normal.
+</div>
+
+## Sorcerer
+
+### Sorcerous Restoration
+
+_(Added benefit)_
+
+----
+
+At 20th level, when you finish a short rest, you regain four sorcery points.
+
+Additionally, if a metamagic option has a sorcery point cost of 1, you can ignore that
+cost. You can also ignore the sorcery point cost of
+the _font of magic_ feature when you recover spell slots of 1st level; and the costs
+of recovering higher level spell slots is reduced by 1 sorcery point.
+
+<div class='description'>
+The Sorcery capstone has many of the same problems. Wizards get a free 1st and 2nd level
+spell, and one casting of one of two 3rd level spells. This addition on Sorcerers grants
+them power on par with that.
+</div>
+
+## Warlock
+
+### Endrich Invocations
+
+_(New additions)_
+
+#### Altered Blast
+
+_Prerequisite:_ eldrich blast _cantrip._
+
+----
+
+When you take this invocation, choose two damage types other
+than force damage. When cast _eldrich blast,_ you
+may specify the damage of all the damage rolls as one of these
+two chosen types instead of force damage.
+
+#### Imitation of Power
+
+Three spells of your choice from any spell list are now warlock spells to you.
+This includes cantrips and spells of 6th level or higher. If you replace this
+invocation with another, you must re-pick the spells you no longer have access to.
+
+#### Repetoire of Power
+
+You learn two additional spells for your pact magic spellcasting. If you
+replace this invocation with another, you must choose two spells to forget.
+You can take this invocation more than once.
+
+#### Vessel of Power
+
+You gain an additional spell slot for your pact magic spellcasting. You
+cannot take this eldrich invocation more than once.
+
+### Eldrich Master
+
+_(Reworked)_
+
+----
+
+At 20th level, when you roll for initiative and have no spell slots remaining,
+you regain one spell slot.
+
+Additionally, during a short rest, you can entreat your patron for aid. You
+regain the use of either your 6th or your 7th level mystic arcanum spell. Once you use this
+feature, you myst finish a long rest before you can use it again.
+
+<div class='description'>
+The additional invocations allow exchanging invocation slots for additional spellcasting,
+and allow cross-class utility like Bard.
+
+The capstone in the PHB occupies a grey area of utility. It mitigates resource scarcity,
+but has the odd-ball use time of _one minute_. Already, Warlock spell slots recharge on
+short rests; and between short rests lie only encounters. A one minute time makes it
+essentially useless in combat scenarios.
+
+To line up with other capstones, Warlocks get an initative-roll recharge. The flavor
+is shifted to restore the _mystic arcana_ resource instead.
+</div>
+
+## Optional Rules
+
+### Cantrip Casting for Ranger and Paladin
+
+Paladins and rangers learn a single cantrip at 2nd level,
+and another one at 9th level, and a third one at 17th level.
+
+Rangers choose cantrips from the following list:
+_dancing lights_, _guidance_, _mending_, _message_, _produce flame_, _primal savagery_, _resistance_, _true strike_.
+
+
+Paladins choose cantrips from the following list:
+_blade ward_, _guidance_, _light_, _mending_, _resistance_, _spare the dying_, _thaumaturgy_, _word of radiance_.
+
+&nbsp;
+
+> ##### Optional Rule
+> This is an optional rule, to give cantrips to every casting class.
+> The cantrip list for these two classes is kept short, and deliberately
+> free of powerful attack cantrips.
+>
+> _Primal savagery_ is in Xanathar's Guide to Everything. If this is unavailable, a similar cantrip 
+> of the same name was released in the Unearthed Arcana Starter Spells. _Poison spray_ is a suitable replacement
+> from the Player's Handbook.
+>
+> _Word of radiance_ is also in Xanathar's Guide to Everything. If this is unavailable, a similar cantrip called
+> _hand of radiance_ was released in the Unearthed Arcana Starter Spells. _Sacred flame_ is a suitable replacement
+> from the Player's Handbook.
+>
+> Each class gets 8 cantrips to choose from. Feel free to choose randomly by rolling a d8.
+
+&nbsp;
+
+### Downtime Retraining Cantrips, Known Spells, and More
+
+For spellcasters with cantrips and/or a set number of known spells such as Bard, Sorcerer, and Warlock,
+it is possible, through study, practice, deep meditation, or communing with
+one's patron, to change your known spells and cantrips. Retraining requires you
+to keep at least modest quality of living, and your cost of living is doubled for the
+duration. These expenses constitute the purchase of magical components, renting training
+equipment, and sending runners to do errands in your stead.
+
+During downtime, you can take a number of days to unlearn a spell and
+learn another spell from your class spell list. To do so, you must have had
+at least one week of leisure downtime to acclimate and decompress from the stress of
+adventuring. This week have normal living expenses; it is only when you begin retraining that
+your expenses increase. The number of days it takes to retrain a spell or magical feature varies by
+circumstance.
+
+- Retraining a known spell takes a number of days equal to ten times the spell level of
+  the spell you wish to learn. If you are interrupted in this process, you retain
+  the old spell.
+
+- You can also retrain a cantrip, which take fifty days per cantrip.
+
+- For Bards, retraining spells gained from Magical Secrets fall under the same
+rule, but are not subject to the limitation of falling within the Bard spell
+list.
+
+- For Warlocks, a similar mechanism applies to invocations, which each take
+thirty days plus ten times the level requirement of the invocation, rounded down.
+
+- For Sorcerers, retraining metamagic take seventy days per metamagic technique.
+
+- For Wizards, the spells chosen in the _spell mastery_ and _signature spells_ features
+can be retrained in a number of days equal twenty times the spell level.
+
+- For Eldrich Knights, you cannot alter the minimum number of spells from the
+_abjuration_ and _evocation_ schools. At 8th level, one spell you know may be from
+a different school, at 14th level, two, and at 20th level, three.
+
+#### Other Abilities
+
+Non-magical abilities can also be retrained:
+
+- The Battlemaster fighter archetype gets a set number of maneuvers. These too can be retrained,
+at a rate of twenty-five days per maneuver.
+
+- The Hunter ranger archetype gets a choice of features at 3rd, 7th, 11th, and 15th level. These
+  can be retrained to a different choice in twenty-five days.
+
+- Expertise of Rogues and Bards can be retrained in 250 days, as with the acquisition of proficiency  
+  with skills, languages, atisans' tools, instruments, or vehicles.
+
+&nbsp;
+
+> ##### Optional Rule
+> This is an optional rule, to get more use out of downtime
+> with regards to preparation for an adventure, while still
+> giving spell-preparing classes a clear advantage in versatility.
+
+&nbsp;

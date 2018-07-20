@@ -1,0 +1,63 @@
+
+# The Realistic and Expanded Combat Compendium
+
+## Fluff: The Semantics of Hit Points and Armor Class
+
+## Rule: Bloody Vulnerable
+
+## Rule: Power Attacks and Called Shots
+
+### Updated Feats: Sharpshooter, GWM, Grappler
+
+### New Feat: Versatile weapon master
+
+## Armor
+
+ARMOR IS CLOTHES
+GAMBESON OR BUST
+
+Disad on Steath is good, Always add full Dex
+
+Consequence of non-proficient:
+full speed
+cannot add Dex
+disad on Dex/Str save
+disad on attacks
+disad on Athl, Acro, Sleight, Perf (dance)
+
+Str reqs all odd
+Consequence of not meeting Strength Req:
+full speed
+forced march after 5 hours,
+Con save after battle against Exhaustion unless you take a short rest
+disad on Dex/Str save
+disad on Athl, Acro, Sleight, Perf (dance)
+
+## Weapons & Shields
+
+Non-proficient with shields: disad on attacks
+
+Shield: half cover, people behind you can get 3/4 cover
+Tower shield: half cover, bonus action to duck behind for 3/4 cover, people behind you can get full cover
+
+Not meeting STR req: disad on attack
+Two hands = +6 STR
+Str reqs all odd
+
+Armor rules
+
+Giant gambeson
+Giant boots
+
+Bows with strength
+
+Wingman's axeboots
+Flechettes
+
+Fairy razor
+Fairy needle
+
+GUNS
+
+TECH LEVELS
+

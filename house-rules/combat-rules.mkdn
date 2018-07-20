@@ -1,0 +1,73 @@
+
+# Combat Rules
+
+## Parallel Concentration
+
+Concentration is a limited resource. Being able to only concentrate on one spell
+is limiting, and having attacks break concentration renders casters vulnerable.
+
+But the idea that the difference between a 20th level Wizard and a 1st level Wizard is
+only in how hard to break their concentration, is a little ridiculous.
+
+The more powerful a spellcaster becomes, the more spells they are capable of concentrating
+on. The number of spells they can concentrate on, is dependent on their
+_tier_ of play.
+
+##### Play Tiers
+| Level | Tier |
+|:-----:|:----:|
+| 1–4   | 1    |
+| 5–10  | 2    |
+| 11–16 | 3    |
+| 17–20 | 4    |
+
+For most casters, the number of spells they can maintain concentration on is
+equal to their tier. For Rangers and Paladins, the number is _half_ their tier,
+rounded up. For Arcane Tricksters and Eldrich Knights, the number is _one
+third_ of their tier, rounded up.
+
+> ##### Stacking Spells
+>
+> For the most part, casting the same concentration spell twice on a target
+> does not confer additional benefits.
+
+If a caster concentrating on multiple spells is hit by an attack, and fail their
+Constitution save to maintain concentration, they loose concentration on _all_ spells.
+
+## Power Attacks and Called Shots
+
+When making an attack with a weapon you are proficient with,
+you can choose to forego adding your proficiency bonus to the attack roll
+in favor of adding it to the damage roll instead.
+
+Under certain circumstances, you may instead add _twice_ your proficiency bonus to damage:
+
+- When attacking with a martial weapon in general
+- Barbarians, Fighters, Rangers, Paladins, Valor College Bards, and War Domain Clerics when attacking
+  with simple weapons
+- Monks when attacking unarmed or with monk weapons
+- Rogues when attacking with finesse weapons
+- Warlocks when attacking with their blade pact weapon
+- Druids when Wildshaped
+- When attacking with a weapon covered by a “weapon mastery” feat such as _great weapon master_
+
+This rule can also be applied to a shove maneuver: as normal, the attack roll doesn't
+have proficiency bonus; instead the shoved creature moves 10 feet rather than 5 feet.
+
+If you can attack multiple times as part of your attack maneuver, such as with the Extra Attack
+class feature, you may forego one or more of your extra attacks. If you
+do so, you may add your proficiency bonus once more to any remaining attack, for each attack you
+forego.
+
+This extra proficiency bonus can be subtracted for use with the power attack rule, but only
+once per attack.
+
+> ##### Called Shot
+>
+> A power attack with a melee weapon is of course a reckless swing or lunge
+> focusing more on force behind the blow than striking the opening in the
+> enemy's defences.
+>
+> But you cannot simply draw a bow harder — the bow after all is only as
+> strong as its maximum draw weight. Instead, a ranged ‘power attack’ is a called
+> shot aimed at a vulnerable area.

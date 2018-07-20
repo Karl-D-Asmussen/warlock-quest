@@ -1,0 +1,34 @@
+
+# Game alterations
+
+In the interest of fairness for single-player play, the following rules apply:
+
+- Hit Dice are rerolled every level, but caps at Con mod or Prof bonus whichever is higher
+- Downtime is at least 1 week.
+- A long rest is 3 days.
+- A short rest is a night's sleep.
+- Training a skill takes two months, a tool takes one. Undedicated practice puts this at twice as long.
+
+# Warlock Buffs
+
+- Number of Invocations: Level/2 + 1
+- Spells known: Level + 1
+- Extra spell slot at 5th level
+- Extra cantrip at 1st level
+- _Message_ is a Warlock cantrip
+- Expanded spell list for each patron includes cantrips:
+  - Archfey: _Dancing Lights, Thorn Whip_
+  - Fiend: _Produce Flame, Shocking Grasp_
+  - Great Old One: _Light, Vicious Mockery_
+- Concentrate on a number of spells equal to Proficiency Bonus divided by 2
+- Extra feat at character creation, and later
+- Bonus action to quaff health potion.
+- _Healing Elixir_ creates health potions.
+
+# Spell Incantations
+
+- Hex: 'hex you'
+- Prestidigitation: 'sweet trick'
+- Thaumaturgy: 'wondertje'
+- Eldrich blast: 'pew'
+- Produce flame: 'woosh'

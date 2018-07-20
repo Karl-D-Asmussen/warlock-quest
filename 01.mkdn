@@ -277,7 +277,7 @@ sensible set of gear.
 >   gather information and gain trust among slaves.
 > - Bond: Wanted
 >
-> Feat gained! Skilled
+> Bonus feat gained! Skilled
 >
 > - Arcana
 > - History
@@ -296,7 +296,7 @@ sensible set of gear.
 > - Pact Magic (Charisma, DC 13, +5)
 >   - 1 slot, spell level 1
 >   - Spells known: _Command_, _Hex_
->   - Cantrips known: _Eldrich Blast_, _Prestidigitation_
+>   - Cantrips known: _Eldrich Blast_, _Prestidigitation_, _Produce Flame_
 > 
 > Gear gained!
 >
