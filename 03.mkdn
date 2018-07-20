@@ -96,7 +96,64 @@ misses. I duck past him, deeper into the alley and he clocks me in the back of t
 at a poor angle. I shoot backwards while running, and hit him in the inner thigh. I don't see what it does
 to him, but I hear him scream, and feel a rush of energy once more.
 
-I mumble «__Wondertje__» and extend the magic in search of an unlocked door as I pass
-down the back alleys. I come across one, and bid it to open, daring inside --- without looking.
+I mumble «__Wondertje__» and extend the magic as I run in search of an
+unlocked door as I pass down the back alleys. I pass from the slums to the
+southern ward come across one, and bid it to open, daring inside --- without
+looking.
 
 I come into a scullery, and come across someone who is probably the eponymous maid.
+
+There's a moment of hesitation where we each gauge what is going to happen. Then I draw on
+my second pool of power and charm her. «__Come here often?__» The invisible enchantment spell
+wraps around her mind, and her expression eases.
+
+"Sorry!" I say, and do my best to look apologetic. "Can I just do my makeup and leave through the front door?"
+
+"Oh, uh. I don't see why not?" she replies.
+
+"Do you have a bone saw I can borrow?"
+
+She looks perplexed for a second. "Maybe in the kitchen? Let me just go look."
+
+Quickly, I put my bag down and dig out my makeup kit. Gathing all of the grey
+face paint, I go about masking the fact that my skin is pure white. She returns
+with a bone saw and I take it to my long slender horns without hesitation,
+cutting them down to stubs and getting a wicked headache in the process.
+
+Last, I cast _prestidigitation_ and change the color of my cloak --- from dark
+grey to dark blue, armor --- from brown leather and beige gambeson to black, and
+quarterstaff --- from slate grey to wooden.
+
+I stuff the horns in my knapsack and turn to the maid. "Front exit?"
+
+----
+
+My disguise is admittedly slapdash, but it does the trick. Walking at a reasonable pace, I make it away from
+the southern slums completely, deeper into the southern ward. Here buildings are of stone, rather than wood, and
+are built on poles hammered into the marshland; always sinking, always building new on top.
+
+Here, I enact my plan of lying low. Heading towards the cobbled district ---
+even higher class, built on a patch of dry land in the middle of the marsh. An undertaker's parlor, clearly
+marked, lies next to a public access to the upper catacombs below. Only the very wealthiest have enough money
+for an earth burial; most get water burials.
+
+The catacombs, however, consist mostly of the remains of old buildings sunk into the marsh; many are flooded,
+but many are not. It is a gigantic maze down here, and it --- as all other deep caves or tombs --- connects to
+the underworlds.
+
+It is dark even just twenty feet down the sloping shaft.
+
+Looking behind me, to make sure I am not followed, I descend.
+
+> Level up! Warlock 3
+> 
+> - Hit Dice 3d8 (Constitution/Proficiency bonus cap: 2) (expended 2)
+> - Hit Points 19
+>   -  Max roll 2d8 + 6: 5 + 8 + 6 = 19
+> - Pact of the Tome
+>   - Cantrips gained: _Guidance, Mending, Spare the Dying (homebrew)_
+> - Pact Magic:
+>   - Spells learned: 
+>   - Invocations gained: _Book of Ancient Secrets_
+>     - Ritual casting gained!
+>     - Rituals learned: _Speak With Animals, Ceremony_

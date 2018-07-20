@@ -32,3 +32,5 @@ In the interest of fairness for single-player play, the following rules apply:
 - Thaumaturgy: 'wondertje'
 - Eldrich blast: 'pew'
 - Produce flame: 'woosh'
+- Charm person: 'come here often?'
+- Command: 'simon says'

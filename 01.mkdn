@@ -315,5 +315,7 @@ sensible set of gear.
 >   - 12 days of rations
 >   - Waterskin
 >   - Rope
+>   - Chalk
+>   - Rare inks worth 400gp
 > - Cloak, rugged clothes, belt pouch.
 > - 10 sp.
