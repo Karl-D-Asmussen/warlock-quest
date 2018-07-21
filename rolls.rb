@@ -24,6 +24,9 @@ class Die
     else raise
     end
   end
+
+  def +(b) roll + b end
+  def -(b) roll - b end
 end
 
 class Array; def tros; sort { |a, b| b <=> a } end; end
