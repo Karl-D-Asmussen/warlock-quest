@@ -86,14 +86,18 @@ Gathering up the old, dry incense, and the lower part of a burner, I head back t
 niche and sit down crosslegged on the floor. I place the makeshift brazier on the floor and
 fill it with the incense, before entering the meditation necessary for casting the ritual.
 
-It is a quiet, hour-long chant, made to the burning of incenses, that comprise a casting of
-_find familiar._ What manifests out of the aether, is a surprise: a dinner-plate sized brown, furry spider
---- not a mindless beast, but one with front-facing eyes and compact body-layout.
+It is a quiet, hour-long chant, made to the burning of incenses, that comprise
+a casting of _find familiar._ What manifests out of the aether, is a surprise:
+a dinner-plate sized brown, furry spider --- not a mindless beast, but one with
+front-facing eyes and compact body-layout.
 
 The little beast appears in front of me, and stares. I hold out a hand and
 bid it to crawl up my arm, and I find that it has a respectable weight to it;
 roughly like a small cat. It feels intelligent and _alive,_ almost brimming with
-curiosity, like a kitten.
+curiosity, like a kitten. It also feels like an extension of myself --- an extra limb
+with personality. A bit like my tail.
+
+"Your name is _Anansi_," I decide, sealing the ritual. It is female.
 
 I _could_ cast _speak with animals_ and try to communicate with it, but from
 what I understand of familiars, they are mindless beasts conjured from pure spirit.
@@ -109,7 +113,32 @@ When I finally emerge from underground, it is late dusk, and I'm back at
 almost the top of my game. It feels like a wise move to stay as far away as
 possible from Pawpaw's territory so I head towards the northern slums instead.
 
-I don't get very far; though.
+I don't get very far; though. Just to be on the safe side, I cast _guidance_ ---
+«__Take the wheel__» --- and keep my eyes peeled.
+
+Soon I notice a group of armed men --- distinctly _not_ ruffians, but clad in
+actual armor, wearing religious insignias. The broken hammer of Lemaign adorn
+their breastplates, and they carry crossbows.
+
+I bolt in the opposite direction --- south, unfortunately --- and behind me one
+of them yell "halt, witch!" 
+
+They know what I am; the big ten --- or at least the three of them that give a shit
+--- are not keen on either worshipping or making pacts with, the 17 princes.
+
+A bolt goes past me. I slow down some to summon Anansi, letting her appear in my hand.
+I direct it to take to the roofs, and we make a 'fastball special' --- I throw her,
+she leaps off my hand with _considerable_ force, tumbling over once in the air before
+stabilizing and righting herself, and landing on the wall of the adjacent building,
+a few feet below the lip of the roof.
+
+I set into a sprint, and she follows me across the rooftops. She hops an alley with ease,
+and turns to take a look at our pursuers, and I lend her senses, gauging the distance
+to my pursuers without having to look behind me.
+
+They are keeping up, unfortunately.
+
+
 
 > Rituals learned!
 >
@@ -121,7 +150,7 @@ I don't get very far; though.
 > - Hit Points 2, Hit Dice 1d4, Armor Class 12, Speed 30 ft, Climb 20 ft
 > - Strength 4, Dexterity 14, Constitution 8, Intelligence 4, Wisdom 12, Charisma 5
 > - Perception +3, Stealth +4, Dexterity Save +4
-> - Passive perception 13, Tremorsense 30 ft, Initiative +1
+> - Passive perception 13, Tremorsense 30 ft, Deaf, Initiative +1
 > - Immunities: falling damage
 > - Long leap: can jump 15 ft high and 30 ft long, with or without running start.
 > - Bite +0, reach 5 ft, 1 damage

@@ -8,6 +8,7 @@ In the interest of fairness for single-player play, the following rules apply:
 - A long rest is 3 days.
 - A short rest is a night's sleep.
 - Training a skill takes two months, a tool takes one. Undedicated practice puts this at twice as long.
+- Initiative is Wisdom
 
 # Warlock Buffs
 
@@ -24,6 +25,7 @@ In the interest of fairness for single-player play, the following rules apply:
 - Extra feat at character creation, and later
 - Bonus action to quaff health potion.
 - _Healing Elixir_ creates health potions.
+- Viewing through a familiar's eyes is a bonus action, and can be dismissed for free.
 
 # Spell Incantations
 
@@ -34,3 +36,4 @@ In the interest of fairness for single-player play, the following rules apply:
 - Produce flame: 'woosh'
 - Charm person: 'come here often?'
 - Command: 'simon says'
+- Guidance: 'take the wheel'
