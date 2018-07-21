@@ -11,6 +11,8 @@ An hour later, I find a nice niche, with a light breeze blowing past. Feeling th
 my bones, I sit down and rest my head against the wall. A quick _prestidigitation_ gets rid of the
 caking makeup on my face, the grime of sweat in my clothes, and the stench of old dust and mold.
 
+----
+
 "_Hello._"
 
 I jerk up, looking about for the speaker.
@@ -52,7 +54,7 @@ my mind to three new spells, _mending_, _guidance_, and _spare the dying._
 She laughs --- a terrifying rumble accompanies it. She gestures, and my clothes seemingly all
 teleport off me, leaving me stark naked in the dark cold --- except it isn't; this is a dream.
 
-From her pelvis, where her human half meets her spider half, rises a manhood.
+From her pelvis, where her human half meets her spider half, rises a... Manhood.
 
 "_Turn around and put your hands on the wall._"
 
@@ -63,13 +65,61 @@ my brow sits my horns, restored, and whatever she did to me; the trauma-induced
 revulsion I've harbored towards sex for some time now, is gone. The tome lies in
 my lap.
 
-Feeling refreshed <!-- full 19 HP, full 3d8 HD --> I realize the obvious course of
-action. I dig through my knapsack for the ritual book I pilfered from Haquim, and
-the expensive set of exotic inks I was hoping to pawn off for a tidy sum.
+Feeling refreshed, I realize the obvious course of action. I dig through my
+knapsack for the ritual book I pilfered from Haquim, and the expensive set of
+exotic inks I was hoping to pawn off for a tidy sum.
 
 «__Woosh,__» I say, summoning up a light to work from, and then I begin the work
 of transcribing the spells: _alarm, detect magic, find familiar, identify, tenser's floating
 disk,_ and _unseen servant._ There's four more rituals which I can't seem to decode.
 
+At this point I have been hunched over that damn book for twelve hours --- with a pee
+break, two meals, and stretching exercises in between; I'm not a barbarian --- so I
+set off to do some grave robbing.
+
+_Find familiar_ calls for charcoal, incenses, and herbs to be consumed by fire
+in a brass brazier. Fortunately burial customs include burial with incense and
+brass incense burners. It only takes me smashing open ten graves before I find
+what I need.
+
+Gathering up the old, dry incense, and the lower part of a burner, I head back to my
+niche and sit down crosslegged on the floor. I place the makeshift brazier on the floor and
+fill it with the incense, before entering the meditation necessary for casting the ritual.
+
+It is a quiet, hour-long chant, made to the burning of incenses, that comprise a casting of
+_find familiar._ What manifests out of the aether, is a surprise: a dinner-plate sized spider
+--- not a mindless beast, but one with front-facing eyes and compact body-layout.
+
+The little beast appears in front of me, and stares. I hold out a hand and bid it
+to crawl up my arm, and I find that it has a respectable weight to it; roughly like a
+small cat.
+
+I _could_ cast _speak with animals_ and try to communicate with it, but from
+what I understand of familiars, they are mindless beasts conjured from pure spirit.
+
+Instead, I _dismiss_ it with a thought, causing it to disappear, and _summon_ it again,
+on the ground in front of me.
+
+I spend the night --- if it even is night --- in the niche, in dreamless sleep.
+
+----
+
+When I finally emerge from underground, it is broad daylight, and I'm back at
+almost the top of my game.
 
 
+
+> Familiar Gained! Goliath Jumping Spider
+>
+> - Tiny beast
+> - Hit Points 2, Hit Dice 1d4, Armor Class 12, Speed 20 ft, Climb 20 ft
+> - Strength 4, Dexterity 14, Constitution 8, Intelligence 4, Wisdom 12, Charisma 5
+> - Perception +3, Stealth +4, Dexterity Save +4
+> - Passive perception 13, Tremorsense 30 ft, Initiative +1
+> - Long leap: can jump 10 ft high and 15 ft long, with or without running start
+> - Bite +0, reach 5 ft, 1 damage
+>
+> Feats Gained! Magic Initiate ×2
+>
+> - Warlock: _message, friends, healing elixir_
+> - Warlock: _mage hand, minor illusion, puppet_
