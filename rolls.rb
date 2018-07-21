@@ -31,5 +31,12 @@ end
 
 class Array; def tros; sort { |a, b| b <=> a } end; end
 
-Dice = [4,6,8,10,12,20,100].map(&Die.method(:new))
+Dice = [4,6,8,10,12,20,100].map { |n| [ n, Die.new n ] }.to_h.freeze
 
+def d4; Dice[4] end
+def d6; Dice[6] end
+def d8; Dice[8] end
+def d10; Dice[10] end
+def d12; Dice[12] end
+def d20; Dice[20] end
+def d100; Dice[100] end

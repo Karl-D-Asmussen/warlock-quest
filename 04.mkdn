@@ -87,12 +87,13 @@ niche and sit down crosslegged on the floor. I place the makeshift brazier on th
 fill it with the incense, before entering the meditation necessary for casting the ritual.
 
 It is a quiet, hour-long chant, made to the burning of incenses, that comprise a casting of
-_find familiar._ What manifests out of the aether, is a surprise: a dinner-plate sized spider
+_find familiar._ What manifests out of the aether, is a surprise: a dinner-plate sized brown, furry spider
 --- not a mindless beast, but one with front-facing eyes and compact body-layout.
 
-The little beast appears in front of me, and stares. I hold out a hand and bid it
-to crawl up my arm, and I find that it has a respectable weight to it; roughly like a
-small cat.
+The little beast appears in front of me, and stares. I hold out a hand and
+bid it to crawl up my arm, and I find that it has a respectable weight to it;
+roughly like a small cat. It feels intelligent and _alive,_ almost brimming with
+curiosity, like a kitten.
 
 I _could_ cast _speak with animals_ and try to communicate with it, but from
 what I understand of familiars, they are mindless beasts conjured from pure spirit.
@@ -104,22 +105,23 @@ I spend the night --- if it even is night --- in the niche, in dreamless sleep.
 
 ----
 
-When I finally emerge from underground, it is broad daylight, and I'm back at
-almost the top of my game.
+When I finally emerge from underground, it is late dusk, and I'm back at
+almost the top of my game. It feels like a wise move to stay as far away as
+possible from Pawpaw's territory so I head towards the northern slums instead.
 
+I don't get very far; though.
 
-
+> Rituals learned!
+>
+> - _alarm, detect magic, find familiar, identify, tenser's floating disk, unseen servant._
+>
 > Familiar Gained! Goliath Jumping Spider
 >
 > - Tiny beast
-> - Hit Points 2, Hit Dice 1d4, Armor Class 12, Speed 20 ft, Climb 20 ft
+> - Hit Points 2, Hit Dice 1d4, Armor Class 12, Speed 30 ft, Climb 20 ft
 > - Strength 4, Dexterity 14, Constitution 8, Intelligence 4, Wisdom 12, Charisma 5
 > - Perception +3, Stealth +4, Dexterity Save +4
 > - Passive perception 13, Tremorsense 30 ft, Initiative +1
-> - Long leap: can jump 10 ft high and 15 ft long, with or without running start
+> - Immunities: falling damage
+> - Long leap: can jump 15 ft high and 30 ft long, with or without running start.
 > - Bite +0, reach 5 ft, 1 damage
->
-> Feats Gained! Magic Initiate ×2
->
-> - Warlock: _message, friends, healing elixir_
-> - Warlock: _mage hand, minor illusion, puppet_
