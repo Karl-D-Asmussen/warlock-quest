@@ -173,6 +173,8 @@ And then it _really_ hits me what it meant when I gave Mephala my name.
 
 "Call me _Fell._"
 
+----
+
 > Level up! Warlock 4
 >
 > - Hit Dice: 4d8

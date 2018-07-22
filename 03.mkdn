@@ -145,6 +145,8 @@ It is dark even just twenty feet down the sloping shaft.
 
 Looking behind me, to make sure I am not followed, I descend.
 
+----
+
 > Level up! Warlock 3
 > 
 > - Hit Dice 3d8 (Constitution/Proficiency bonus cap: 2) (expended 2)
