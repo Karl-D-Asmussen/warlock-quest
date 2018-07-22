@@ -153,7 +153,10 @@ Looking behind me, to make sure I am not followed, I descend.
 > - Pact of the Tome
 >   - Cantrips gained: _Guidance, Mending, Spare the Dying (homebrew)_
 > - Pact Magic:
->   - Spells learned: 
+>   - Spells learned: _Suggestion, Hellish Rebuke (race)_
+>   - Spell slots upgraded!
+>     - Lvl 2: 2 slots
+>     - Lvl 2: 1 slot, long rest
 >   - Invocations gained: _Book of Ancient Secrets_
 >     - Ritual casting gained!
 >     - Rituals learned: _Speak With Animals, Ceremony_

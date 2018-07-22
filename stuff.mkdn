@@ -1,4 +1,4 @@
 > Feats Gained! Magic Initiate ×2
 >
 > - Warlock: _message, friends, healing elixir_
-> - Warlock: _mage hand, minor illusion, puppet_
+> - Warlock: _mage hand, minor illusion, hex_

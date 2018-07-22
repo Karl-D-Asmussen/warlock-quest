@@ -199,7 +199,8 @@ arm.
 > - Pact Magic
 >   - Invocations learned: _Agonizing Blast, Beguiling Influence_
 >   - Spells learned: _Charm Person_
->   - Spell slot gained! 2 slots, spell level 1
+>   - Spell slot upgrade! 
+>     - Lvl 1: 2 slots
 >
 > Proficiency summary!
 >

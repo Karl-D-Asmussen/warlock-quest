@@ -109,7 +109,7 @@ I spend the night --- if it even is night --- in the niche, in dreamless sleep.
 
 ----
 
-When I finally emerge from underground, it is late dusk, and I'm back at
+When I finally emerge from underground, it is late afternoon, and I'm back at
 almost the top of my game. It feels like a wise move to stay as far away as
 possible from Pawpaw's territory so I head towards the northern slums instead.
 
@@ -168,6 +168,32 @@ chances are they don't want to let the Pythians know.
 And so, dressed as a rough approximation of a whorshipper of Pyth, I make my way into the southern
 wards once more. The streets become crowded, and I blend into the crowds.
 
+----
+
+The street lamps begin their stuggle against the dusk when I cross the imaginary border to the
+southern ward --- most of them are cheap arcane ones that cast flickering, dim light. It suits
+me well, although the occasional flash is a little painful on the eyes. I walk at a casual pace,
+while Anansi follows me across the rooftops.
+
+"Miss! Miss!"
+
+Anansi's eyes lock on the little human --- or perhaps half-elf --- girl who
+comes running up to me, and I turn to her, taking back my vision and regaining
+my hearing.
+
+"Miss, you're the white Teifling, right? the Old Man sends his regards!"
+
+I tense up, and glance about in the direction she approached from. Nobody is skulking in the shadows,
+looking in my direction, at least as far as I can tell.
+
+"Does he want something from me?" I ask.
+
+"He says he will hire you, because you're too expensive to fight," she says with a smile
+
+I nod. That does seem like him. "Where can I meet him?"
+
+"On his ship, silly!"
+
 > Rituals learned!
 >
 > - _alarm, detect magic, find familiar, identify, tenser's floating disk, unseen servant._
@@ -178,7 +204,7 @@ wards once more. The streets become crowded, and I blend into the crowds.
 > - Hit Points 2, Hit Dice 1d4, Armor Class 12, Speed 30 ft, Climb 20 ft
 > - Strength 4, Dexterity 14, Constitution 8, Intelligence 4, Wisdom 12, Charisma 5
 > - Perception +3, Stealth +4, Dexterity Save +4
-> - Passive perception 13, Tremorsense 30 ft, Deaf, Initiative +1
-> - Immunities: falling damage
+> - Passive perception 13, Darkvision 120 ft, Tremorsense 30 ft, Initiative +1, Colorblind, Deaf
+> - Immunities: falling damage, deafness
 > - Long leap: can jump 15 ft high and 30 ft long, with or without running start.
 > - Bite +0, reach 5 ft, 1 damage

@@ -18,11 +18,11 @@ I nod. Last I ate was yesterday. My tail swishes back and forth with exitement.
 
 "Stupid devilfucking bitch."
 
-Mom lies on the ground. She isn't moving anymore. The Pawpaw's henchmen drag me away. I should be screaming.
+Mom lies on the ground. She isn't moving anymore. The henchmen --- Pawpaw's thugs --- drag me away. I should be screaming.
 
 "At least this one is nice and docile..."
 
-"Don't touch her."
+"Don't lay a hand on her."
 
 "Why? She's a half-devil, innit? Nobody minds!"
 
@@ -266,10 +266,10 @@ sensible set of gear.
 > - Resistance to fire damage
 > - Common, Infernal
 > - Innate spellcasting
->   - Charisma based
+>   - Warlock-based
 >   - _Thaumaturgy_ cantrip
->   - [Level 3] _Hellish Rebuke_ as 2nd level spell, 1/day
->   - [Level 5] _Darkness_, 1/day
+>   - [Level 3] _Hellish Rebuke_ 2nd level slot, long rest
+>   - [Level 5] _Darkness_, 2nd level slot, long rest
 >
 > Background selected! Slave (Variants: Comfort Slave, Escaped)
 >
@@ -297,9 +297,10 @@ sensible set of gear.
 > - Patron: Archfiend
 >   - Dark One's Blessing
 > - Pact Magic (Charisma, DC 13, +5)
->   - 1 slot, spell level 1
->   - Spells known: _Command_, _Hex_
->   - Cantrips known: _Eldrich Blast_, _Prestidigitation_, _Produce Flame_
+>   - Spell slots
+>     - Lvl 1: 1 slot (short rest)
+>   - Spells learned: _Command, Hex_
+>   - Cantrips learned: _Eldrich Blast, Prestidigitation, Produce Flame, Thaumaturgy (race)_
 > 
 > Gear gained!
 >

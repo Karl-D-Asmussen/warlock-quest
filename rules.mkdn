@@ -4,11 +4,12 @@
 In the interest of fairness for single-player play, the following rules apply:
 
 - Hit Dice are rerolled every level, but caps at Con mod or Prof bonus whichever is higher
-- Downtime is at least 1 week.
-- A long rest is 3 days.
-- A short rest is a night's sleep.
+- W.r.t. HP, Downtime(recover all HP, HD) is at least 1 week. A long rest(recover half HD, spend HD)
+  is 2 days of quiet. A short rest(spend HD OR regain 1 HD) is a night's sleep.
 - Training a skill takes two months, a tool takes one. Undedicated practice puts this at twice as long.
 - Initiative is Wisdom
+- Tiefling spell (slots) are warlock spell (slots)
+- Magic Initiate gives an extra slot
 
 # Warlock Buffs
 
