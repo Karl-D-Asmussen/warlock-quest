@@ -1,0 +1,40 @@
+
+Fiend Tomelock
+
+Skilled (Arcana/History/Stealth)
+Spell Sniper, Magic Initiate (Tomelock: hex, mage hand, message)
+Magic Initiate (Tomelock: healing elixir, friends, minor illusion), War Caster
+Resilient (Constitution), Skilled (Athletics/Sleight of Hand/Perception)
+Cha +2, Silver-Tongued
+
+Tiefling:
+  Str 10
+  Dex 10
+  Con 15
+  Int 12
+  Wis 10
+  Cha 17
+
+Spells of note:
+  Eldrich Blast
+    Repelling
+    Lethargic
+    Agonizing
+    Flexible Shaping (Cone, Ray, later Explosion)
+  Hex
+  Healing Elixir
+  Enchantments
+
+Invocations:
+  Agonizngin Blast
+  Lethargic Lance
+  Repelling Blast
+  Eldritch Spear
+  Eldritch Shaping
+  Flexible Shaping
+
+  Eyes of the Rune Keeper
+  Book of Ancient Secrets
+  Aspect of the Moon
+  Master of Myriad Forms
+  Beguiling Influence

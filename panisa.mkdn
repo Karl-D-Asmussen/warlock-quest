@@ -1,0 +1,22 @@
+
+Ancients Paladin
+Magic Initiate (Sorcerer: Thunderwave, Shocking Grasp, Thunderclap)
+
+Alert, Observant (Wis +1)
+Sentinel, Tough 
+War Caster, Resilient (Con +1)
+Mobile, Resilient (Dex +1)
+Spear Mastery, Heavy Armor Mastery (Str +1)
+
+Dragonborn (Brass):
+  Str 15
+  Dex 9
+  Con 15
+  Int 10
+  Wis 11
+  Cha 15
+
+Cantrips: Sacred Flame, Word of Radiance, Guidance
+
+Fighting Style: Dueling, Bastion (Tunnel Fighter)
+

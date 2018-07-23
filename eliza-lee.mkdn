@@ -1,14 +1,30 @@
 
 Valor Bard
 
-Polearm Master
-Sentinel
-Healer
-Inspiring Leader
-Mage Slayer
+Sharpshooter
 
-Shillelagh
-Magic Stone
-Staff sling
+Healer, Inspiring Leader
+Polearm Master, Grappler (Fixed)
+Mage Slayer, Cha +2
+War Caster, Resilient (Con +1)
+Shield Mastery, Versatile Mastery
 
-Fighting style at lvl 14 instead of Battle magic
+Half Elf:
+  Str 14
+  Dex 14
+  Con 11
+  Int 10
+  Wis 12
+  Cha 16
+
+Spells of note:
+  Shillelagh
+  Magic Stone
+  Healing Elixir
+  Hex
+  Healing Word
+
+Expertise: Athletics, Medicine
+
+Fighting style: Dueling, Archery
+
