@@ -5,7 +5,7 @@ Sharpshooter
 
 Healer, Inspiring Leader
 Polearm Master, Grappler (Fixed)
-Mage Slayer, Cha +2
+Cha +2, Cha +2
 War Caster, Resilient (Con +1)
 Shield Mastery, Versatile Mastery
 
