@@ -10,6 +10,7 @@ In the interest of fairness for single-player play, the following rules apply:
 - Initiative is Wisdom
 - Tiefling spell (slots) are warlock spell (slots)
 - Magic Initiate gives an extra slot
+- All reactions attacks are Attacks of Oppotunity
 
 # Warlock Buffs
 
