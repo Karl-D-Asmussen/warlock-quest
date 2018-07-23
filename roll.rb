@@ -10,17 +10,21 @@ class Roller
       loop do
         expr = gets
         break if expr.empty?
-        self.run(expr)
+        self.run(expr, true)
       end
     else
       self.run(argv.join(' '))
     end
   end
 
-  def self.run(expr)
-    roller = self.new(expr)
-    puts "#{roller.result} = #{roller.roll}"
-    puts "// #{roller.discarded}" if roller.discarded?
+  def self.run(expr, strict=false)
+    begin
+      roller = self.new(expr, strict: strict)
+      puts "#{roller.result} = #{roller.roll}"
+      puts "// #{roller.discarded}" if roller.discarded?
+    rescue
+      puts "error"
+    end
   end
 
   def initialize(expr=nil, strict: false, seed: nil)
