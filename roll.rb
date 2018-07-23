@@ -9,7 +9,7 @@ class Roller
     if argv.empty?
       loop do
         expr = gets
-        break if expr.empty?
+        break if expr.nil? or expr.empty?
         self.run(expr, true)
       end
     else
@@ -48,7 +48,7 @@ class Roller
   end
 
   def roll
-    sign, *rest = @keep.map { |pair| render_roll(pair) }.flatten
+    sign, *rest = @keep.sort.reverse.map { |pair| render_roll(pair) }.flatten
     if @keep[0].first >= 0
       sign = ''
     end
