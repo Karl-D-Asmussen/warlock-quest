@@ -1,11 +1,13 @@
 
 Fiend Tomelock
-
 Skilled (Arcana/History/Stealth)
-Spell Sniper, Magic Initiate (Tomelock: hex, mage hand, message)
-Magic Initiate (Tomelock: healing elixir, friends, minor illusion), War Caster
-Resilient (Constitution), Skilled (Athletics/Sleight of Hand/Perception)
-Cha +2, Silver-Tongued
+
+Spell Sniper,
+Magic Initiate (Tomelock: hex, mage hand, message),
+Magic Initiate (Tomelock: healing elixir, friends, minor illusion),
+Skilled (Athletics/Sleight of Hand/Perception)
+Resilient (Constitution), War Caster
+Cha +2, Silver-Tongued (Cha +1)
 
 Tiefling:
   Str 10

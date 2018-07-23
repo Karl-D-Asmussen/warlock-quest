@@ -181,9 +181,10 @@ And then it _really_ hits me what it meant when I gave Mephala my name.
 > - Hit Points: 25 (5 temp)
 >   - New max roll 2d8 + 4: 8 + 4 + 8 = 20
 > - Pact Magic
->   - Cantrips learned: _thunderclap, shocking grasp (feat)_
->   - Spells learned: _blindness/deafness_
+>   - Cantrips learned: _thunderclap, shocking grasp (feat), friends (feat), minor illusion (feat)_
+>   - Spells learned: _blindness/deafness, healing elixir (feat)_
 > 
 > Feat gained! Spell Sniper
+> Feat gained! Magic Initiate
 > 
 > - Double range of attack spells, ignore half/three-quarters cover.
