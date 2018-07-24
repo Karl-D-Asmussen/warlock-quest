@@ -54,7 +54,7 @@ Spells of note:
   Booming Blade
   Healing Elixir
   Guidance
-  Hex
+  Find Familiar
   Wish
 
 Expertise: Athletics, Insight
