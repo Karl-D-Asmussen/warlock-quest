@@ -297,14 +297,15 @@ sensible set of gear.
 > - Pact Magic (Charisma, DC 13, +5)
 >   - Spell slots
 >     - Lvl 1: 1 slot (short rest)
->   - Spells learned: _Command, Hex_
->   - Cantrips learned: _Eldrich Blast, Prestidigitation, Produce Flame, Thaumaturgy (race)_
+>   - Spells learned: _command, hex_
+>   - Cantrips learned: _eldrich blast, prestidigitation, produce flame, thaumaturgy (race)_
 > 
 > Gear gained!
 >
-> - Quarterstaff (arcane focus), 2 daggers w/ sheaths, light crossbow w/ holster, 20 bolts in quiver.
+> - Quarterstaff, 2 daggers w/ sheaths, light crossbow w/ holster, 20 bolts in quiver.
 > - Light armor (AC 11): gambeson; protective gear (AC +1): vambracers, greaves, forehead plate.
-> - Knapsack
+> - Component Pouch
+> - Knapsack & Pockets
 >   - Books of rituals, magic theory, and arcana
 >   - Disguise Kit
 >   - Bedroll

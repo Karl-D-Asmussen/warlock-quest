@@ -182,13 +182,18 @@ And then it _really_ hits me what it meant when I gave Mephala my name.
 >   - New max roll 2d8 + 4: 8 + 4 + 8 = 20
 > - Pact Magic
 >   - Cantrips learned: _mage hand, mold earth (feat), minor illusion (feat)_
->   - Spells learned: _shadow blade, healing elixir_
+>   - Spells learned: _shadow blade, hex (feat)_
+>   - Spells retrained: _hex_ into _puppet_
+>   - Spell slots upgraded!
+>     - Lvl 2: 2 slots
+>     - Lvl 2: 1 slot, long rest
+>     - Lvl 1: 1 slot, long rest
 > 
 > Feat gained! Magic Initate (Warlock of the Tome)
 >
 > Feat gained! Silver-Tongued
 >
-> - Charisma 18
+> - Charisma 18 (+4)
 > - Deception Expertise
 > - Bonus action to unsettle creatue, giving advantage to attacks against them,
 >   and immunity to opportunity attacks from them until end of next turn
