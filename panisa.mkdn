@@ -1,6 +1,6 @@
 
 Ancients Paladin
-Magic Initiate (Sorcerer: Thunderwave, Shocking Grasp, Thunderclap)
+Magic Initiate (Sorcerer: Lightning Lure, Shocking Grasp, Witch Bolt (Fixed))
 
 Alert, Observant (Wis +1)
 Sentinel, Tough 
@@ -16,7 +16,7 @@ Dragonborn (Brass):
   Wis 11
   Cha 15
 
-Cantrips: Sacred Flame, Word of Radiance, Guidance
+Cantrips: Sacred Flame, Word of Radiance, Blade Ward
 
 Fighting Style: Dueling, Bastion (Tunnel Fighter)
 

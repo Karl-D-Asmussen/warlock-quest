@@ -52,7 +52,7 @@ Spells of note:
   Magic Stone
   Booming Blade
   Healing Elixir
-  Hex
+  Guidance
   Wish
 
 Expertise: Athletics, Insight
