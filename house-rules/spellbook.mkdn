@@ -574,6 +574,11 @@ and the same holds for two large and one huge creature, and two huge and one gar
 Added progression, the ability to grease climbable walls, and creatures themselves.
 </div>
 
+#### Hex
+
+TODO
+action to change attribute
+
 #### Hold Person (Buffed)
 
 _2nd-level enchantment_

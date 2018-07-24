@@ -1,13 +1,13 @@
 
 Valor Bard
 
-Polearm Master
+Sharpshooter (Fixed)
 
 Cha +2, Inspiring Leader
-Sharpshooter (Fixed), Grappler (Fixed)
-Cha +2, War Caster
-Healer, Resilient (Con +1)
+Polearm Master, Grappler (Fixed)
 Shield Mastery, Versatile Mastery
+Cha +2, Healer
+Resilient (Con +1), War Caster
 
 Half Elf:
   Str 14
@@ -17,14 +17,45 @@ Half Elf:
   Wis 12
   Cha 16
 
+Skills of note:
+  Perception 
+  Athletics
+  Stealth
+  Insight
+
+  Medicine
+  Persuasion
+  Deception
+
+  Performance
+
+  Hand Pans/Steel Drums
+  Taiko Drums
+  Marimba/Xylophone/Balafon
+
 Spells of note:
+  Vicious Mockery
+  Prestidigitation
+  Mold Earth
+  Dancing Lights
+  Thunderclap
+
+  Healing Word
+  Lesser Restoration
+  Revivify
+  Mass Healing Word
+  Greater Restoration
+  Raise Dead
+  Regeneration
+
   Shillelagh
   Magic Stone
+  Booming Blade
   Healing Elixir
   Hex
-  Healing Word
+  Wish
 
-Expertise: Athletics, Medicine
+Expertise: Athletics, Insight
 
 Fighting style: Dueling, Archery
 

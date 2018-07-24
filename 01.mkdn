@@ -272,13 +272,10 @@ sensible set of gear.
 >   - [Level 3] _Hellish Rebuke_ 2nd level slot, long rest
 >   - [Level 5] _Darkness_, 2nd level slot, long rest
 >
-> Background selected! Slave (Variants: Comfort Slave, Escaped)
+> Background selected! Personal Sex Slave
 >
 > - Insight, Performance
-> - Instrument: Lute, Tool: Disguise Kit, Language: Elvish
-> - Feature: _Parallel Society._ Advantage to checks made to
->   gather information and gain trust among slaves.
-> - Bond: Wanted
+> - Tool: Disguise Kit, Language: Elvish
 >
 > Bonus feat gained! Skilled
 >

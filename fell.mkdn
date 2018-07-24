@@ -2,10 +2,10 @@
 Fiend Tomelock
 Skilled (Arcana/History/Stealth)
 
-Spell Sniper, Magic Initiate (Tomelock: hex, mage hand, minor illusion),
+Spell Sniper (Tomelock: Message), Magic Initiate (Tomelock: hex, friends, minor illusion),
 Resilient (Constitution), War Caster
 Skilled (Athletics/Sleight of Hand/Perception), Observant (Wis +1)
-Magic Initiate (Tomelock: healing elixir, friends, message), Keen Mind (Int +1)
+Magic Initiate (Tomelock: healing elixir, mold earth, shape water), Keen Mind (Int +1)
 Cha +2, Silver-Tongued (Cha +1)
 
 Tiefling:
@@ -15,6 +15,17 @@ Tiefling:
   Int 11
   Wis 11
   Cha 17
+
+Skills:
+  Insight
+  Performance
+  Intimidation
+  Investigation
+  Arcana
+  History
+  Stealth
+  Persuasion
+  Deception
 
 Spells of note:
   Eldrich Blast
@@ -30,9 +41,9 @@ Invocations:
   Agonizngin Blast
   Lethargic Lance
   Repelling Blast
+  Transmuting Blast
   Eldritch Spear
   Eldritch Shaping
-  Flexible Shaping
 
   Eyes of the Rune Keeper
   Book of Ancient Secrets

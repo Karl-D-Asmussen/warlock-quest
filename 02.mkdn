@@ -213,6 +213,6 @@ arm.
 > - Wisdom saves, Charisma saves (Class)
 > - Arcana, History, Stealth (Feat)
 > - Performance, Insight (Background)
-> - Lute, Disguise Kit (Background)
+> - Disguise Kit (Background)
 > - Common, Infernal (Race), Elvish (Background)
 
