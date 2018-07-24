@@ -1,9 +1,9 @@
 
 Ancients Paladin
-Magic Initiate (Sorcerer: Lightning Lure, Shocking Grasp, Witch Bolt (Fixed))
+Magic Initiate (Sorcerer: Lightning Lure, Shocking Grasp, Witch Bolt (Fixed)), Lucky
 
-Alert, Observant (Wis +1)
-Sentinel, Tough 
+Alert, Empathic (Wis +1)
+Sentinel (Fixed), Tough 
 War Caster, Resilient (Con +1)
 Mobile, Resilient (Dex +1)
 Spear Mastery, Heavy Armor Mastery (Str +1)
@@ -18,5 +18,5 @@ Dragonborn (Brass):
 
 Cantrips: Sacred Flame, Word of Radiance, Blade Ward
 
-Fighting Style: Dueling, Bastion (Tunnel Fighter)
+Fighting Style: Dueling, Bastion
 

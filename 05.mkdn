@@ -181,7 +181,7 @@ And then it _really_ hits me what it meant when I gave Mephala my name.
 > - Hit Points: 25 (5 temp)
 >   - New max roll 2d8 + 4: 8 + 4 + 8 = 20
 > - Pact Magic
->   - Cantrips learned: _mage hand, mold earth (feat), minor illusion (feat)_
+>   - Cantrips learned: _mage hand, blade ward (feat), true strike (feat)_
 >   - Spells learned: _shadow blade, hex (feat)_
 >   - Spells retrained: _hex_ into _puppet_
 >   - Spell slots upgraded!
@@ -191,10 +191,9 @@ And then it _really_ hits me what it meant when I gave Mephala my name.
 > 
 > Feat gained! Magic Initate (Warlock of the Tome)
 >
-> Feat gained! Silver-Tongued
+> Feat gained! Actor
 >
 > - Charisma 18 (+4)
-> - Deception Expertise
-> - Bonus action to unsettle creatue, giving advantage to attacks against them,
->   and immunity to opportunity attacks from them until end of next turn
+> - Advantage on Performance/Deception to pretend to be another
+> - Vocal mimicry
 

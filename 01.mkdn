@@ -250,72 +250,75 @@ sensible set of gear.
 
 ----
 
-> Attributes!
-> 
-> - Strength 10
-> - Dexterity 10
-> - Constitution 15
-> - Intelligence 12
-> - Wisdom 10
-> - Charisma 17
->
-> Race selected! Tiefling.
->
-> - Size: Medium, Speed: 30 feet
-> - +1 to Intelligence, +2 to Charisma
-> - Darkvision out to 120 feet
-> - Resistance to fire damage
-> - Common, Infernal
-> - Innate spellcasting
->   - Warlock-based
->   - _Thaumaturgy_ cantrip
->   - [Level 3] _Hellish Rebuke_ 2nd level slot, long rest
->   - [Level 5] _Darkness_, 2nd level slot, long rest
->
-> Background selected! Personal Sex Slave
->
-> - Insight, Performance
-> - Tool: Disguise Kit, Language: Elvish
->
-> Bonus feat gained! Skilled
->
-> - Arcana
-> - History
-> - Stealth
->
-> Level up! Warlock 1
->
-> - Hit Dice: 1d8
-> - Hit Points: 10
->   - Max roll 1d8 + 2: 8 + 2 = 10
-> - Proficiency Bonus: +2
-> - Skills: Investigation, Intimidation
-> - Weapons & Armor: Simple, Light
-> - Saves: Wisdom, Charisma
-> - Patron: Archfiend
->   - Dark One's Blessing
-> - Pact Magic (Charisma, DC 13, +5)
->   - Spell slots
->     - Lvl 1: 1 slot (short rest)
->   - Spells learned: _command, hex_
->   - Cantrips learned: _eldrich blast, prestidigitation, produce flame, thaumaturgy (race)_
-> 
-> Gear gained!
->
-> - Quarterstaff, 2 daggers w/ sheaths, light crossbow w/ holster, 20 bolts in quiver.
-> - Light armor (AC 11): gambeson; protective gear (AC +1): vambracers, greaves, forehead plate.
-> - Component Pouch
-> - Knapsack & Pockets
->   - Books of rituals, magic theory, and arcana
->   - Disguise Kit
->   - Bedroll
->   - Crowbar
->   - Hammer
->   - Pitons
->   - 12 days of rations
->   - Waterskin
->   - Rope
->   - Chalk
->   - Rare inks worth 300gp
-> - Cloak, rugged clothes, belt pouch.
-> - 10 sp.
+> - Race selected! Tiefling
+>   - Size: Medium, Speed: 30 feet
+>   - +1 to Intelligence, +2 to Charisma
+>   - Darkvision out to 120 feet
+>   - Resistance to fire damage
+>   - Languages: Common, Infernal
+>   - Innate spellcasting
+>     - Warlock (Pact magic)
+>     - _Thaumaturgy_ cantrip
+>     - At level 3: _Hellish Rebuke_ 2nd level slot, recharge: long rest
+>     - At level 5: _Darkness_, 3rd level slot, recharge: long rest
+> - Background selected! Slave (Comfort)
+>   - Skills: Insight, Performance
+>   - Tools: Disguise Kit
+>   - Languages: Elivsh
+> - Bonus feat gained! Skilled (Arcana, History, Stealth)
+> - Bonus feat gained! Infernal Constiution
+> - Attributes selected! Point Buy (27, start 8, 14/15 cost double)
+>   - Strength 10
+>   - Dexterity 12
+>   - Constitution 14
+>   - Intelligence 12
+>   - Wisdom 10
+>   - Charisma 17
+> - Level up! Warlock 1
+>   - Proficiency Bonus: +2
+>   - Hit Dice: 1d8
+>   - Hit Points: 10
+>     - Total roll 1d8 + 2: 8 + 2 = 10
+>   - Skills: Investigation, Intimidation
+>   - Weapons & Armor: Simple, Light
+>   - Saves: Wisdom, Charisma
+>   - Patron: Archfiend
+>     - Dark One's Blessing
+>   - Pact Magic (Charisma, DC 13, +5)
+>     - Spell slots
+>       - Lvl 1: 1 slot, recharge: short rest
+>     - Spells learned: _command, hex_
+>     - Cantrips learned: _eldrich blast, prestidigitation, produce flame, thaumaturgy (race)_
+> - Gear gained!
+>   - Quarterstaff, 2 daggers w/ sheaths, light crossbow w/ holster, 20 bolts in quiver.
+>   - Light armor (AC 11): gambeson; protective gear (AC +1): vambracers, greaves, forehead plate.
+>   - Component Pouch
+>   - Knapsack & Pockets
+>     - Books of rituals, magic theory, and arcana
+>     - Disguise Kit
+>     - Bedroll
+>     - Crowbar
+>     - Hammer
+>     - Pitons
+>     - 12 days of rations
+>     - Waterskin
+>     - Rope
+>     - Chalk
+>     - Rare inks worth 300gp
+>   - Cloak, rugged clothes, belt pouch.
+>   - 10 sp.
+
+----
+
+> Spells:
+> - _Eldrich blast:_ (action, target: ranged spell attack 120 ft, V S) 1d10 force damage on hit,
+>   extra attack at lvl 5, 11, 17.
+> - _Prestidigitation:_ (action, range: 10 ft, V or S, 1 hour) do wizardly shit.
+> - _Produce flame:_ (action, V S, 10 minutes) create flame casting torchlight, fling flame as ranged spell attack 30 ft,
+>   to deal 1d8 fire damage, additional 1d8 at lvl 5, 11, 17
+> - _Thaumaturgy:_ (action, range: 30 ft, V or S, 1 minute) do clerical shit.
+> - _Command:_ (action, target: creature within 60 ft visual, V, 1 round) save Wis or obey one word command,
+>   target cannot be undead and must share language
+> - _Hex:_ (bonus action, target: creature within 90 ft visual, V S M, 1 hour conc.) target takes 1d6 additional
+>   damage whenever hurt by magic, has disadvantage on checks with ability of your choice, use action to switch
+>   ability, if target dies before spell expires you can use bonus action to curse new creature.

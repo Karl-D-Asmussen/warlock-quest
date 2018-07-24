@@ -1,17 +1,17 @@
 
 Fiend Tomelock
-Skilled (Arcana/History/Stealth)
+Skilled (Arcana/History/Stealth), Infernal Constitution
 
 Spell Sniper (Tomelock: Message), Magic Initiate (Tomelock: hex, friends, minor illusion),
 Resilient (Constitution), War Caster
 Skilled (Athletics/Sleight of Hand/Perception), Observant (Wis +1)
 Magic Initiate (Tomelock: healing elixir, mold earth, shape water), Keen Mind (Int +1)
-Cha +2, Silver-Tongued (Cha +1)
+Cha +2, Actor
 
 Tiefling:
   Str 10
-  Dex 10
-  Con 15
+  Dex 12
+  Con 14
   Int 11
   Wis 11
   Cha 17
@@ -29,10 +29,11 @@ Skills:
 
 Spells of note:
   Eldrich Blast
+    Spear
     Repelling
     Lethargic
     Agonizing
-    Flexible Shaping (Cone, Ray, later Explosion)
+    Shaping (Cone, Ray, later Explosion)
   Hex
   Healing Elixir
   Enchantments
@@ -58,8 +59,8 @@ Spells:
   C10: Blade Ward
   1: Hex (1), Command (1)
   2: Charm Person (1)
-  3: Suggestion (2), Command => Puppet (1)
-  4: Blindness/Deafness (2)
+  3: Suggestion (2), 
+  4: Blindness/Deafness (2), Hex (F), Hex ⇒ Puppet
   5: Fly (3)
   6: Counterspell (3)
   7: Banishment (4)
@@ -84,4 +85,4 @@ Incantations:
   14: Eldrich Shaping (Beam, Onslaught)
   15: Master of Myriad Forms
   17: Lance of Lethargy
-  19: Armor of Shadows
+  19: Mask of Many Faces
