@@ -11,7 +11,8 @@ In the interest of fairness for single-player play, the following rules apply:
 - Tiefling spell (slots) are warlock spell (slots)
 - Magic Initiate gives an extra slot
 - All reactions attacks are Attacks of Oppotunity
-- Extra feat at character creation, double ASIs
+- Extra feat at character creation
+- Each ASI comes with a complementary feat
 
 # Warlock Buffs
 

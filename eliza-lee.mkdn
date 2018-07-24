@@ -1,12 +1,12 @@
 
 Valor Bard
 
-Sharpshooter
+Polearm Master
 
-Healer, Inspiring Leader
-Polearm Master, Grappler (Fixed)
-Cha +2, Cha +2
-War Caster, Resilient (Con +1)
+Cha +2, Inspiring Leader
+Sharpshooter (Fixed), Grappler (Fixed)
+Cha +2, War Caster
+Healer, Resilient (Con +1)
 Shield Mastery, Versatile Mastery
 
 Half Elf:

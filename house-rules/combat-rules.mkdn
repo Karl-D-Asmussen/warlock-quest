@@ -23,8 +23,8 @@ _tier_ of play.
 
 For most casters, the number of spells they can maintain concentration on is
 equal to their tier. For Rangers and Paladins, the number is _half_ their tier,
-rounded up. For Arcane Tricksters and Eldrich Knights, the number is _one
-third_ of their tier, rounded up.
+rounded up. Arcane Tricksters and Eldrich Knights only ever learn to concentrate on
+one spell.
 
 > ##### Stacking Spells
 >
@@ -49,7 +49,9 @@ Under certain circumstances, you may instead add _twice_ your proficiency bonus 
 - Rogues when attacking with finesse weapons
 - Warlocks when attacking with their blade pact weapon
 - Druids when Wildshaped
-- When attacking with a weapon covered by a “weapon mastery” feat such as _great weapon master_
+- When attacking with a weapon covered by a “weapon mastery” feat, including
+  _great weapon master_, _sharpshooter_, _crossbow expert_, _tavern brawler_ and
+  the weapon mastery feats from Unearthed Arcana.
 
 This rule can also be applied to a shove maneuver: as normal, the attack roll doesn't
 have proficiency bonus; instead the shoved creature moves 10 feet rather than 5 feet.
@@ -71,3 +73,26 @@ once per attack.
 > But you cannot simply draw a bow harder — the bow after all is only as
 > strong as its maximum draw weight. Instead, a ranged ‘power attack’ is a called
 > shot aimed at a vulnerable area.
+
+## Feats
+
+The feats _Sharpshooter_ and _Great Weapon Master_ have benefits largely superseded
+by the above rule about power attacks.
+
+### Great Weapon Master
+
+TODO
+
+- +1 to attack rolls made with Heavy or Two Handed weapons.
+- Cleave on crit/kill
+- Two handed weapons give advantage on Shove attacks.
+
+### Sharpshooter
+
+TODO
+
+- Ignore anything less than complete cover
+- Ignore long range
+- Reaction: when an enemy moves from a position of cover into an area you can
+see where they do not have cover from you, you can make a ranged weapon attack
+against them
