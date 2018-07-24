@@ -593,6 +593,12 @@ Added progression, the ability to grease climbable walls, and creatures themselv
 </div>
 
 \page
+#### Hex
+
+TODO
+Use action to switch which attribute the penalty goes to
+
+\page
 #### Hold Person (Buffed)
 
 _2nd-level enchantment_

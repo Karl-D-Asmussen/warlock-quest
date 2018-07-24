@@ -185,6 +185,14 @@ And then it _really_ hits me what it meant when I gave Mephala my name.
 >   - Spells learned: _blindness/deafness_
 > 
 > Feat gained! Spell Sniper
+>
+> - Double range of all ranged spell attack-based spells.
+> - Ignore non-total cover
+>
 > Feat gained! Silver-Tongued
-> 
-> - Double range of attack spells, ignore half/three-quarters cover.
+>
+> - Charisma 18
+> - Deception Expertise
+> - Bonus action to unsettle creatue, giving advantage to attacks against them,
+>   and immunity to opportunity attacks from them until end of next turn
+

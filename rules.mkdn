@@ -39,3 +39,5 @@ In the interest of fairness for single-player play, the following rules apply:
 - Charm person: 'come here often?'
 - Command: 'simon says'
 - Guidance: 'take the wheel'
+- Shocking Grasp: 'zap'
+- Spare the Dying: 'don't die/please die/stay dead'
