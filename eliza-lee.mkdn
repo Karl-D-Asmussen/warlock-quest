@@ -50,9 +50,11 @@ Spells of note:
 
   Shillelagh
   Magic Stone
+  Thaumaturgy
   Booming Blade
   Healing Elixir
   Guidance
+  Hex
   Wish
 
 Expertise: Athletics, Insight
