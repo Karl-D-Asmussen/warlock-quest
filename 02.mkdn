@@ -195,25 +195,42 @@ arm.
 
 ----
 
-> Level up! Warlock 2
->
-> - Hit Dice: 2d8
-> - Hit Points: 10 (4 Tempoary)
->   - Max roll 2d8 + 4: 6 + 7 + 4 = 17
-> - Pact Magic
->   - Invocations learned: _Agonizing Blast, Beguiling Influence_
->   - Spells learned: _Charm Person_
->   - Spell slot upgrade! 
->     - Lvl 1: 2 slots
->
-> Proficiency summary!
->
-> - Deception, Persuasion (Invocation)
-> - Investigation, Intimidation (Class)
-> - Simple weapons, Light armor (Class)
-> - Wisdom saves, Charisma saves (Class)
-> - Arcana, History, Stealth (Feat)
-> - Performance, Insight (Background)
-> - Disguise Kit (Background)
-> - Common, Infernal (Race), Elvish (Background)
+> Progress:
+> - Level up! Warlock 2
+>   - Hit Dice: 2d8
+>     - Hit point Total: 17 (roll: 6, 7, bonus: +4)
+>   - Pact Magic!
+>     - Invocations learned! _agonizing blast, beguiling influence_
+>     - Spells learned! _charm person_
+>     - Spell slot upgrade! 
+>       - Lvl 1: 2 slots
 
+----
+
+> Proficiency summary:
+> - Invocation:
+>   - Deception, Persuasion
+> - Class:
+>   - Investigation, Intimidation
+>   - Simple weapons, Light armor
+>   - Wisdom saves, Charisma saves
+> - Feat:
+>   - Arcana, History, Stealth 
+> - Background:
+>   - Performance, Insight
+>   - Disguise Kit 
+>   - Elvish
+> - Race:
+>   - Common, Infernal
+
+----
+
+> Spells:
+> - _Charm Person:_ ench. 1st (action, target: humanoid within 30 ft visual, V S, 1 hour) target must save Wis or be charmed,
+>   saves with advantage if in combat with you, charm lasts until hostilities ensue.
+
+----
+
+> Invocations:
+> - _Agnonizing Blast:_ add charisma bonus to _eldrich blast_ damage rolls.
+> - _Beguiling Influence:_ proficiency in deception, persuasion.

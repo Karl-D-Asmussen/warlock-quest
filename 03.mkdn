@@ -145,18 +145,24 @@ Looking behind me, to make sure I am not followed, I descend.
 
 ----
 
-> Level up! Warlock 3
-> 
-> - Hit Dice 3d8 (Constitution/Proficiency bonus cap: 2) (expended 2)
-> - Hit Points 21 (5 temp)
->   - Max roll 2d8 + 6: 5 + 8 + 6 = 19
-> - Pact of the Tome
->   - Cantrips gained: _Guidance, Mending, Spare the Dying (homebrew)_
-> - Pact Magic:
->   - Spells learned: _Suggestion, Hellish Rebuke (race)_
->   - Spell slots upgraded!
->     - Lvl 2: 2 slots
->     - Lvl 2: 1 slot, long rest
->   - Invocations gained: _Book of Ancient Secrets_
->     - Ritual casting gained!
->     - Rituals learned: _Speak With Animals, Ceremony_
+> Progress:
+> - Level up! Warlock 3
+>   - Hit Dice 3d8 
+>     - Hit point total: 19 (roll 2d8: 5 + 8, bonus: 6, capped by Proficiency bonus at 2 dice)
+>   - Pact of the Tome
+>   - Pact Magic:
+>     - Cantrips learned: _guidance (tome), mending (tome), spare the dying (tome)_
+>     - Spells learned: _suggestion, hellish rebuke (race)_
+>     - Spell slots upgraded!
+>       - Lvl 2: 2 slots
+>       - Lvl 2: 1 slot, long rest
+>     - Invocations gained: _Book of Ancient Secrets_
+>       - Ritual casting gained!
+>       - Rituals learned: _Speak With Animals, Ceremony_
+
+----
+
+> Spells:
+> - _Suggestion:_ ench. 2nd (action, target: creature within 30 ft visible, V M, 8 hours conc.) suggest
+>   reasonable two-sentence action to charmable creature capable of understanding, saves Wis to resist
+>   performing action, hostility ends the spell.

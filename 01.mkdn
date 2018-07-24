@@ -250,10 +250,11 @@ sensible set of gear.
 
 ----
 
+> Progress:
 > - Race selected! Tiefling
 >   - Size: Medium, Speed: 30 feet
->   - +1 to Intelligence, +2 to Charisma
->   - Darkvision out to 120 feet
+>   - Intelligence +1, Charisma +2
+>   - Darkvision (120 ft)
 >   - Resistance to fire damage
 >   - Languages: Common, Infernal
 >   - Innate spellcasting
@@ -265,8 +266,9 @@ sensible set of gear.
 >   - Skills: Insight, Performance
 >   - Tools: Disguise Kit
 >   - Languages: Elivsh
-> - Bonus feat gained! Skilled (Arcana, History, Stealth)
-> - Bonus feat gained! Infernal Constiution
+> - Bonus feats gained!
+>   - Skilled (Arcana, History, Stealth)
+>   - Infernal Constiution
 > - Attributes selected! Point Buy (27, start 8, 14/15 cost double)
 >   - Strength 10
 >   - Dexterity 12
@@ -311,14 +313,21 @@ sensible set of gear.
 ----
 
 > Spells:
-> - _Eldrich blast:_ (action, target: ranged spell attack 120 ft, V S) 1d10 force damage on hit,
+> - _Eldrich blast:_ cant. evo. (action, target: ranged spell attack 120 ft, V S) 1d10 force damage on hit,
 >   extra attack at lvl 5, 11, 17.
-> - _Prestidigitation:_ (action, range: 10 ft, V or S, 1 hour) do wizardly shit.
-> - _Produce flame:_ (action, V S, 10 minutes) create flame casting torchlight, fling flame as ranged spell attack 30 ft,
->   to deal 1d8 fire damage, additional 1d8 at lvl 5, 11, 17
-> - _Thaumaturgy:_ (action, range: 30 ft, V or S, 1 minute) do clerical shit.
-> - _Command:_ (action, target: creature within 60 ft visual, V, 1 round) save Wis or obey one word command,
+> - _Prestidigitation:_ cant. conj, (action, range: 10 ft, V or S, 1 hour) do wizardly shit.
+> - _Produce flame:_ cant. conj. (action, V S, 10 minutes) create flame casting torchlight, fling flame as
+    ranged spell attack 30 ft, to deal 1d8 fire damage, additional 1d8 at lvl 5, 11, 17
+> - _Thaumaturgy:_ cant. trans. (action, range: 30 ft, V or S, 1 minute) do clerical shit.
+> - _Command:_ ench. 1st (action, target: creature within 60 ft visual, V, 1 round) save Wis or obey one word command,
 >   target cannot be undead and must share language
-> - _Hex:_ (bonus action, target: creature within 90 ft visual, V S M, 1 hour conc.) target takes 1d6 additional
+> - _Hex:_ ench. 1st (bonus action, target: creature within 90 ft visual, V S M, 1 hour conc.) target takes 1d6 additional
 >   damage whenever hurt by magic, has disadvantage on checks with ability of your choice, use action to switch
 >   ability, if target dies before spell expires you can use bonus action to curse new creature.
+
+----
+
+> Feats:
+> - _Skilled:_ proficiency in three skills or tools
+> - _Infernal Constitution:_ (Tiefling only) Constitution +1, resistance to cold and poison damage,
+>   advantage on saves against poison, heat exposure, cold exposure.
