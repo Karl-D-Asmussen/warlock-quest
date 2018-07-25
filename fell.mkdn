@@ -85,3 +85,4 @@ Invocations:
   Versatile Blast (Radiant, Necrotic, Psychic)
   Repelling Blast
   Master of Myriad Forms
+  Visions of Distant Realms

@@ -41,3 +41,18 @@ In the interest of fairness for single-player play, the following rules apply:
 - Command: 'simon says'
 - Guidance: 'take the wheel'
 - Spare the Dying: 'don't die/please die/stay dead'
+
+# Homebrew Invocations
+
+- Eldritch Shaping; choose three.
+  - Touch: touch range, melee spell attack, 1d10 force damage, half effect.
+  - Burst: 5 ft range, dex save to avoid, 1d8 force damage, half effect
+  - Pulse (5): 30 ft line, 1d4+1 damage plus half effect, save dex for half and no effect.
+  - Ray (5): target range: EB, 1d12 force damage, plus half effect, save dex for half and no effect.
+  - Cone (9): 30 ft cone, 1d4+1 damage plus half effect, save dex for half and no effect.
+  - Spike (9): 20 ft line originating within 60 ft, 1d6 damamge plus half effect, dex save for half and no effect.
+  - Explosion (15): range: EB, 10 ft radius sphere, 1d4+1 damage plus half effect, dex save for half and no effect.
+
+- Eldritch Combatant: (pact of the blade, 5) learn a fighting style
+
+- Versatile Blast: choose two damamge types, EB can deal those instead of force.

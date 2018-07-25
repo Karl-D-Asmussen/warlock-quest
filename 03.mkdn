@@ -180,5 +180,6 @@ Looking behind me, to make sure I am not followed, I descend.
 > - _Guidance:_ div. cant. (action, V S, 1 minute conc.) add 1d4 to one skill check.
 > - _Mending:_ trans. cant. (1 miunte, V S M) repair broken items. Materials: two lodestones.
 > - _Spare the Dying:_ nec. cant. (action or reaction, target: creature within 10 ft visual, V) target creatuire at 0 HP
->   either becomes stable or begins dying with disadvantage on death saves. Progression: faster recovery/failed death saves.
+>   either becomes stable or begins dying with disadvantage on death saves, alternatly trap a corpse to deal 1d12 radiant
+>   if ever raised as undead. Progression: faster recovery/failed death saves/damage dice.
 
