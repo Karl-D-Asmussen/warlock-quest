@@ -322,6 +322,11 @@ set of adventuring gear.
 >     - Waterskin
 >     - Rope
 >     - Chalk
+>     - String
+>     - Pliers
+>     - Knife
+>     - Patches
+>     - Needle & thread
 >     - Rare inks worth ~300gp
 >   - Cloak, rugged clothes, belt pouch.
 >   - 10 sp.
