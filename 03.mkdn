@@ -1,13 +1,13 @@
-In a quiet little spot behind a pub, I sit down on a box and dig the two
+In a quiet little spot behind a lodging pub, I sit down on a box and dig the two
 hand-length bolts out of my thigh and arm --- I bite down on my rope while I
 do, and the barbs cut me something awful as I do, and it bleeds but not too
 badly. With _prestidigitation_ I clean the wounds, and with _produce flame_
 I cauterize them.
 
-When the deed is done, I clean my wounds of grime and stagger into the tavern
+When the deed is done, I clean myself of grime and stagger into the tavern
 and use the last of my money to purchase a room for the night. It's not a very
-nice establishment; dirt floors and cheap ale, tiny rooms with hard beds. I unroll
-my own bedroll, doff my armor, and fall asleep under my cloak.
+nice establishment; creaky floors and cheap ale, tiny rooms with hard beds. I unroll
+my own bedroll on top of the inadequate bedding, doff my armor, and fall asleep under my cloak.
 
 ----
 
@@ -158,11 +158,23 @@ Looking behind me, to make sure I am not followed, I descend.
 >       - Lvl 2: 1 slot, long rest
 >     - Invocations gained: _Book of Ancient Secrets_
 >       - Ritual casting gained!
->       - Rituals learned: _Speak With Animals, Ceremony_
+>       - Rituals learned: _speak with animals, ceremony_
 
 ----
 
 > Spells:
 > - _Suggestion:_ ench. 2nd (action, target: creature within 30 ft visible, V M, 8 hours conc.) suggest
 >   reasonable two-sentence action to charmable creature capable of understanding, saves Wis to resist
->   performing action, hostility ends the spell.
+>   performing action, hostility ends the spell. Upcast: additional targets. Materials: snake tongue or
+>   honeycomb.
+> - _Speak with Animals:_ div. 1st (action/ritual, V S, 10 minutes) gain the ability to speak with
+>   animals. Most animals are stupid. Upcast: tempoarily give animals spoken to higher intelligence score.
+> - _Ceremony:_ abj. 1st (various casting times/ritual, V S M) perform various religious rites, notably
+>   the creation of holy water. Materials: holy symbol.
+> - _Hellish Rebuke:_ evo. 1st (reaction when attacked, target: creature within 60 feet visual, V S)
+>   when taking damage, attacking creature takes 2d10 fire damage, save Dex for half. Upcast: extra damage.
+> - _Guidance:_ div. cant. (action, V S, 1 minute conc.) add 1d4 to one skill check.
+> - _Mending:_ trans. cant. (1 miunte, V S M) repair broken items. Materials: two lodestones.
+> - _Spare the Dying:_ nec. cant. (action or reaction, target: creature within 10 ft visual, V) target creatuire at 0 HP
+>   either becomes stable or begins dying with disadvantage on death saves. Progression: faster recovery/failed death saves.
+

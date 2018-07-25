@@ -54,9 +54,15 @@ my mind to three new spells, _mending_, _guidance_, and _spare the dying._
 She laughs --- a terrifying rumble accompanies it. She gestures, and my clothes seemingly all
 teleport off me, leaving me stark naked in the dark cold --- except it isn't; this is a dream.
 
-From her pelvis, where her human half meets her spider half, rises a... Manhood.
+From her pelvis, where her human half meets her spider half, rises a _manhood._ Despite
+myself, I am suddenly overwhelmingly aroused.
 
-"_Turn around and put your hands on the wall._"
+"_I'd say to buy me dinner first, but it's not like I eat._"
+
+I swallow hard, and get down on both knees. Her spidery legs tread forward, and her
+hands find my horns for leverage.
+
+"_Oh, but_ you _certainly do._"
 
 ----
 
@@ -69,7 +75,7 @@ Feeling refreshed, I realize the obvious course of action. I dig through my
 knapsack for the ritual book I pilfered from Haquim, and the expensive set of
 exotic inks I was hoping to pawn off for a tidy sum.
 
-«__Woosh,__» I say, summoning up a light to work from, and then I begin the work
+«__Flame-o,__» I say, summoning up a light to work by, and then I begin the work
 of transcribing the spells: _alarm, detect magic, find familiar, identify, tenser's floating
 disk,_ and _unseen servant._ There's four more rituals which I can't seem to decode.
 
@@ -150,9 +156,10 @@ and points, yelling something she cannot hear --- spiders are deaf. Anansi whisk
 over the lip of the roof, dashing the length of the roof in two leaps, and peeks over the edge again for me
 to see.
 
-The men rush through the alley, and file into the street beyond; only one of them lingers at
-the opposite mouth. Under my cloak --- still looking through Anansi's eyes --- I point to him
-and whisper «__Hex you,__» impeding his mind and senses.
+The men rush through the alley, and file into the street beyond; only one of
+them lingers at the opposite mouth. Under my cloak --- still looking through
+Anansi's eyes --- I grasp the stone eye, point to him and whisper «__Hex
+you,__» impeding his mind and senses.
 
 He turns, looking down the way he came, and I swear his eyes sweep right over my hiding place.
 
@@ -161,10 +168,11 @@ Then he turns and runs off.
 Anansi cross the roof once more, to keep lookout on the guards --- they have split up. Three going west
 and two going east.
 
-I unfurl from my hiding place, dismiss Anansi, and summon her to my hand, throwing her to the roof
-once more. I cast _guidance_ and ponder what to do next. I change the color of my cloak to
-a highly conspicuous red, with the bull-head of Pyth on it --- if Lemaignites are out for me,
-chances are they don't want to let the Pythians know.
+I unfurl from my hiding place, dismiss Anansi, and summon her to my hand,
+throwing her to the roof once more. I mumble «__take the wheel__» to cast
+_guidance_ and ponder what to do next. I change the color of my cloak to a
+highly conspicuous red, with the bull-head of Pyth on it --- if Lemaignites are
+out for me, chances are they don't want to let the Pythians know.
 
 And so, dressed as a rough approximation of a whorshipper of Pyth, I make my way into the southern
 wards once more. The streets become crowded, and I blend into the crowds.
@@ -197,17 +205,40 @@ I nod. That does seem like him. "Where can I meet him?"
 
 ----
 
-> Rituals learned!
->
-> - _alarm, detect magic, find familiar, identify, tenser's floating disk, unseen servant._
->
-> Familiar Gained! Goliath Jumping Spider
->
-> - Tiny beast
-> - Hit Points 2, Hit Dice 1d4, Armor Class 12, Speed 30 ft, Climb 20 ft
-> - Strength 4, Dexterity 14, Constitution 8, Intelligence 4, Wisdom 12, Charisma 5
-> - Perception +3, Stealth +4, Dexterity Save +4
-> - Passive perception 13, Darkvision 120 ft, Tremorsense 30 ft, Initiative +1, Colorblind, Deaf
-> - Immunities: falling damage, deafness
-> - Long leap: can jump 15 ft high and 30 ft long, with or without running start.
-> - Bite +0, reach 5 ft, 1 damage
+> Progress:
+> - Pact of the Tome
+>   - Rituals learned!
+>     - _alarm, detect magic, find familiar, identify, tenser's floating disk, unseen servant._
+> - Familiar Gained! Goliath Jumping Spider
+
+----
+
+> Grimoire:
+> - _Alarm:_ div. 1st (action/ritual, range: 30 feet, V S M, 8 hours) ward 20 ft cube with mental
+>   or audible alert against intrusion. Upcast: additional 20 ft cube.
+> - _Detect Magic:_ div. 1st (action/ritual, affects self, V S, 10 minutes conc.) sense presence of
+>   magic within 30 feet, allowing you to seefaint auras and determine school of magic if any.
+>   Upcast: additional range.
+> - _Find Familiar:_ conj. 1st (1 hour/ritual, V S M) gain a familiar (CR 0 beast). Familiar can
+>   lend their senses, channel touch-range spells, be dismissed and resummoned.
+> - _Identify:_ div. 1st (1 minute/ritual, touch range, V S M) learn the properties of a magic item.
+>   Materials: large pearl, owl feather.
+> - _Tenser's Floating Disk:_ conj. 1st (action/ritual, V S M, 1 hour) creates a 5 ft diam. circular
+>   horizontal pane of force that hovers 3--5 ft above terrain, follows caster at walking pace, can
+>   reshape itself into a gurney. Upcast: train of disks. Material: drop of mercury.
+> - _Unseen Servant:_ conj. 1st (action/ritual, V S M) creates invisible servant Str 2, AC 10, 1 HP,
+>   speed 15 ft, can perform menial tasks but not fight, bonus action to issue mental command to move and
+>   interact with object. Materials: wood, string.
+
+----
+
+> Bestiary:
+> - Goliath Jumping Spider
+>   - Tiny beast, CR 0
+>   - Hit Points 2, Hit Dice 1d4, Armor Class 12, Speed 30 ft, Climb 20 ft
+>   - Strength 4, Dexterity 14, Constitution 8, Intelligence 4, Wisdom 12, Charisma 5
+>   - Perception +3, Stealth +4, Dexterity Save +4
+>   - Passive perception 13, Darkvision 120 ft, Tremorsense 30 ft, Initiative +1, Colorblind, Deaf
+>   - Immunities: falling damage
+>   - Long leap: can jump 15 ft high and 30 ft long, with or without running start.
+>   - Bite +0, reach 5 ft, 1 damage

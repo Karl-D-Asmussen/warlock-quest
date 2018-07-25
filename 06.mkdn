@@ -85,8 +85,9 @@ That's... Direct.
 
 It suits me well.
 
-The coin purse is _heavy._ Inside, I find three smaller bags of leather, one
-with gold obols, one with silver drachmas, and one with bronze calcs. It is a
+The coin purse is _heavy._ Inside, I find four smaller bags of leather, one
+with gold obols, one with silver drachmas, and one with bronze calcs. The last one
+is a flat wallet with three --- three! --- banknotes in it. It is a
 veritable fortune compared to what I've previously held, and I quietly vow to
 put all of it to good use.  Sensibly, I stow most of the wealth on the bottom of
 my knapsack, and transfer only a few silvers to the outer pouch.
@@ -118,11 +119,25 @@ planks; if we had solid ground under our feet, we'd have solid morals too.
 It takes two hours on foot to cross from the southern slums, throug the
 southern, western, and nothern wards, to the nothern slums.
 
+I don't take a direct route: I need spell components; as of now, I only have
+the petrified eye of newt necessary for _hex_. Fortunately, most of what I
+need are common enough.
+
+A candlemaker supplies me with a chunk of honeycomb for a few coppers. Finding
+a consercrated holy symbol for the Daédra is difficult --- it'll likely require
+finding an actual cleric of them, and nobody advertises that. Lodestones
+are popular with sailors; it's easy to find a pair that aren't artificially
+made, but I do shell out three obols for it. Owl feathers can be found at a fletchery,
+but not the first one I check, and not for cheap --- ten drachma. The worst part is the pearl;
+I have to let go of 
+
+Materials: large pearl, owl feather.
+Materials: wood, string.
+
 Three blue is also a city that caters to stranger mercenaries, partly because
 of the catacombs under the cobble district and the sunken wards always manage
 to attract nasties and connect to underworld caves, but also because of the
-Gauntlet Isles a dozen miles off the coast, and the ancient cities in the desert
-mountains.
+Gauntlet Isles a dozen miles off the coast, and the ancient cities in the Old Rocks.
 
 Bunting's party is likely here to take a run at one of those three, or maybe
 they've just been hired by a gangster, like me.
@@ -192,4 +207,4 @@ inn I'm staying at --- the One-Eyed Cat. All that's left to do is to wait.
 > Gear gained!
 >
 > - Fine clothes
-> - 20 gp, 20 sp, 100 cp
+> - 3 pp, 50 gp, 100 sp, 100 cp (7 lbs)

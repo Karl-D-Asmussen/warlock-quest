@@ -17,8 +17,6 @@ armor. The gambeson coat is a welcome weight on my shoulders. It is as though I 
 always meant to dress with arms and in armor. The weight of the metal plate on my forehead
 is soothing, almost.
 
-I twirl the quarterstaff.
-
 Packing what I might concievably need and what I can carry into the non-magical
 knapsack and my pockets which now hang from my new belt, I throw the rest in the
 summoning heptagram. A quick _prestidigitation_ cleans the chalk and ash and
@@ -49,7 +47,7 @@ greater.
 It is a lawless harbor twice over as large as the next, ruled by the Thalassocracy
 of Captains --- pirates and merchants alike; a ship and crew gets you a vote, a fleet
 gets you many. Nobody gives a crap about city planning, and houses are built on piers and dry land ---
-for a given value of dry. The drained salt marsh that is the city's foundation leads to
+for a given value of dry. The salt marsh that is the city's foundation leads to
 it sinking ever so slightly with each passing year.
 
 A million souls and no census. Might makes right, and justice is in the hand
@@ -66,7 +64,7 @@ I head for the sourthern lower wards, where crime is rampant and only the most f
 judges --- secular or otherwise --- show their face. Where Pawpaw rules an octant with
 an iron fist.
 
-The sun bakes from above and I cast _prestidigitation_ to stay cool. The stench of the drained
+The sun bakes from above and I cast _prestidigitation_ to stay cool. The stench of the summer-hot
 salt marsh, mixed with the refuse of this gigantic city offends my nostrils; _prestidigitation_
 takes care of that too. It can be cast with either a word or a gesture as one pleases, same
 as _thaumaturgy._
@@ -79,7 +77,7 @@ his organization has a tendency to end up dead.
 In an upstanding city Pawpaw would have pushback. But he's the king of pimps and
 smugglers, and he has a ship, so technically he's a captain. If you have coin
 and dark desires, Pawpaw can get it for you. He runs brothels and drug dens and
-supplies taverns with exotic liqours.
+supplies drinking parlours with exotic liqours.
 
 Those where the things I learnt years ago before my mom was killed and
 _Haquim_ got his hands on me.
@@ -117,7 +115,8 @@ around atop the roof of a warehouse is even easier.
 Once I spot him, I shimmy down a drain pipe; a dozen feet off the ground my foot slips
 and I fall on my ass, bruising my tailbone something awful.
 
-Hobbling after, I keep a safe distance in the twilight. Once I know where
+Hobbling after, I keep a safe distance in the twilight, and my hand digs through my
+pocket for the bag of spell components. Once I know where
 he's going, I take a side street and run ahead to an alleyway I figure he'll
 pass. He's not alone --- a man of import never is --- but has with him a burly
 looking henchman who might prove troublesome.
@@ -135,10 +134,11 @@ me not to consider the possibility of him wearing armor. His henchman is
 dressed the same, and stands a foot taller.
 
 I cast back my hood, revealing my white face to him. He startles, and I bark an
-incantation: «__Hex you!__» The invisible magic weaves itself around Clannahan, and
-as soon as I feel it connect, I bolt back the way I came. I feel the connection,
-concentrating on the spell as I run. Behind me I hear him yell to his henchman to
-follow, and they do, despite my head start.
+incantation: «__Hex you!__» The invisible magic channels through the petrified
+eye in my hand and weaves itself around Clannahan, and as soon as I feel it
+connect, I bolt back the way I came. I feel the connection, concentrating on the
+spell as I run. Behind me I hear him yell to his henchman to follow, and they
+do, despite my head start.
 
 It's a bad move, but then again, the power of _hex_, as I innately know it, is that
 it can corrupt the mind or the body. In this case, I have reduced Clannahan to an
@@ -186,9 +186,9 @@ goes up in a flash of light; together with all his skin underneath. Another surg
 
 With a gasp and a rattle, he collapses.
 
-I limp over to where I dropped my staff, and pick it up. Then I go over to Clannahan and
-bash his face in with it until his brain matter lies on the boardwalk. The henchman, I spare ---
-he might die anyway.
+I limp over to where I dropped my crossbow, and pick it up. Then I go over to
+Clannahan and bash his face in with the stock until his brain matter lies on the
+boardwalk. The henchman I spare --- he might die anyway.
 
 Then I stagger away from the scene to find somewhere to dig two crossbow bolts out of my leg and
 arm.
@@ -204,6 +204,23 @@ arm.
 >     - Spells learned! _charm person_
 >     - Spell slot upgrade! 
 >       - Lvl 1: 2 slots
+
+----
+
+> Combat summary:
+> - AC 12
+> - Initiative +0
+> - Spell Attack Bonus +5
+> - Spell Save DC 13
+> - Saves:
+>   - Strength +0
+>   - Dexterity +1
+>   - Constitution +2
+>   - Intelligence +0
+>   - Wisdom +2
+>   - Charisma +5
+> - Attacks:
+>   - _eldrich blast_ +5 to hit, 1d10+5 force, range 120
 
 ----
 
@@ -227,7 +244,7 @@ arm.
 
 > Spells:
 > - _Charm Person:_ ench. 1st (action, target: humanoid within 30 ft visual, V S, 1 hour) target must save Wis or be charmed,
->   saves with advantage if in combat with you, charm lasts until hostilities ensue.
+>   saves with advantage if in combat with you, charm lasts until hostilities ensue. Upcast: additional targets.
 
 ----
 

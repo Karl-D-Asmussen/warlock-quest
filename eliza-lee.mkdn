@@ -1,11 +1,11 @@
 
 Valor Bard
 
-Healer, Alert
+Healer, Grappler
 
-Everybody's Friend (Cha +1), Inspiring Leader
-Polearm Master, Versatile Mastery
-Grappler, Cha +2
+Everybody's Friend (Cha +1), Polearm Master 
+Versatile Mastery, Cha +2
+Sharpshooter, Alert
 Heavily Armored (Str +1), Shield Mastery
 Resilient (Con +1), War Caster
 
@@ -17,45 +17,54 @@ Half Elf:
   Wis 10
   Cha 17
 
-Skills of note:
-  Perception 
-  Athletics
-  Stealth
+Background: Prostitute
   Insight
-
-  Medicine
   Persuasion
-  Deception
 
-  Performance
+Skills of note:
+  Persuasion +
+  Insight +
 
+  Deception +
+  Medicine +
+  Athletics +
+
+  Perception +
+  
   Hand Pans/Steel Drums
-  Taiko Drums
+  Body percussion
   Marimba/Xylophone/Balafon
 
 Spells of note:
-  Vicious Mockery
   Prestidigitation
-  Mold Earth
-  Dancing Lights
+  Mending
+  Light
+  Friends
   Thunderclap
 
-  Healing Word
-  Lesser Restoration
-  Revivify
-  Mass Healing Word
-  Greater Restoration
-  Raise Dead
-  Regeneration
+  Healing Word (1)
+  Longstrider (1)
+  Thunderwave (1)
+  Earth Tremor (1)
+  Lesser Restoration (2)
+  Enhance Ability (2)
+  Shatter (2)
+  Greater Restoration (3)
+  Counterspell (3)
+  Mass Cure Wounds (5)
+  Raise Dead (5)
+  Regenerate (7)
+  Ressurection (7)
+  True Polymorph (9)
 
   Shillelagh
   Magic Stone
-  Thaumaturgy
   Booming Blade
-  Healing Elixir
-  Guidance
-  Find Familiar
-  Wish
+  Thaumaturgy
+  Guidance 
+  Healing Elixir (1)
+  Find Familiar (1)
+  Wish (9)
 
 Expertise: Athletics, Insight
 

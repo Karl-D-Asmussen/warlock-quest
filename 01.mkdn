@@ -67,7 +67,17 @@ The following month(? Year? Decade?) is heaven.
 
 I clean and cook for him. When he is amorous I share his bed.
 
-Haquim.
+_Haq---_
+
+
+----
+
+I smash a plate. He gives me four strikes with a flexible cane as punishment,
+and forces himself upon me.
+
+----
+
+_---uim._
 
 He tells me things about magic and I listen and smile and nod and call him clever.
 
@@ -130,7 +140,7 @@ Then I take the pillow and put it over his head.
 ----
 
 The magical knapsack my back is full of stolen books and provisions. I steal through the lower warrens of
-the city to a small inn by the docks, and rent a room there.
+the city to a small lodging by the docks, and rent a room there.
 
 I cry myself to sleep, but not out of sorrow for the deaths; out of sorrow for the fact that I've killed
 and feel nothing.
@@ -147,15 +157,16 @@ years.
 
 As soon as I can, I leave.
 
-I leave town, across the piers in the drained marshland, into the desert. It's
-not easy to travel with an infant, but I make do. Only once am two days away, I
-change course, entering the dry rocky wilderness.
+I leave town, across the piers in the marshland, onto the steppes. It's
+not easy to travel with an infant, but I make do. Only once am three days away, beyond
+the maize fields, well into the scrublands where cattle grazes, I
+stray from the beaten path, entering the wilderness; headed for the Old Rocks.
 
 In one of the books I've brought with me lies a dark ritual, and in the knapsack
 the components for it.
 
 With grim resolution, ignoring the cries of the little one which that--- that _beast_ of
-a man _Haquim_ put in me, I draw up the heptagram, spill the ashes, and incant.
+a man _Haquim_ put in me, I draw up the heptagram, spill the fresh ashes, and incant.
 
 There's a column of hellfire, and out of it dances a feminine figure. All
 legs and curves and black carapace, clad in a tailored tunic of grey silk that
@@ -173,10 +184,14 @@ She casually steps over the bounds of the diagram, and a shiver runs down my spi
 Taking a deep breath, I turn around and pick up the swaddled newborn. He smells like shit, having
 soiled himself again. "My firstborn."
 
-"_Huh. That's usually a thing given to the Archfey. It's not really to my taste._"
+"_Huh. That's_ Fey. _How unusual. But you're fire-born, girl. Anyway, gift horses._"
 
 She snaps her fingers, and my arms are empty. There's a hollow pang in my chest of
-feelings I am supposed to have but do not. "Uh, I..." scrambling for another sacrifice,
+feelings I am supposed to have but do not.
+
+"_More._"
+
+"Uh, I..." scrambling for another sacrifice,
 I upend my knapsack --- it's a useful, if common, magic item. "This?"
 
 She snaps her fingers again. "_Hum. Anything else?_"
@@ -186,7 +201,7 @@ he kept on him at all times. Another snap, another void suddenly between my hand
 
 "_All right, that's enough of trinkets. I want someting personal._"
 
-"Take my womb," I say without hesitation.
+My mental gears grind. "Take my womb," I say without hesitation.
 
 They cock their head to one side. "_You're very willing to part with it. That discounts it
 somewhat._"
@@ -199,14 +214,13 @@ nauseous beyond measure.
 I rack my addled mind for something. "You. Can. Have. My---" I gag "_name._" Haquim only
 ever called me 'pet' --- Jacaranda was what my mother called me.
 
-They kneel over me. "_Archfey, darling, look it up. Jacaranda... Why not, I'll take it._"
+They kneel over me. "_Jacaranda... Your mother gave you that... Why not; I'll take it._"
 
 I dry heave once, curling up in the foetal position.
 Though watering eyes, I see her smile. She snaps her fingers once more, and I don't feel any
 change.
 
-"_Now, you of course know the conditions of this pact,
-no? Once you die, your sorry soul is mine._"
+"_Now, you of course know the conditions of this pact, no? Once you die, your sorry soul is mine._"
 
 I close my eyes.
 
@@ -246,7 +260,7 @@ avatars --- is frowned upon by the Church of the Five."
 Then he's gone.
 
 I unwrap the bundle, finding it to be a cloak wrapped around a
-sensible set of gear.
+set of adventuring gear.
 
 ----
 
@@ -262,6 +276,13 @@ sensible set of gear.
 >     - _Thaumaturgy_ cantrip
 >     - At level 3: _Hellish Rebuke_ 2nd level slot, recharge: long rest
 >     - At level 5: _Darkness_, 3rd level slot, recharge: long rest
+> - Attributes selected! Point Buy (27, start 8, 14/15 cost double)
+>   - Strength 10
+>   - Dexterity 12
+>   - Constitution 14
+>   - Intelligence 11
+>   - Wisdom 11
+>   - Charisma 17
 > - Background selected! Slave (Comfort)
 >   - Skills: Insight, Performance
 >   - Tools: Disguise Kit
@@ -269,13 +290,6 @@ sensible set of gear.
 > - Bonus feats gained!
 >   - Skilled (Arcana, History, Stealth)
 >   - Infernal Constiution
-> - Attributes selected! Point Buy (27, start 8, 14/15 cost double)
->   - Strength 10
->   - Dexterity 12
->   - Constitution 14
->   - Intelligence 12
->   - Wisdom 10
->   - Charisma 17
 > - Level up! Warlock 1
 >   - Proficiency Bonus: +2
 >   - Hit Dice: 1d8
@@ -292,38 +306,41 @@ sensible set of gear.
 >     - Spells learned: _command, hex_
 >     - Cantrips learned: _eldrich blast, prestidigitation, produce flame, thaumaturgy (race)_
 > - Gear gained!
->   - Quarterstaff, 2 daggers w/ sheaths, light crossbow w/ holster, 20 bolts in quiver.
->   - Light armor (AC 11): gambeson; protective gear (AC +1): vambracers, greaves, forehead plate.
+>   - 2 daggers w/ sheaths, light crossbow w/ holster, 20 bolts in quiver.
+>   - Gambeson armor with vambracers, greaves, and forehead protector.
 >   - Component Pouch
 >   - Knapsack & Pockets
+>     - Bedroll
 >     - Books of rituals, magic theory, and arcana
 >     - Disguise Kit
 >     - Bedroll
 >     - Crowbar
+>     - Handaxe
 >     - Hammer
 >     - Pitons
 >     - 12 days of rations
 >     - Waterskin
 >     - Rope
 >     - Chalk
->     - Rare inks worth 300gp
+>     - Rare inks worth ~300gp
 >   - Cloak, rugged clothes, belt pouch.
 >   - 10 sp.
 
 ----
 
-> Spells:
-> - _Eldrich blast:_ cant. evo. (action, target: ranged spell attack 120 ft, V S) 1d10 force damage on hit,
->   extra attack at lvl 5, 11, 17.
-> - _Prestidigitation:_ cant. conj, (action, range: 10 ft, V or S, 1 hour) do wizardly shit.
+> Grimoire:
+> - _Eldrich blast:_ cant. evo. (action, target: ranged spell attack 120 ft, V S) 1d10 force damage on hit.
+>   Progression: extra attack.
+> - _Prestidigitation:_ cant. conj, (action, range: 10 ft, V or S, 1 hour) flavor cantrip.
 > - _Produce flame:_ cant. conj. (action, V S, 10 minutes) create flame casting torchlight, fling flame as
-    ranged spell attack 30 ft, to deal 1d8 fire damage, additional 1d8 at lvl 5, 11, 17
-> - _Thaumaturgy:_ cant. trans. (action, range: 30 ft, V or S, 1 minute) do clerical shit.
-> - _Command:_ ench. 1st (action, target: creature within 60 ft visual, V, 1 round) save Wis or obey one word command,
->   target cannot be undead and must share language
+    ranged spell attack 30 ft to deal 1d8 fire damage and set fires. Progression: additional damage die.
+> - _Thaumaturgy:_ cant. trans. (action, range: 30 ft, V or S, 1 minute) flavor cantrip.
+> - _Command:_ ench. 1st (action, target: creature within 60 ft visual, V, 1 round) target saves Wis or obeys one-word command,
+>   target cannot be undead and must share language. Upcast: additional targets.
 > - _Hex:_ ench. 1st (bonus action, target: creature within 90 ft visual, V S M, 1 hour conc.) target takes 1d6 additional
->   damage whenever hurt by magic, has disadvantage on checks with ability of your choice, use action to switch
->   ability, if target dies before spell expires you can use bonus action to curse new creature.
+>   damage whenever hurt by your magic, has disadvantage on checks with ability of your choice, use bonus action to switch
+>   ability impeded, or move curse new target. Upcast: extended duration.
+>   Materials: petrified eye of newt.
 
 ----
 

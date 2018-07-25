@@ -2,7 +2,7 @@ The black of night has really fallen by the time I reach Pawpaw's galleon. It is
 lavish ship, probably not fit for seafaring, mostly serving as headquarters for his
 operations in Three Blues.
 
-It lies docked right by a tavern, a brothel, and a drug den; all owned by Pawpaw.
+It lies docked right by a pub, a hotel, a brothel, and a drug den; all owned by Pawpaw.
 
 I know this, because I was a message runner, just like the little girl
 who came to me earlier in the evening. When the pimp who ran the brothel
@@ -47,7 +47,7 @@ _never_ had anyone poisoned."
 I nod. "I'll belay drinking until I no longer need my wits about me," I say.
 
 Pawpaw folds his hands. "Now, I understand you killed one of my Lieutenants and greviously injured his bodyguard,
-and arguably in self defence injured one, and killed one more and two dogs; all under my employ."
+then next day arguably in self defence injured one, and killed one more and two dogs; all under my employ."
 
 I nod again. I can't get a read on him.
 
@@ -64,7 +64,7 @@ is just more leverage I can use. The party sent to the Limping Pony to kill you 
 Clannahan's brother, who pursued _his_ revenge and unlike you, lost. The loss of life and limb and dogs
 is just the cost of doing business."
 
-I narrow my eyes. "You seem suspiciously 'large' about this."
+I narrow my eyes. "You seem suspiciously unruffled about this."
 
 Pawpaw smiles. "Well, I'm here to make you an offer, not intimidate you into indentured servitude."
 
@@ -75,13 +75,14 @@ can kill them."
 
 I scowl.
 
-"Clannahan's brother is gunning for you --- he's stupid, but he has loyal men;
-next time you won't be so lucky. The Masons have your likeness and want to
-question you about alleged Daédric activities; this info they have no doubt
-obtained from Haquim's colleagues --- powerful wizards --- who would like
-nothing more than to vivisect you, but will settle for a good witch burning
-if they can't. Also, I hear reports that the Matrons are hunting for a grave
-robber, which I can't seem not to suspect you have something to do with."
+"Clannahan's brother is gunning for you --- he's stupid, but he has resources,
+connections, and loyal men; next time you won't be so lucky. The Masons have
+your likeness and want to question you about alleged Daédric activities; this
+info they have no doubt obtained from Haquim's colleagues --- powerful wizards
+--- who would like nothing more than to vivisect you, but will settle for a good
+witch burning if they can't. Also, I hear reports that the Matrons are hunting
+for a grave robber, which I can't seem not to suspect you have something to do
+with."
 
 He takes his cup, and takes a swig of wine, then shrugs. "Sounds about accurate?"
 
@@ -109,7 +110,7 @@ able to read your lips."
 
 I raise my cheek. "And you?"
 
-"The best policy in establishing a reputation as an honest, dependable business man, is to be
+"The best policy in establishing a reputation as an honest, dependable businessman, is to be
 honest and dependable," he says.
 
 I frown. "Haquim used me as a test subject for his magic, and once I was nice
@@ -175,25 +176,34 @@ And then it _really_ hits me what it meant when I gave Mephala my name.
 
 ----
 
-> Level up! Warlock 4
->
-> - Hit Dice: 4d8
-> - Hit Points: 25 (5 temp)
->   - New max roll 2d8 + 4: 8 + 4 + 8 = 20
-> - Pact Magic
->   - Cantrips learned: _mage hand, blade ward (feat), true strike (feat)_
->   - Spells learned: _shadow blade, hex (feat)_
->   - Spells retrained: _hex_ into _puppet_
->   - Spell slots upgraded!
->     - Lvl 2: 2 slots
->     - Lvl 2: 1 slot, long rest
->     - Lvl 1: 1 slot, long rest
-> 
-> Feat gained! Magic Initate (Warlock of the Tome)
->
-> Feat gained! Actor
->
-> - Charisma 18 (+4)
-> - Advantage on Performance/Deception to pretend to be another
-> - Vocal mimicry
+> Progress:
+> - Level up! Warlock 4
+>   - Hit Dice: 4d8
+>   - Hit Points: 25 (5 temp)
+>     - New max roll 2d8 + 4: 8 + 4 + 8 = 20
+>   - Pact Magic
+>     - Cantrips learned: _mage hand, mold earth (feat), minor illusion (feat)_
+>     - Spells learned: _shadow blade, hex (feat)_
+>     - Spells retrained: _hex_ into _puppet_
+>     - Spell slots upgraded!
+>       - Lvl 2: 2 slots
+>       - Lvl 2: 1 slot, long rest
+>       - Lvl 1: 1 slot, long rest
+> - Feat gained! Magic Initate (Warlock of the Tome)
+> - Feat gained! Actor
 
+----
+
+> Spells:
+> - _Mage Hand:_
+> - _Minor Illusion:_ ill. cant. (action, range: 30 ft, S M (fleece), 1 minute) create visual illusion
+>   of an object no larger than 5 ft cubed or sounds originating anywhere within range.
+> - _True Strike:_ div. cant. (action, target: 120 ft visual, S, 1 round) gain advantage on next attack roll
+    made against target.
+
+----
+
+> Feats:
+> - _Magic Initiate:_ learn two cantrips and one 1st level spell from a spell list of your choice, you gain
+>   one 1st-level spell slot that recharges on a long rest with which to cast the spell.
+> - _Actor:_ Charisma +1, advantage on passing for another person, mimicry ability.
