@@ -16,7 +16,7 @@ In the interest of fairness for single-player play, the following rules apply:
 
 # Warlock Buffs
 
-- Number of Invocations: (Level + 1)/2 + 1
+- Number of Invocations: 12, two at lvl 2, one at every odd level, one at lvl 20
 - Spells known: Level + 1
 - Extra spell slot at 5th level
 - Extra cantrip at 1st level
