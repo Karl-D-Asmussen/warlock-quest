@@ -26,6 +26,7 @@ In the interest of fairness for single-player play, the following rules apply:
   - Great Old One: _Light, Vicious Mockery_
 - Concentrate on a number of spells equal to Proficiency Bonus divided by 2
 - Bonus action to quaff health potion.
+- _Message_ is a Warlock spell.
 - _Healing Elixir_ creates health potions.
 - Viewing through a familiar's eyes is a bonus action, and can be dismissed for free.
 

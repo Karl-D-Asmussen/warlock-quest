@@ -179,28 +179,39 @@ And then it _really_ hits me what it meant when I gave Mephala my name.
 > Progress:
 > - Level up! Warlock 4
 >   - Hit Dice: 4d8
->   - Hit Points: 25 (5 temp)
->     - New max roll 2d8 + 4: 8 + 4 + 8 = 20
+>     - Hit point total: 20 (roll 2d8: 4 + 8, bonus: 8, capped by Proficiency bonus at 2 dice)
 >   - Pact Magic
->     - Cantrips learned: _mage hand, mold earth (feat), minor illusion (feat)_
+>     - Cantrips learned: _mage hand, mold earth (feat, tome), minor illusion (feat, tome)_
 >     - Spells learned: _shadow blade, hex (feat)_
 >     - Spells retrained: _hex_ into _puppet_
 >     - Spell slots upgraded!
->       - Lvl 2: 2 slots
->       - Lvl 2: 1 slot, long rest
->       - Lvl 1: 1 slot, long rest
+>       - Lvl 2: 2 slots, short rest
+>       - Lvl 2: 1 slot, long rest (race)
+>       - Lvl 1: 1 slot, long rest (feat)
 > - Feat gained! Magic Initate (Warlock of the Tome)
 > - Feat gained! Actor
 
 ----
 
-> Spells:
+> Attributes:
+> - Strength 10 (+0)
+> - Dexterity 12 (+1)
+> - Constitution 15 (+2)
+> - Intelligence 11 (+0)
+> - Wisdom 11 (+0)
+> - Charisma 18 (+4)
+
+----
+
+> Grimoire:
 > - _Mage Hand:_
 > - _Minor Illusion:_ ill. cant. (action, range: 30 ft, S M (fleece), 1 minute) create visual illusion
 >   of an object no larger than 5 ft cubed or sounds originating anywhere within range.
 > - _Mold earth:_ trans. cant. (action, range: 30 ft, S, 1 hour) move 5 ft cube of earth, make 5 ft square of
 >   earth or stone into difficult terrain, or flavor effects; max two effects at once. Progression: additional effets
 >   at once.
+> - _Puppet:_ ench. 1st TK
+> - _Shadow blade:_ ill. 2nd TK
 
 ----
 
@@ -208,3 +219,4 @@ And then it _really_ hits me what it meant when I gave Mephala my name.
 > - _Magic Initiate:_ learn two cantrips and one 1st level spell from a spell list of your choice, you gain
 >   one 1st-level spell slot that recharges on a long rest with which to cast the spell.
 > - _Actor:_ Charisma +1, advantage on passing for another person, mimicry ability.
+

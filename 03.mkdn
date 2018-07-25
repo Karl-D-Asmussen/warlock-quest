@@ -124,6 +124,8 @@ quarterstaff --- from slate grey to wooden.
 
 I stuff the horns in my knapsack and turn to the maid. "Front exit?"
 
+I neglect to give her back the saw.
+
 ----
 
 My disguise is admittedly slapdash, but it does the trick. Walking at a reasonable pace, I make it away from
@@ -159,6 +161,8 @@ Looking behind me, to make sure I am not followed, I descend.
 >     - Invocations gained: _Book of Ancient Secrets_
 >       - Ritual casting gained!
 >       - Rituals learned: _speak with animals, ceremony_
+> - Gear gained!
+>   - Bone saw
 
 ----
 

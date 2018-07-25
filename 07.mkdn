@@ -9,7 +9,7 @@ I repeat the routine the next day, returning to the taverns that let me, and spe
 to new guests.
 
 On my way home, I notice someone following me --- a woman. She ducks out of sight, into
-an alley the moment I turn to look, and I only catch a glimpse of white hair and dark skin.
+an alley the moment I turn to look, and I only catch a glimpse of black dress, white hair and dark skin.
 
 I summon Anansi and toss her discretely onto a roof, then continue --- there's a slight
 telepathic bond between me and her, through which I direct her actions; there's also
@@ -38,8 +38,8 @@ his hand.
 
 While he strugles with removing it silently --- failing somewhat --- I mutter
 «__Hex you!__» and point at him out of the crack permitted by the closet door.
-My curse addles his mind, making him less observant. Then I cast _thaumaturgy_ and
-wait.
+My curse addles his mind, making him less observant. Then I cast _thaumaturgy_ with
+a gesture and wait.
 
 In steps Bunting himself. He scouts the room, and misses both me and Anansi. He
 goes over to the covers, and without hesitation, sinks a dagger into my bed sheets.
@@ -78,8 +78,104 @@ with a note --- '_sorry about the mess._' Not that there is much mess.
 I make my way through the half-empty streets with a conspicuous faint force panel carrying
 an unconscious man, in a part of town where everyone hates me.
 
-Miraculously, I am not accosted. Wheeling Bunting into an abandoned building half sunk into
-the marsh, I head downwards, escavating mud with _mold earth_ as I go, eventually clearing
-a room well below basement level; I have an hour until the mud comes crashing down again.
+Miraculously, I am not accosted. Then again, it's a short way out to the edge of the slums,
+where the tide is far out to sea leaving the marsh bare. 
 
+In seconds, I excavate a grave with my new _mold earth_ cantrip. Dumping bunting into the deep hole,
+I hop down with him. In the dense clay, I excavate a man-sized vertical cavity, and bury every part
+of him but the head. By the light of _produce flame_, I read my grimoire until he wakes.
+
+He does so, with a resounding groan, when the greying of dawn is on the horizon and a trickle of sea
+water begins to bode the tide coming in.
+
+"What the _fuck,_" he says in a gravelly voice.
+
+"Hi," I say. "Are you Bunting?"
+
+"Nonono--- Please, you have the wrong guy!"
+
+He's lying. I grab a dagger and plunge it into his throat, while incanting
+«__please die,__» bidding him to resume a short and presumably unpleasant
+descent into oblivion.
+
+
+I take out my stolen bone saw, a dagger, and get to work. Decapitating him is
+the easy part; scalping him too, laying bare the skull for the cut. Cutting his face
+off is harder, but I manage to get the forehead, eye sockets, cheek bones, temples, maxilla,
+and mandible off; leaving behind his brain and a section of cranium. I clean the blood off with magic, and
+cool and dehydrate the flesh to prevent rotting.
+
+I wrap it in a piece of cloth, pack the grizzly trophy in a pocket, and exhume
+his body from the confines of the earth.
+
+With a fingertip, I blast his earthly remains until ashes, feathers, jelly and splintered bones
+is all that is left. Then I climb out of the hole and collapse it.
+
+----
+
+Making my way back through town under the cover of early dawn is easy, but nerve wracking. Walking around with
+the cut-off face of a man would instantly get me under suspicion for murder, and
+then probably summarily executed for witchery.
+
+"Hi."
+
+I stop, and turn to the speaker. A woman wearing chainmail, with a pointed hat, gambeson skirt, and long boots.
+She's dark-skinned, with curly silver hair. On her hip hangs a longsword, and on the other a pair of claves.
+
+"Greetings," I reply.
+
+"You killed Bunting."
+
+I don't deny it. "Friend of his?"
+
+"_Gods,_ no," she says. "Although I did work for him for a while. Anyway, I just wanted you to know
+that I know."
+
+She turns and leaves.
+
+"You know I could probably kill you, right? I'm getting kind of good at that," I say.
+
+She looks back. "You can _try,_ girl; you can _try._"
+
+----
+
+"This is rather macabre, don't you think?" Pawpaw asks.
+
+I shrug. "Carrying a full head seemed too risky."
+
+He nods. "This is Bunting, all right. Good work."
+Then he just _hands_ me a leather wallet with another three --- three! ---
+platinum banknotes.
+
+"This is a _lot_ of money."
+
+"And you are an utterly expendable, utterly deniable, killer-for-hire," he replies with
+a smile. "Be sure to let me know if there are other things you'd like to be doing."
+
+I frown. "Well, I can do some magic that doesn't involve killing
+people. Identify magic items, speak to animals; I've got illusions and tricks
+and digging spells, and I can even perform Daédric ceremonies."
+
+Pawpaw rubs his chin. "I'll keep that in mind."
+
+With that, he dismisses me from the deck of his brig, and I head back to the neaby hotel
+to get some sleep --- this time with an _alarm_ on the door.
+
+----
+
+> Progress:
+> - Level up! Warlock 5
+>   - Proficiency Bonus: +3
+>   - Hit Dice 5d8
+>     - Hit point total: 23 (roll 3d8: 7 + 5 + 1, bonus: 10, capped by Proficiency bonus at 3 dice)
+>   - Pact Magic
+>     - Cantrip progression!
+>       - _Eldrich blast_ now fires two beams.
+>     - Spell slots upgraded!
+>       - Lvl 3: 2 slots, short rest
+>       - Lvl 3: 1 slot, long rest (race)
+>       - Lvl 2: 1 slot, long rest (race)
+>       - Lvl 1: 1 slot, long rest (feat)
+>     - Spells learned: _fireball, darkness (race)_
+>     - Invocations gained: _aspect of the moon_
 

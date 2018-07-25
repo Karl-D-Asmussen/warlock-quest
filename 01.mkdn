@@ -294,7 +294,7 @@ set of adventuring gear.
 >   - Proficiency Bonus: +2
 >   - Hit Dice: 1d8
 >   - Hit Points: 10
->     - Total roll 1d8 + 2: 8 + 2 = 10
+>     - Hit point total: 10 (no roll, max on 1d8: 8, bonus: 2)
 >   - Skills: Investigation, Intimidation
 >   - Weapons & Armor: Simple, Light
 >   - Saves: Wisdom, Charisma
