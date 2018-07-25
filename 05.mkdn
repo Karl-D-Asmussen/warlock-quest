@@ -198,8 +198,9 @@ And then it _really_ hits me what it meant when I gave Mephala my name.
 > - _Mage Hand:_
 > - _Minor Illusion:_ ill. cant. (action, range: 30 ft, S M (fleece), 1 minute) create visual illusion
 >   of an object no larger than 5 ft cubed or sounds originating anywhere within range.
-> - _True Strike:_ div. cant. (action, target: 120 ft visual, S, 1 round) gain advantage on next attack roll
-    made against target.
+> - _Mold earth:_ trans. cant. (action, range: 30 ft, S, 1 hour) move 5 ft cube of earth, make 5 ft square of
+>   earth or stone into difficult terrain, or flavor effects; max two effects at once. Progression: additional effets
+>   at once.
 
 ----
 

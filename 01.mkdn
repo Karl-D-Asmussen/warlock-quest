@@ -331,10 +331,12 @@ set of adventuring gear.
 > Grimoire:
 > - _Eldrich blast:_ cant. evo. (action, target: ranged spell attack 120 ft, V S) 1d10 force damage on hit.
 >   Progression: extra attack.
-> - _Prestidigitation:_ cant. conj, (action, range: 10 ft, V or S, 1 hour) flavor cantrip.
+> - _Prestidigitation:_ cant. conj, (action, range: 10 ft, V or S, 1 hour) flavor cantrip, max three effects
+    at once. Progression: additional effects at once.
 > - _Produce flame:_ cant. conj. (action, V S, 10 minutes) create flame casting torchlight, fling flame as
     ranged spell attack 30 ft to deal 1d8 fire damage and set fires. Progression: additional damage die.
-> - _Thaumaturgy:_ cant. trans. (action, range: 30 ft, V or S, 1 minute) flavor cantrip.
+> - _Thaumaturgy:_ cant. trans. (action, range: 30 ft, V or S, 1 minute) flavor cantrip, max three effects at
+    once. Progression: additional effects at once.
 > - _Command:_ ench. 1st (action, target: creature within 60 ft visual, V, 1 round) target saves Wis or obeys one-word command,
 >   target cannot be undead and must share language. Upcast: additional targets.
 > - _Hex:_ ench. 1st (bonus action, target: creature within 90 ft visual, V S M, 1 hour conc.) target takes 1d6 additional
