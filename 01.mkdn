@@ -305,6 +305,10 @@ set of adventuring gear.
 >       - Lvl 1: 1 slot, recharge: short rest
 >     - Spells learned: _command, hex_
 >     - Cantrips learned: _eldrich blast, prestidigitation, produce flame, thaumaturgy (race)_
+
+----
+
+> Posessions:
 > - Gear gained!
 >   - 2 daggers w/ sheaths, light crossbow w/ holster, 20 bolts in quiver.
 >   - Gambeson armor with vambracers, greaves, and forehead protector.

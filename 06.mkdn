@@ -123,8 +123,11 @@ I don't take a direct route: I need spell components; as of now, I only have
 the petrified eye of newt necessary for _hex_. Fortunately, most of what I
 need are common enough.
 
-A candlemaker supplies me with a chunk of honeycomb for a few coppers. Finding
-a consercrated holy symbol for the Daédra is difficult --- it'll likely require
+A candlemaker supplies me with a chunk of honeycomb for a few coppers. A bit of fleece
+I get from a spinster for a _single_ copper. Wood scraps are free from a joiner's workshop,
+and string I already have.
+
+Finding a consercrated holy symbol for the Daédra is difficult --- it'll likely require
 finding an actual cleric of them, and nobody advertises that. Lodestones
 are popular with sailors; it's easy to find a pair that aren't artificially
 made, but I do shell out three obols for it. Owl feathers can be found at a fletchery,
@@ -203,7 +206,15 @@ inn I'm staying at --- the One-Eyed Cat. All that's left to do is to wait.
 
 ----
 
-> Gear gained!
->
-> - Fine clothes
-> - 3 pp, 50 gp, 100 sp, 100 cp (7 lbs)
+> Progress:
+> - Gear gained!
+>   - Fine clothes
+>   - Material components:
+>     - _suggestion_
+>     - _minor illusion_
+>     - _unseen servant_
+>     - _mending_
+>     - _identify_
+> - Treasure gained!
+>   - 3 pp, 50 gp, 100 sp, 100 cp (7 lbs)
+

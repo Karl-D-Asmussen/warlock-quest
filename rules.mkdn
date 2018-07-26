@@ -56,3 +56,7 @@ In the interest of fairness for single-player play, the following rules apply:
 - Eldritch Combatant: (pact of the blade, 5) learn a fighting style
 
 - Versatile Blast: choose two damamge types, EB can deal those instead of force.
+
+# Bard
+
+- College feature at

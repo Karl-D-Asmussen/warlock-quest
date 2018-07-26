@@ -161,12 +161,16 @@ Looking behind me, to make sure I am not followed, I descend.
 >     - Invocations gained: _Book of Ancient Secrets_
 >       - Ritual casting gained!
 >       - Rituals learned: _speak with animals, ceremony_
+
+----
+
+> Posessions:
 > - Gear gained!
 >   - Bone saw
 
 ----
 
-> Spells:
+> Grimoire:
 > - _Suggestion:_ ench. 2nd (action, target: creature within 30 ft visible, V M, 8 hours conc.) suggest
 >   reasonable two-sentence action to charmable creature capable of understanding, saves Wis to resist
 >   performing action, hostility ends the spell. Upcast: additional targets. Materials: snake tongue or
