@@ -3,10 +3,10 @@
 A young Tiefling woman sold into slavery sells her soul and becomes a murder-hobo
 in the free city of Three Blues.
 
-- [Chapter 1]
-- [Chapter 2]
-- [Chapter 3]
-- [Chapter 4]
-- [Chapter 5]
-- [Chapter 6]
-- [Chapter 7]
+- [Chapter 1](https://github.com/Karl-D-Asmussen/warlock-quest/blob/master/01.mkdn)
+- [Chapter 2](https://github.com/Karl-D-Asmussen/warlock-quest/blob/master/02.mkdn)
+- [Chapter 3](https://github.com/Karl-D-Asmussen/warlock-quest/blob/master/03.mkdn)
+- [Chapter 4](https://github.com/Karl-D-Asmussen/warlock-quest/blob/master/04.mkdn)
+- [Chapter 5](https://github.com/Karl-D-Asmussen/warlock-quest/blob/master/05.mkdn)
+- [Chapter 6](https://github.com/Karl-D-Asmussen/warlock-quest/blob/master/06.mkdn)
+- [Chapter 7](https://github.com/Karl-D-Asmussen/warlock-quest/blob/master/07.mkdn)
