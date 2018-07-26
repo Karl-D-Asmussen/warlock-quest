@@ -79,38 +79,55 @@ I make my way through the half-empty streets with a conspicuous faint force pane
 an unconscious man, in a part of town where everyone hates me.
 
 Miraculously, I am not accosted. Then again, it's a short way out to the edge of the slums,
-where the tide is far out to sea leaving the marsh bare. 
+where the tide is far out to sea leaving the marsh bare. My boots get muddy.
 
-In seconds, I excavate a grave with my new _mold earth_ cantrip. Dumping bunting into the deep hole,
-I hop down with him. In the dense clay, I excavate a man-sized vertical cavity, and bury every part
-of him but the head. By the light of _produce flame_, I read my grimoire until he wakes.
+Once the city is but a streak of lights in the distance, I stop, and remove his sleeve from
+his wrist, finding a tattoo of an intricate knot there. With my knife, I skin it off, leaving a bleeding
+sore, which I cauterize with my flame. A casting of _prestidigitation_ drains the skin of blood
+and chills it to preserve it.
+
+I excavate a man-sized vertical cavity with _mold earth_, and bury every part 
+of him but the head. By the light of _produce flame_, I sit on the floating disk and
+read my grimoire until he wakes --- there's something mesmerizing about it.
 
 He does so, with a resounding groan, when the greying of dawn is on the horizon and a trickle of sea
 water begins to bode the tide coming in.
 
-"What the _fuck,_" he says in a gravelly voice.
+"What the _fuck?!_" he says in a gravelly voice.
 
-"Hi," I say. "Are you Bunting?"
+«__Come here often?__» I incant; the charming magic wraps around his mind. "Hello," I say.
 
-"Nonono--- Please, you have the wrong guy!"
+"Hi, uh, could you get me out of here? I think the tide is coming in."
 
-TK: cast suggestion?
+I nod. "Of course, I just need to know --- you're Bunting, right? All-round ruffian?"
 
-He's lying. I grab a dagger and plunge it into his throat, while incanting
-«__please die,__» bidding him to resume a short and presumably unpleasant
-descent into oblivion.
+"Sure am," he says, grinning.
 
-I take out my stolen bone saw, a dagger, and get to work. Decapitating him is
-the easy part; scalping him too, laying bare the skull for the cut. Cutting his face
-off is harder, but I manage to get the forehead, eye sockets, cheek bones, temples, maxilla,
-and mandible off; leaving behind his brain and a section of cranium. I clean the blood off with magic, and
-cool and dehydrate the flesh to prevent rotting.
+"Do you like killing whores?"
 
-I wrap it in a piece of cloth, pack the grizzly trophy in a pocket, and exhume
-his body from the confines of the earth.
+He snickers. "Naw, I like fucking dead whores, is what."
+
+And that confirms it. I grab my dagger.
+
+"Hey--- hey, what---"
+
+I silence him by plunging the blade into his throat. Blood mixes into the mud. «__Please die,__»
+I say, forcing his life to ebb even faster.
+
+Then I take out my bonesaw and cut his skull in half. Meticulously, I saw off his face for
+easier transport --- as fun as it would be to take his head off with my hatchet, heads are
+pretty big.
+
+Once I have his face and half his skull in my hand, with his forebrain and
+tongue lying in the mud, I use _prestidigitation_ to clean up, leaving me with a
+face drained of blood, chilled for freshness. I wrap it and the amputated tattoo
+in a piece of cloth, and pack the grizzly trophy in my knapsack.
+
+With a gesture, I unearth his corpse, and then dig a _really_ deep grave.
+«__Pew,__» I say, blowing a chunk off of his remains. «__Pew. Pew. Pew. Pew. Pew.__»
 
 With a fingertip, I blast his earthly remains until ashes, feathers, jelly and splintered bones
-is all that is left. Then I climb out of the hole and collapse it.
+is all that is left. Then I bid the hole to collapse.
 
 ----
 
@@ -121,7 +138,8 @@ then probably summarily executed for witchery.
 "Hi."
 
 I stop, and turn to the speaker. A woman wearing chainmail, with a pointed hat, gambeson skirt, and long boots.
-She's dark-skinned, with curly silver hair. On her hip hangs a longsword, and on the other a pair of claves.
+She's dark-skinned, with curly silver hair. On her hip hangs a longsword, and on her back a shield.
+She's casually carrying a pair of claves in one hand.
 
 "Greetings," I reply.
 
@@ -176,8 +194,21 @@ to get some sleep --- this time with an _alarm_ on the door.
 >       - _Eldrich blast_ now fires two beams.
 >     - Spell slots upgraded!
 >       - Lvl 3: 2 slots, short rest
->       - Lvl 3: 1 slot, long rest (race)
->       - Lvl 2: 1 slot, long rest (race)
+>       - Lvl 2: 2 slots, long rest (race)
 >       - Lvl 1: 1 slot, long rest (feat)
 >     - Spells learned: _fireball, darkness (race)_
 >     - Invocations gained: _aspect of the moon_
+
+----
+
+> Grimoire:
+> - _Fireball:_ evo. 3rd (action, range: 150 ft, V S M) bigass explosion deals 8d6 fire damage to
+>   all creatures in 20 ft sphere, save Dex for half. Upcast: increased damage. Materials: bat guano, sulfur.
+> - _Darkness:_ ill. 2nd (action, range: 60 ft, V M, 10 minutes conc.) creates magical darkness in a 15 ft
+>   sphere centerd on an object of your choice. Materials: bat fur, pitch or coal.
+
+----
+
+> Invocations:
+> - _Aspect of the Moon:_ you no longer need sleep.
+

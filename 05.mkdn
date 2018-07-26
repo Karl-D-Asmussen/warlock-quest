@@ -211,8 +211,10 @@ And then it _really_ hits me what it meant when I gave Mephala my name.
 > - _Mold earth:_ trans. cant. (action, range: 30 ft, S, 1 hour) move 5 ft cube of earth, make 5 ft square of
 >   earth or stone into difficult terrain, or flavor effects; max two effects at once. Progression: additional effets
 >   at once.
-> - _Puppet:_ ench. 1st (action, target: creature within 120 ft visual, S) force 
-> - _Shadow blade:_ ill. 2nd TK
+> - _Puppet:_ ench. 1st (action, target: creature within 120 ft visual, S) target saves Con or moves their speed
+>   in a direction of your choice. Upcast: additional targets.
+> - _Shadow blade:_ ill. 2nd (bonus action, V S) create a shadow blade (finesse, light, thrown (20/60)), you
+>   are proficient with it, and it deals 2d8 psychic damage on a hit. Upcast: additional damage.
 
 ----
 
