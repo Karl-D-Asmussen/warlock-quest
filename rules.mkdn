@@ -21,9 +21,9 @@ In the interest of fairness for single-player play, the following rules apply:
 - Extra spell slot at 5th level
 - Extra cantrip at 1st level
 - Expanded spell list for each patron includes cantrips:
-  - Archfey: _Dancing Lights, Thorn Whip_
-  - Fiend: _Produce Flame, Shocking Grasp_
-  - Great Old One: _Light, Vicious Mockery_
+  - Archfey: _Dancing Lights_
+  - Fiend: _Produce Flame_
+  - Great Old One: _Minor Illusion_
 - Concentrate on a number of spells equal to Proficiency Bonus divided by 2
 - Bonus action to quaff health potion.
 - _Message_ is a Warlock spell.
@@ -59,4 +59,9 @@ In the interest of fairness for single-player play, the following rules apply:
 
 # Bard
 
-- College feature at
+- Valor gains 1 skill proficiency at 3rd level
+- Lore gains proficiency with two kinds of tools.
+- Valor gains Minor Magical Secrets (two damage-dealing cantrips) at 6th level.
+- Lore can add Charisma and spend BI to add BI die to damage on damage dealing cantrips at 6th level.
+- Valor gains fighting style at level 10
+- Lore can roll BI die and regain that many levels of spell slots, 1/long rest
