@@ -169,6 +169,8 @@ to get some sleep --- this time with an _alarm_ on the door.
 >   - Hit Dice 5d8
 >     - Hit point total: 23 (roll 3d8: 7 + 5 + 1, bonus: 10, capped by Proficiency bonus at 3 dice)
 >   - Pact Magic
+>     - Concentration progression!
+>       - Concentrate on 2 spells at once.
 >     - Cantrip progression!
 >       - _Eldrich blast_ now fires two beams.
 >     - Spell slots upgraded!
@@ -178,4 +180,3 @@ to get some sleep --- this time with an _alarm_ on the door.
 >       - Lvl 1: 1 slot, long rest (feat)
 >     - Spells learned: _fireball, darkness (race)_
 >     - Invocations gained: _aspect of the moon_
-

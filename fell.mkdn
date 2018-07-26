@@ -2,10 +2,10 @@
 Fiend Tomelock
 Skilled (Arcana/History/Stealth), Infernal Constitution
 
-Spell Sniper (Tomelock: Message), Magic Initiate (Tomelock: hex, friends, minor illusion),
+Spell Sniper (Tomelock: Message), Magic Initiate (Tomelock: hex, mold earth, minor illusion),
 Resilient (Constitution), War Caster
 Skilled (Athletics/Sleight of Hand/Perception), Observant (Wis +1)
-Magic Initiate (Tomelock: healing elixir, mold earth, shape water), Keen Mind (Int +1)
+Magic Initiate (Tomelock: healing elixir, true strike, resistance), Keen Mind (Int +1)
 Cha +2, Actor
 
 Tiefling:
