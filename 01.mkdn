@@ -318,17 +318,19 @@ set of adventuring gear.
 >     - Books of rituals, magic theory, and arcana
 >     - Disguise Kit
 >     - Bedroll
->     - Crowbar
+>     - Prybar
 >     - Handaxe
 >     - Hammer
 >     - Pitons
 >     - 12 days of rations
 >     - Waterskin
 >     - Rope
->     - Chalk
 >     - String
+>     - Chalk
 >     - Pliers
->     - Knife
+>     - Knife, chopsticks & spoon
+>     - Drinking ladle
+>     - Rag cloths
 >     - Patches
 >     - Needle & thread
 >     - Rare inks worth ~300gp
