@@ -1,13 +1,13 @@
 
 Valor Bard
 
-Healer, Grappler
+Healer, Alert
 
 Everybody's Friend (Cha +1), Polearm Master 
-Versatile Mastery, Cha +2
-Sharpshooter, Alert
-Heavily Armored (Str +1), Shield Mastery
 Resilient (Con +1), War Caster
+Grappler, Cha +2
+Versatile Mastery, Shield Mastery
+Heavily Armored (Str +1), Sharpshooter
 
 Half Elf:
   Str 15
@@ -18,14 +18,14 @@ Half Elf:
   Cha 17
 
 Background: Prostitute
-  Insight
+  Deception
   Persuasion
 
 Skills of note:
   Persuasion +
-  Insight +
-
   Deception +
+
+  Insight +
   Medicine +
   Athletics +
 
@@ -35,38 +35,56 @@ Skills of note:
   Body percussion
   Marimba/Xylophone/Balafon
 
-Spells of note:
+Spells:
   Prestidigitation
-  Mending
-  Light
   Friends
   Thunderclap
-
+  Mending
+  Light
+  
+  Bane (1)
+  Detect Magic (1)
+  Earth Tremor (1)
   Healing Word (1)
+  Identify (1)
   Longstrider (1)
   Thunderwave (1)
-  Earth Tremor (1)
-  Lesser Restoration (2)
+
   Enhance Ability (2)
+  Lesser Restoration (2)
+  See Invisibility (2)
   Shatter (2)
-  Greater Restoration (3)
+  Silence (2)
+  
+  Bestow Curse (3)
   Counterspell (3)
+  Dispel Magic (3)
+  Greater Restoration (3)
+
+  Confusion (4)
+
   Mass Cure Wounds (5)
   Raise Dead (5)
+
+  True Seeing (6)
+
   Regenerate (7)
   Ressurection (7)
+
+  Glibness (8)
+
   True Polymorph (9)
 
   Shillelagh
-  Magic Stone
   Booming Blade
-  Thaumaturgy
-  Guidance 
-  Healing Elixir (1)
   Find Familiar (1)
+  Guidance 
+  Magic Stone
+  Mold Earth
+  Thaumaturgy
   Wish (9)
 
-Expertise: Athletics, Insight
+Expertise: Athletics, Medicine, Insight, Performance
 
 Fighting style: Bastion
 
