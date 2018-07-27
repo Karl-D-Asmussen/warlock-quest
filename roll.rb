@@ -8,7 +8,8 @@ class Roller
   def self.main(argv)
     if argv.empty?
       loop do
-        expr = gets
+        print "?? "
+        expr = gets 
         break if expr.nil? or expr.empty?
         self.run(expr, true)
       end
@@ -20,8 +21,9 @@ class Roller
   def self.run(expr, strict=false)
     begin
       roller = self.new(expr, strict: strict)
-      puts "#{roller.result} = #{roller.roll}"
+      puts ">> #{roller.result} = #{roller.roll}"
       puts "// #{roller.discarded}" if roller.discarded?
+      puts
     rescue
       puts "error"
     end
@@ -116,5 +118,6 @@ class Roller
 end
 
 if $0 == __FILE__
+  trap :INT do exit 0 end
   Roller.main(ARGV.map(&:dup))
 end

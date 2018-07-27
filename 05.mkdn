@@ -193,6 +193,12 @@ And then it _really_ hits me what it meant when I gave Mephala my name.
 
 ----
 
+> Posessions:
+> - Gear gained!
+>   - Pact Tome
+
+----
+
 > Attributes:
 > - Strength 10 (+0)
 > - Dexterity 12 (+1)

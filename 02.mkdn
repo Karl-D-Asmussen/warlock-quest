@@ -220,7 +220,7 @@ arm.
 >   - Wisdom +2
 >   - Charisma +5
 > - Attacks:
->   - _eldrich blast_ +5 to hit, 1d10+5 force, range 120
+>   - _eldrich blast_ +5 to hit, 1d10+3 force, range 120 ft
 
 ----
 

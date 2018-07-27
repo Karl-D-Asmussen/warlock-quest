@@ -140,9 +140,11 @@ then probably summarily executed for witchery.
 
 "Hi."
 
-I stop, and turn to the speaker. A woman wearing chainmail, with a pointed hat, gambeson skirt, and long boots.
-She's dark-skinned, with curly silver hair. On her hip hangs a longsword, and on her back a shield.
-She's casually carrying a pair of claves in one hand.
+I stop, and turn to the speaker. A woman wearing light plate, with a pointed hat
+over a skull-cap helmette, a gambeson skirt, and long boots.
+On her back hangs a shield, and she rests on a five-foot
+staff; from her belt hangs a pair of claves on her belt.
+She's dark-skinned, with curly silver hair, and pointed ears.
 
 "Greetings," I reply.
 
@@ -204,11 +206,18 @@ to get some sleep --- this time with an _alarm_ on the door.
 
 ----
 
+> Posessions:
+> - Treasure gained!
+>   - 3 pp
+
+----
+
 > Grimoire:
 > - _Fireball:_ evo. 3rd (action, range: 150 ft, V S M) bigass explosion deals 8d6 fire damage to
 >   all creatures in 20 ft sphere, save Dex for half. Upcast: increased damage. Materials: bat guano, sulfur.
-> - _Darkness:_ ill. 2nd (action, range: 60 ft, V M, 10 minutes conc.) creates magical darkness in a 15 ft
->   sphere centerd on an object of your choice. Materials: bat fur, pitch or coal.
+> - _Darkness:_ evo. 2nd (action, target: point or object within 60 ft visual, V M, 10 minutes conc.) create
+>   a 15 ft sphere of magical darkness centered on target. Dispels light spells of 2nd level or lower. Upcast:
+>   larger area, better dispel. Material: bat fur, coal/tar.
 
 ----
 

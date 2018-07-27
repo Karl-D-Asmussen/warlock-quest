@@ -111,17 +111,115 @@ With the new gambeson, vambrace, greaves, and cap over it all, I look positively
 an couth ruffian.
 
 I take to wearing the gambeson as an over coat, with the leather protective gear stowed
-in my pockets. I can't quite avoid the knapsack, but I swap it for a smaller one and sell
-off my crossbow.
+in my pockets. I can't quite avoid the knapsack, but I can stuff my crossbow in it.
+
+----
+
+The last thing on my list, is bat guano, bat fur, sulfur, and bitumen, for two very peculiar
+spells that are percolating in the back of my mind.
+
+I trek back to the alchemist where I brought mercury, and pay him a somewhat more reasonable
+price for an ampule of pure sulfur. Bitumen is literally everywhere --- Three Blue is a dock
+city, and where there's ships, there's bitumen. Bats are harder to come by, somewhat.
+
+While pondering that, walking the streets, I come upon that woman again. Dark-skinned,
+white haired, a pair of claves at her hip --- her entire outfit has changed, though.
+
+Still the same pointed hat, but gone is the readiness for war; the armor, the. She has a handpan drum
+on her back, and is arguing with a fruit merchant over the price of avocados.
+
+"Hello," I say, approaching. "What brings you yonder to the Southern Ward?"
+
+She looks up, and her eyebrows rise. "Oho, it's you; little miss fixer." She tosses
+a drachma to the merchant, and skillfully parts the fruit with her knife, pitting it,
+and offering me half.
+
+I take it, and find my spoon, digging into the supple green sweetmeat. She begins
+walking, and I follow.
+
+"I go where my whims take me, that's how I live," she says.
+
+I gesture with my spoon to her instrument. "Bard?"
+
+"Non-accredited --- I didn't make the cut," she says.
+
+In daylight, I notice her size properly: she's a foot taller 
+and probably half again as heavy as me. "How come?"
+
+"Dark, half-elf, woman, fond of drums and provocation."
 
 ----
 
 > Posessions:
+> - Gear gained!
+>   - Boned gambeson with splinted vambraces, greaves, and forehead protector (AC 12)
+>   - Spell components:
+>     - _fireball_
+>     - _darkness_
+> - Gear summary!
+>   - Worn:
+>     - Fine clothes
+>     - Light armor
+>     - Cloak
+>   - Pockets:
+>     - Pact Tome
+>     - Book of rituals, magic theory, and arcana
+>     - Disguise kit
+>     - Rag cloths
+>     - Knife, chopsticks & spoon
+>     - Needle & thread
+>     - String
+>     - Chalk
+>   - Dungeoneering knapsack:
+>     - Crossbow & 20 bolts, 2 daggers
+>     - Bedroll
+>     - 7 days of rations
+>     - Waterskin
+>     - Prybar
+>     - Handaxe
+>     - Hammer
+>     - Pitons
+>     - Rope
+>     - Drinking ladle
+>     - Bonesaw
+>     - Pliers
+>   - Spell component pouch:
+>     - _hex_
+>     - _suggestion_
+>     - _minor illusion_
+>     - _unseen servant_
+>     - _mending_
+>     - _tenser's floating disk_
+>     - _identify_
+>     - _fireball_
+>     - _darkness_
+> - Treasure spent!
+>   - 10 sp
+> - Treasure summary!
+>   - 5 pp, 47 gp, 80 sp, 92 cp (4½ lbs)
 
 ----
 
-TK
+> Combat summary:
+> - AC 13
+> - Initiative +0
+> - Spell Attack Bonus +7
+> - Spell Save DC 15
+> - Saves:
+>   - Strength +0
+>   - Dexterity +1
+>   - Constitution +2
+>   - Intelligence +0
+>   - Wisdom +3 (Prof)
+>   - Charisma +7 (Prof)
+> - Attacks:
+>   - 2×_eldrich blast_ +7 to hit, 1d10+4 force, range 120 ft
 
 ----
 
 > Grimoire:
+> - _Gentle Repose:_ nec. 2nd (action/ritual, V S M, 10 days) make a corpse non-perishable,
+>   and non-undeadable. If cast each day for 10 days consecutively, becomes permanent
+>   Materials: 2 cp, salt.
+> - _Skywrite:_ trans. 2nd (action/ritual, V S, 1 hour conc.) write ten words in the sky, which
+>   can be seen for 20 to 30 miles, but only read from about 10 miles away. Upcast: double distance.

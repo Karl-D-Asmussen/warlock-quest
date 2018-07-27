@@ -3,10 +3,10 @@ Valor Bard
 
 Healer, Alert
 
-Everybody's Friend (Cha +1), Polearm Master 
-Resilient (Con +1), War Caster
-Grappler, Cha +2
-Versatile Mastery, Shield Mastery
+Everybody's Friend (Cha +1), Shield Mastery
+Cha +2, War Caster
+Resilient (Con +1), Grappler
+Polearm Mastery, Versatile Mastery
 Heavily Armored (Str +1), Sharpshooter
 
 Half Elf:
@@ -29,7 +29,7 @@ Skills of note:
   Medicine +
   Athletics +
 
-  Performance +
+  Intimidation +
   
   Hand Pans/Steel Drums
   Body percussion
@@ -38,9 +38,10 @@ Skills of note:
 Spells:
   Prestidigitation
   Friends
+  Vicious Mockery
+  Light
   Thunderclap
   Mending
-  Light
   
   Bane (1)
   Detect Magic (1)
