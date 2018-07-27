@@ -179,6 +179,13 @@ name?"
 
 ----
 
+> Allies:
+> - Eliza-Lee
+>   - Bard 5, College of Valor
+>   - Intrigued
+
+----
+
 > Posessions:
 > - Gear gained!
 >   - Boned gambeson with splinted vambraces, greaves, and forehead protector (AC 12)
