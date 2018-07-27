@@ -38,13 +38,18 @@ away.  Since I already stick out like a sore thumb --- white-skinned tieflings
 are rare, and Anansi is eye-catching as hell --- I might as well establish a
 reputation as a local benefactor.
 
-I go to tailors to find better clothing, mostly short skirts that will hide
-my pockets --- breeches are well and good, but it makes me a target for
-pickpockets --- and leatherworkers for a buff napron to the same end and boots with metal toe.
-A quilter fits me for a five-layer gambeson corset with boning channels and pocket
-openings, and a set of steel bones.
+I go to tailors to find better clothing, mostly dress and petticoat that will hide my
+pockets --- breeches are well and good, but it makes me a target for pickpockets
+--- and leathersmith for a buff napron to the same end. I also order boots with
+metal toe, vambrace and greaves with steel splint, a thick cap, and two pairs of gloves: one
+fingerless and one thick. But most importantly, I purchase two extra pockets --- used, but
+sturdy --- and a big belt to support them.
 
-Finally I find a small mage parlor that sells arcanist inks, and I buy enough for the
+A quilter fits me for a seven-layer gambeson corset
+with boning channels and pocket openings, and a set of steel bones, taking my old gambeson
+off my hands.
+
+At the end of the day I find a small mage parlor that sells arcanist inks, and I buy enough for the
 two transcriptions I need to do.
 
 ----
@@ -59,10 +64,14 @@ can, spinning flywheels, fighting fires, repairing damage to the keels of
 ships. I can hold my breath for three minutes, and it only takes a minute to
 cast _mending._
 
-Then there's the things which hedge witches often cannot: mind control and
-interrogation. _Charm person_ and _suggestion_ and even _command_ go a long
-way to making someone talk, and even if not, I am perfectly capable of being
-incredibly intimidating.
+The most interesting is probably _skywrite_ for its long-distance
+communication potential --- it is common enough among marine diviners, but
+costly to employ.
+
+Then there's the things which hedge witches and marine diviners often cannot:
+mind control and interrogation. _Charm person_ and _suggestion_ and even
+_command_ go a long way to making someone talk, and even if not, I am perfectly
+capable of being incredibly intimidating.
 
 I fold the letter into one enveloping sheet, and wax it sealed, forming a
 likeness of Anansi in the wax. It's a short walk across the pier to the Silk Mule
@@ -73,4 +82,46 @@ not sleepy.
 
 I dine deeper in the slums where I feel more at home, and where people know not
 to accost a tiefling with a spider on her head. At a small hole in the wall, I
-buy fish cakes and salted hard tack
+buy succotash with crab, fish sauce, and pickled peppers; all of it in small bits,
+suitable for spoon eating --- so laborers with less-than-clean hands only have
+to think about keeping their spoons clean.
+
+It reminds me of my childhood. It was good, for a while. And aside from
+the slave traders, whom I know even less about, all the people responsible for
+taking it away from me are dead.
+
+----
+
+The new gambeson is a thing to behold. It fits me sleekly unlike my former one,
+and rather than being stuffed, it has seven layers of tough linen. I even test it
+out with my meagre strength behind a sharp dagger, and find it difficult to pierce.
+
+The quilter looks on with a frown, until I cast _mending_ fixing the damage --- her
+frown doesn't go away, mind; now she just frowns because she won't get to sell me patches.
+
+Over the course of the week it took, I've remade my entire outfit, swapping my wardrobe
+for more feminine dress --- black linen dress, eye-catching petticoat, full length
+buff napron, and a lighter cloak.
+
+I've also gone carousing some --- drinking and seducing. The only thing I have
+to fear is the syphilis, and even so, I've got money enough for a proper
+clerical healing for that.
+
+With the new gambeson, vambrace, greaves, and cap over it all, I look positively like
+an couth ruffian.
+
+I take to wearing the gambeson as an over coat, with the leather protective gear stowed
+in my pockets. I can't quite avoid the knapsack, but I swap it for a smaller one and sell
+off my crossbow.
+
+----
+
+> Posessions:
+
+----
+
+TK
+
+----
+
+> Grimoire:
