@@ -1,0 +1,62 @@
+
+Valor Bard
+
+Healer, Alert
+Everybody's Friend (Cha +1), Shield Mastery
+
+Shield, Quarterstaff
+Half Plate
+Instruments
+Healing Kits
+Food
+Booze
+
+Half Elf:
+  Str 15
+  Dex 10
+  Con 13
+  Int 10
+  Wis 10
+  Cha 18
+
+Languages:
+  Common
+  Elvish
+  Sylvan
+  Infernal
+
+Background: Prostitute
+  Deception
+  Persuasion
+
+Skills of note:
+  Persuasion +
+  Deception +
+
+  Insight
+  Medicine +
+  Athletics +
+
+  Intimidation
+  
+  Hand Pans/Steel Drums
+  Body percussion
+  Marimba/Xylophone/Balafon
+
+Spells:
+  Prestidigitation
+  Friends
+  Vicious Mockery
+  Light
+  Thunderclap
+  
+  Healing Word (1)
+  Earth Tremor (1)
+  Thunderwave (1)
+
+  Locate Animals or Plants (2)
+  Enhance Ability (2)
+  Shatter (2)
+  
+  Counterspell (3)
+  Dispel Magic (3)

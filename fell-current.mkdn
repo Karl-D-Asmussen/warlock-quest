@@ -1,0 +1,66 @@
+
+Fiend Tomelock
+Skilled (Arcana/History/Stealth), Infernal Constitution (Con +1)
+Actor (Cha +1), Magic Initiate (Tomelock: hex, mold earth, minor illusion),
+
+Tiefling:
+  Str 10
+  Dex 12
+  Con 15
+  Int 11
+  Wis 11
+  Cha 18
+
+Skills:
+  Insight
+  Performance
+  Intimidation
+  Investigation
+  Arcana
+  History
+  Stealth
+  Persuasion
+  Deception
+
+Invocations:
+  Agonizngin Blast
+  Beguiling Influence
+  Book of Ancient Secrets
+  Aspect of the Moon
+
+Spells:
+  Thaumaturgy R
+  Hellish Rebuke R
+  Darkness R
+
+  Eldrich blast
+  Prestidigitation
+  Produce flame
+  Mage Hand 
+
+  Guidance T
+  Mending T
+  Spare the Dying T
+
+  Minor Illusion F
+  Mold earth F
+
+  Hex F
+
+  Command 
+  Charm Person
+  Suggestion
+  Puppet
+  Shadow blade
+  Fireball
+
+  Speak with Animals T
+  Ceremony T
+  Alarm T
+  Detect Magic T
+  Find Familiar T
+  Identify T
+  Tenser's Floating Disk T
+  Unseen Servant T 
+  Gentle Repose T
+  Skywrite T

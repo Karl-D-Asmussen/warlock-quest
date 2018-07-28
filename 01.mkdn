@@ -323,13 +323,15 @@ set of adventuring gear.
 >     - Hammer
 >     - Pitons
 >     - 12 days of rations
->     - Waterskin
+>     - Flask
+>     - Canteen
 >     - Rope
 >     - String
+>     - Bucket
 >     - Chalk
 >     - Pliers
->     - Knife, chopsticks & spoon
->     - Drinking ladle
+>     - Knife
+>     - Chopsticks, spoon, bowl, cup
 >     - Rag cloths
 >     - Patches
 >     - Needle & thread

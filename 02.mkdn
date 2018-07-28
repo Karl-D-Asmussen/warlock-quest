@@ -242,7 +242,7 @@ arm.
 
 ----
 
-> Spells:
+> Grimoire:
 > - _Charm Person:_ ench. 1st (action, target: humanoid within 30 ft visual, V S, 1 hour) target must save Wis or be charmed,
 >   saves with advantage if in combat with you, charm lasts until hostilities ensue. Upcast: additional targets.
 

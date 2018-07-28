@@ -15,8 +15,8 @@ my shoulders and take to the streets, heading into the southern wards.
 
 It's a lovely day; cool sea breeze, high sun. The rainy season looms on the calendar's horizon, but
 the sky doesn't care. I buy fresh fruit and cut it apart with my knife to eat until I realize that the
-blade was given to me by Haquim. I hit up a cutler for a replacement, and buy also a set of steel chopsticks
-and soup spoon. I give my old set of dining utensils to a beggar --- an elderly woman with arthritic hands.
+blade was given to me by Haquim. I hit up a cutler for a replacement, and buy also a set of steel chopsticks,
+soup spoon, bowl, and cup. I give my old mess kit to a beggar --- an elderly woman with arthritic hands.
 
 Soon it becomes an earnest shopping trip, and I visit a stationer in search of
 the expensive multi-colored inks and paints with latent magic used in arcane
@@ -84,7 +84,7 @@ I dine deeper in the slums where I feel more at home, and where people know not
 to accost a tiefling with a spider on her head. At a small hole in the wall, I
 buy succotash with crab, fish sauce, and pickled peppers; all of it in small bits,
 suitable for spoon eating --- so laborers with less-than-clean hands only have
-to think about keeping their spoons clean.
+to think about keeping their spoons clean --- served from a hot pot into my new bowl.
 
 It reminds me of my childhood. It was good, for a while. And aside from
 the slave traders, whom I know even less about, all the people responsible for
@@ -202,7 +202,10 @@ name?"
 >     - Book of rituals, magic theory, and arcana
 >     - Disguise kit
 >     - Rag cloths
->     - Knife, chopsticks & spoon
+>     - Knife
+>     - Chopsticks, spoon, bowl, cup
+>     - Flask
+>     - Canteen
 >     - Needle & thread
 >     - String
 >     - Chalk
@@ -210,7 +213,6 @@ name?"
 >     - Crossbow & 20 bolts, 2 daggers
 >     - Bedroll
 >     - 7 days of rations
->     - Waterskin
 >     - Prybar
 >     - Handaxe
 >     - Hammer
