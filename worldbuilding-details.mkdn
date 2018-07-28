@@ -1,0 +1,54 @@
+
+- The entire cuisine is based on new world foods.
+- Roman fermented fish sauce.
+- Pockets, as in handbag-sized leather things attached to your belt under your petticoat.
+- Everybody carries a knife, primarily used for food, but sometimes as a tool.
+- Indeed, most people carry around an entire mess kit: bowl, spoon, cup, flask. Scholars use chopsticks to avoid grease.
+- Patches for repairing clothes are a commodity.
+- Thallasocracy of loosely associated free cities.
+- An entire city built on posts and piers hammered into a salt marsh, but
+  instead of being like Venice it is more like Louisiana.
+- Slavery is present and abhorrent.
+
+----
+
+- Hedge Mages:
+  - 1:
+    - Tenser's Floating Disk
+    - Find Familiar (sea creatures to deliver Mending touch underwater)
+    - Unseen Servant
+  - C:
+    - Gust
+    - Mending
+    - Mold Earth
+    - Control Fire
+    - Shape Water
+    - Prestidigitation
+    - Mage Hand
+    - Light
+
+- Quill Wizards:
+  - Wizards of 5th level
+  - C:
+    - Message
+    - Dancing Lights
+    - Prestidigitation
+    - Firebolt
+  - 1:
+    - Find Familiar
+    - Unseen Servant
+    - Guiding Hand
+    - Identify
+    - Comprehend Languages
+    - Silent Image
+    - Feather Fall
+    - Alarm
+  - 2:
+    - Skywrite
+    - Levitate
+    - Continual Flame
+    - Flaming Sphere
+  - 3:
+    - Sending
+    - Tongues
+

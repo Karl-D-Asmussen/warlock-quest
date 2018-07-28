@@ -65,3 +65,7 @@ In the interest of fairness for single-player play, the following rules apply:
 - Lore can add Charisma and spend BI to add BI die to damage on damage dealing cantrips at 6th level.
 - Valor gains fighting style at level 10
 - Lore can roll BI die and regain that many levels of spell slots, 1/long rest
+
+# Spells
+
+- Sending & Leomund's Secret Chest are both Rituals.
