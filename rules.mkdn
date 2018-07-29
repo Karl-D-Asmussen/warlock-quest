@@ -41,6 +41,7 @@ In the interest of fairness for single-player play, the following rules apply:
 - Command: 'simon says'
 - Guidance: 'take the wheel'
 - Spare the Dying: 'don't die/please die/stay dead'
+- Darkness: 'blackout'
 
 # Homebrew Invocations
 
