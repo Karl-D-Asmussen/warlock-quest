@@ -199,9 +199,9 @@ to get some sleep --- this time with an _alarm_ on the door.
 >     - Cantrip progression!
 >       - _Eldrich blast_ now fires two beams.
 >     - Spell slots upgraded!
->       - Lvl 3: 2 slots, short rest
->       - Lvl 2: 2 slots, long rest (race)
->       - Lvl 1: 1 slot, long rest (feat)
+>       - Lvl 3: 2 slots
+>       - Lvl 2: 2 slots (race)
+>       - Lvl 1: 1 slot (feat)
 >     - Spells learned: _fireball, darkness (race)_
 >     - Invocations gained: _aspect of the moon_
 

@@ -157,7 +157,7 @@ Looking behind me, to make sure I am not followed, I descend.
 >     - Spells learned: _suggestion, hellish rebuke (race)_
 >     - Spell slots upgraded!
 >       - Lvl 2: 2 slots
->       - Lvl 2: 1 slot, long rest
+>       - Lvl 2: 1 slot (race)
 >     - Invocations gained: _Book of Ancient Secrets_
 >       - Ritual casting gained!
 >       - Rituals learned: _speak with animals, ceremony_

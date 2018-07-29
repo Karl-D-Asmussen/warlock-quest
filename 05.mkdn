@@ -186,8 +186,8 @@ And then it _really_ hits me what it meant when I gave Mephala my name.
 >     - Spells retrained: _hex_ into _puppet_
 >     - Spell slots upgraded!
 >       - Lvl 2: 2 slots, short rest
->       - Lvl 2: 1 slot, long rest (race)
->       - Lvl 1: 1 slot, long rest (feat)
+>       - Lvl 2: 1 slot (race)
+>       - Lvl 1: 1 slot (feat)
 > - Feat gained! Magic Initate (Warlock of the Tome)
 > - Feat gained! Actor
 
