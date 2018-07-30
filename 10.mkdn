@@ -70,10 +70,59 @@ We make our way to the western ward in search of a
 
 "So, what do I call you for short, Eliza-Lee, unaccredited Bard?"
 
-"Eliza-Lee." 
+"Eliza-Lee," she says, deadpan. "At least as long as you call yourself 'Fell,' at
+least."
 
+I nod. "I ca---" I want to say I can't remember my name, but that is part
+of the little secret. "I've struck a deal with one of the Daédra."
 
+Eliza-Lee looks at me. "Which one?"
 
+I mime a cross over my lips.
+
+"Oh? _Oh?_" There's a glint in Eliza-Lee's eyes. "I've read this one --- you're
+not allowed to volunteer positive information, but if we devise a scheme by which
+process of elimination would reveal the information. If we go down the list --- Azura?"
+
+"It's Mephala," I say, suddenly unburdened.
+
+"Sex, lies, manipulation, obfuscation, discord," she snickers. "I should have fucking known,"
+a bark of laughter escapes her. "I follow my instincts, and I end up following around a
+fucking Warlock of Mephala!" She says it all in a hushed voice.
+
+I clear my throat. "Well, I mean, Mephala was the one I summoned, yes, and
+my situation is very Mephalean, but the very existence of the Warlock Pact
+is Clavician and Molagian, and the pact boon of the tome is Hermaian, and
+my life story is Malacanthan, and my revenge quest was Hircinian, and I'm
+pretty sure that my consistent tendency to blow holes in people who cross me is
+Mephrunesian, and I've got my rigging a little frayed, which is very Sheogorathine,
+and I've been having these dreams which is very Vaerminan."
+
+Eliza-Lee holds up both hands. "Yeah, I get it, it's a Pantheon. I knew that already
+too --- I went to the Colleges, remember?"
+
+"Well, you already know I was sold into slavery."
+
+Eliza-Lee stops, and puts a hand on my shoulder. "You say that with a worrying nonchalance,
+crazy or not."
+
+"I was sold to a Wizard. Enchanter. To use as he saw fit."
+
+She pales a little. "That explains your crazy, all right. Thanks for sharing. Did you get
+reveng on him too?"
+
+I nod.
+
+"I was a prostitute up in Lachrima Lachrimorum. I saved enough to finally go to
+the College," she says. "So now you know my dark backstory, too."
+
+----
+
+I shell out reasonably for the brass brazier and incences this time, rather than
+robbing tombs. We both stock up on supplies --- Eliza-Lee much more so than I,
+given her magical pockets.
+
+Quietly, we leave town around nightfall.
 
 ----
 
@@ -83,3 +132,9 @@ We make our way to the western ward in search of a
 >   - Pact Magic:
 >     - Spells learned: _fly_
 
+----
+
+> Allies:
+> - Eliza-Lee
+>   - Bard 6, College of Valor
+>   - Tagalong
