@@ -4,10 +4,10 @@ Valor Bard
 Healer, Alert
 
 Everybody's Friend (Cha +1), Shield Mastery
-Cha +2, War Caster
-Resilient (Con +1), Grappler
-Polearm Mastery, Versatile Mastery
-Heavily Armored (Str +1), Sharpshooter
+Polearm Mastery, War Caster
+Resilient (Con +1), Cha +2
+Heavily Armored (Str +1), Grappler
+Sharpshooter, Versatile Mastery
 
 Half Elf:
   Str 15
@@ -25,11 +25,11 @@ Skills of note:
   Persuasion +
   Deception +
 
-  Insight +
   Medicine +
-  Athletics +
+  Athletics
+  Insight +
 
-  Intimidation +
+  Sleight of Hand
   
   Hand Pans/Steel Drums
   Body percussion

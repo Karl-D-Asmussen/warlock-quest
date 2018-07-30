@@ -3,18 +3,19 @@ Goliath
 
 Attrs:
   St 16
-  Dx 14
+  Dx 13
   Co 16
   In 10
   Ws 10
   Ca 10
 
-Athlete, Dual Wielder
-St +2, Con +2
-St +2, Con +2
-Charger, Dex +2
+Athlete (Dex+1), Dual Wielder
+
+Con +2, Tavern Brawler (Str+1)
+Con +2, Brawny (Str+1),
+Str +2, Dex +2
+Shield Master, Dex +2
 Tough, Dex +2
-Shield Mastery, Dex +2
 
 Level 10 fighting style: Two Weapon Fighting
 
