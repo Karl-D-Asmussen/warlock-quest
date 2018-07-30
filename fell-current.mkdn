@@ -44,7 +44,6 @@ Spells:
 
   Minor Illusion F
   Mold earth F
-
   Hex F
 
   Command 
@@ -53,6 +52,14 @@ Spells:
   Puppet
   Shadow blade
   Fireball
+  - Expeditious Retreat
+  - Spiderclimb
+  - Fly
+  - Counterspell
+  - Dispel Magic
+  - Banishment
+  - Contact Other Plane
+  - Dream
 
   Speak with Animals T
   Ceremony T
