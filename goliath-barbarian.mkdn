@@ -1,0 +1,24 @@
+Storm Herald Barbarian
+Goliath
+
+Attrs:
+  St 16
+  Dx 14
+  Co 16
+  In 10
+  Ws 10
+  Ca 10
+
+Athlete, Dual Wielder
+St +2, Con +2
+St +2, Con +2
+Charger, Dex +2
+Tough, Dex +2
+Shield Mastery, Dex +2
+
+Level 10 fighting style: Two Weapon Fighting
+
+Weapons:
+  Battle Gauntlet Sheilds
+    1d4 piercing
+    Shield +2
