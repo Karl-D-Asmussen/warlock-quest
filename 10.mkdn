@@ -120,7 +120,9 @@ the College," she says. "So now you know my dark backstory, too."
 
 I shell out reasonably for the brass brazier and incences this time, rather than
 robbing tombs. We both stock up on supplies --- Eliza-Lee much more so than I,
-given her magical pockets.
+given her magical pockets. 
+
+I spend half my remaining money on a single scroll of _purify food and drink._
 
 Quietly, we leave town around dusk. The plaisades are, as always, patrolled by
 Bullfighters, Masons, and Chastisers, ready to pick up arms if and when anything nasty
@@ -140,6 +142,8 @@ too fresh to revisit, but as I've come to acknowledge, I'm _broken_ inside, some
 >   - Otherworldly Patron feature: Dark One's own Luck
 >   - Pact Magic:
 >     - Spells learned: _fly_
+>   - Tome rituals:
+>     - Spell learned: _purify food and drink_
 
 ----
 

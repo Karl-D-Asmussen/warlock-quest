@@ -215,12 +215,12 @@ inn I'm staying at --- the One-Eyed Cat. All that's left to do is to wait.
 > - Gear gained!
 >   - Fine clothes
 >   - Material components acquired:
->     - _suggestion_
->     - _minor illusion_
->     - _unseen servant_
->     - _mending_
->     - _tenser's floating disk_
->     - _identify_
+>     - _suggestion_ (snake tongue, honeycomb)
+>     - _minor illusion_ (fleece)
+>     - _unseen servant_ (wood, string)
+>     - _mending_ (lodestones)
+>     - _tenser's floating disk_ (mercury)
+>     - _identify_ (pearl, owl feather)
 > - Treasure gained!
 >   - 3 pp, 50 gp, 100 sp, 100 cp (7 lbs)
 > - Treasure spent!
