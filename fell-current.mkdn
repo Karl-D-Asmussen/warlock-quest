@@ -52,9 +52,9 @@ Spells:
   Puppet
   Shadow blade
   Fireball
+  Fly
   - Expeditious Retreat
   - Spiderclimb
-  - Fly
   - Counterspell
   - Dispel Magic
   - Banishment
