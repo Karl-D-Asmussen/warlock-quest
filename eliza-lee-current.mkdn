@@ -51,14 +51,18 @@ Spells:
   Vicious Mockery
   Light
   Thunderclap
+  Shillelagh
+  Booming Blade
   
   Healing Word (1)
   Earth Tremor (1)
   Thunderwave (1)
+  Feather Fall (1)
 
   Locate Animals or Plants (2)
   Enhance Ability (2)
   Shatter (2)
+  Lesser Restoration (2)
   
   Counterspell (3)
   Dispel Magic (3)
