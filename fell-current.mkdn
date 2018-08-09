@@ -3,6 +3,8 @@ Fiend Tomelock
 Skilled (Arcana/History/Stealth), Infernal Constitution (Con +1)
 Actor (Cha +1), Magic Initiate (Tomelock: hex, mold earth, minor illusion),
 
+HP 33
+
 Tiefling:
   Str 10
   Dex 12

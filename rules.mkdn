@@ -42,6 +42,8 @@ In the interest of fairness for single-player play, the following rules apply:
 - Guidance: 'take the wheel'
 - Spare the Dying: 'don't die/please die/stay dead'
 - Darkness: 'blackout'
+- Booming Blade: 'boom'
+- Shillelagh: 'let's go clubbing'
 
 # Homebrew Invocations
 

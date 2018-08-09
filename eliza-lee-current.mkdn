@@ -1,11 +1,13 @@
 
 Valor Bard
 
+HP 25
+
 Healer, Alert
 Everybody's Friend (Cha +1), Versatile Mastery
 
 Shield, Quarterstaff
-Half Plate
+late
 Instruments
 Healing Kits
 Food

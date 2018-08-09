@@ -141,6 +141,8 @@ too fresh to revisit, but as I've come to acknowledge, I'm _broken_ inside, some
 
 > Progress:
 > - Level up! Warlock 6
+>   - Hit Dice 6d8
+>     - Hit point total: 33 (roll 3d8: 8 + 7 + 8, bonus: 12, capped by Proficiency bonus at 3 dice)
 >   - Otherworldly Patron feature: Dark One's own Luck
 >   - Pact Magic:
 >     - Spells learned: _fly_

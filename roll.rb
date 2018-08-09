@@ -24,8 +24,9 @@ class Roller
       puts ">> #{roller.result} = #{roller.roll}"
       puts "// #{roller.discarded}" if roller.discarded?
       puts
-    rescue
-      puts "error"
+    rescue => e
+      puts "#{e.class}: #{e}"
+      puts e.backtrace
     end
   end
 
@@ -50,7 +51,12 @@ class Roller
   end
 
   def roll
-    sign, *rest = @keep.sort.reverse.map { |pair| render_roll(pair) }.flatten
+    begin
+      sign, *rest = @keep.sort_by(&:reverse).reverse.map { |pair| render_roll(pair) }.flatten
+    rescue => e
+      puts @keep.to_s
+      raise
+    end
     if @keep[0].first >= 0
       sign = ''
     end
@@ -81,7 +87,7 @@ class Roller
   def render_roll(pair)
     r, d = pair
     if d
-      ['+', r.to_s + d.to_s.tr(NUMERALS, SUBSCRIPTS)]
+      ['+', r.to_s + (if d != 1 then d.to_s.tr(NUMERALS, SUBSCRIPTS) else '' end)]
     else
       [r.negative? ? '-' : '+', r.abs.to_s]
     end
@@ -92,7 +98,7 @@ class Roller
 
     if $~[:b]
       b = $~[:b].to_i
-      roll = [[b, nil]]
+      roll = [[b, 1]]
       kill = []
       toss = []
       @expr << [b.negative? ? '-' : '+', b.abs.to_s]
