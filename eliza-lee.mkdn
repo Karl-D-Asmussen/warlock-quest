@@ -38,16 +38,14 @@ Skills of note:
 Spells:
   Prestidigitation
   Friends
-  Vicious Mockery
-  Light
   Thunderclap
+  Light
   Mending
   
   Bane (1)
   Detect Magic (1)
   Earth Tremor (1)
   Healing Word (1)
-  Identify (1)
   Longstrider (1)
   Thunderwave (1)
 
@@ -60,10 +58,10 @@ Spells:
   Bestow Curse (3)
   Counterspell (3)
   Dispel Magic (3)
-  Greater Restoration (3)
 
   Confusion (4)
 
+  Greater Restoration (5)
   Mass Cure Wounds (5)
   Raise Dead (5)
 

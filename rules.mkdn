@@ -44,6 +44,7 @@ In the interest of fairness for single-player play, the following rules apply:
 - Darkness: 'blackout'
 - Booming Blade: 'boom'
 - Shillelagh: 'let's go clubbing'
+- Fly: 'lifdoff'
 
 # Homebrew Invocations
 

@@ -39,18 +39,19 @@ Spells of note:
   Enchantments
 
 Invocations:
-  Agonizngin Blast
-  Lethargic Lance
+  Agonizing Blast
   Repelling Blast
   Transmuting Blast
   Eldritch Spear
   Eldritch Shaping
+  Flexible Blast
 
   Eyes of the Rune Keeper
   Book of Ancient Secrets
   Aspect of the Moon
   Master of Myriad Forms
   Beguiling Influence
+  Visions of Far Realms
 
 Spells:
   C1: Eldritch Blast, Prestidigitation, Produce Flame (Patron)

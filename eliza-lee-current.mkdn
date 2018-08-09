@@ -1,6 +1,8 @@
 
 Valor Bard
 
+Level 6
+Prof bonus +3
 HP 25
 
 Healer, Alert
@@ -50,21 +52,22 @@ Skills of note:
 Spells:
   Prestidigitation
   Friends
-  Vicious Mockery
-  Light
   Thunderclap
+  Light
+
   Shillelagh
   Booming Blade
   
   Healing Word (1)
   Earth Tremor (1)
   Thunderwave (1)
-  Feather Fall (1)
 
-  Locate Animals or Plants (2)
   Enhance Ability (2)
-  Shatter (2)
   Lesser Restoration (2)
+  Locate Animals or Plants (2)
+  Shatter (2)
   
   Counterspell (3)
   Dispel Magic (3)
+  
+  Confusion (4)

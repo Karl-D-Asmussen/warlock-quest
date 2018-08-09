@@ -3,6 +3,8 @@ Fiend Tomelock
 Skilled (Arcana/History/Stealth), Infernal Constitution (Con +1)
 Actor (Cha +1), Magic Initiate (Tomelock: hex, mold earth, minor illusion),
 
+Level 6
+Prof bonus +3
 HP 33
 
 Tiefling:
@@ -29,6 +31,7 @@ Invocations:
   Beguiling Influence
   Book of Ancient Secrets
   Aspect of the Moon
+  Eyes of the Rune Keeper
 
 Spells:
   Thaumaturgy R
