@@ -106,6 +106,7 @@ statues.
 
 Eliza-Lee takes time to splint my left ring and middle fingers together
 --- I hadn't even noticed them breaking. We drink water, catch our breaths, and
+she plays an uplifting little tune on her handpan drum.
 
 Tracking the Golem's deep footprints, we make our way down the side valley
 and we come upon a gigantic opening in the valley wall, shaped like the golem
@@ -165,4 +166,4 @@ things first, we need hammocks."
 >       - Lvl 4: 3 slots
 >       - Lvl 2: 2 slots (race)
 >       - Lvl 1: 1 slot (feat)
->     - Invocations gained: _eyes of the rune keeper_
+>     - Invocations gained: _devil's sight_
