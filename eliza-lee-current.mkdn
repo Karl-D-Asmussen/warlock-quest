@@ -1,15 +1,15 @@
 
 Valor Bard
 
-Level 6
+Level 8
 Prof bonus +3
-HP 25
+HP 29
 
 Healer, Alert
 Everybody's Friend (Cha +1), Versatile Mastery
+Polearm Mastery, War Caster
 
 Shield, Quarterstaff
-late
 Instruments
 Healing Kits
 Food
@@ -61,6 +61,7 @@ Spells:
   Healing Word (1)
   Earth Tremor (1)
   Thunderwave (1)
+  Longstrider (1)
 
   Enhance Ability (2)
   Lesser Restoration (2)
