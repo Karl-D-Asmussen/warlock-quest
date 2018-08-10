@@ -158,7 +158,7 @@ things first, we need hammocks."
 > Progress:
 > - Level Up! Warlock 7
 >   - Hit Dice 7d8
->     - Hit point total: 36 (roll 3d8: 8 + 7 + 8, bonus: 12, capped by Proficiency bonus at 3 dice)
+>     - Hit point total: 36 (roll 3d8: 8 + 7 + 8, bonus: 14, capped by Proficiency bonus at 3 dice)
 >   - Otherworldly Patron feature: Dark One's own Luck
 >   - Pact Magic:
 >     - Spells learned: _banishment_

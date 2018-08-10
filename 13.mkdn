@@ -171,4 +171,38 @@ I'm very flattered though."
 
 > Progress:
 > - Level up! Warlock 8
->   - Improvements
+>   - Hit dice: 8d8
+>     - Hit point total: 36 (roll 3d8: 4 + 2 + 1, bonus: 16, result: 23, kept extant score, capped by Proficiency bonus at 3 dice)
+>   - Pact magic:
+>     - Spells learned: _blindness/deafness_
+>   - Pact boon:
+>     - Spells learned: _message (feat)_
+
+> - Feat gained! Spell Sniper (Warlock of the Tome)
+> - Feat gained! Observant
+
+----
+
+> Feats:
+> - _Spell Sniper:_ learn a single-target ranged cantrip spell attack, or one
+>   that doesn't use a saving throw, and isn't a flavor cantrip. You ignore partial
+>   cover when attacking at range, and the range of all your single-target spell attacks
+>   is doubled.
+> - _Observant:_ Wisdom +1, passive perception and investigation +5.
+
+----
+
+> Attributes:
+> - Strength 10
+> - Dexterity 12
+> - Constitution 15
+> - Intelligence 11
+> - Wisdom 12
+> - Charisma 18
+
+----
+
+> Posessions:
+> - Treasure gained!
+>   - Unidentified bags of grains
+>   - Unidentified bottles of booze

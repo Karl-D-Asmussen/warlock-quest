@@ -1,9 +1,9 @@
 
 Fiend Tomelock
 Skilled (Arcana/History/Stealth), Infernal Constitution (Con +1)
-
 Actor (Cha +1), Magic Initiate (Tomelock: hex, mold earth, minor illusion),
 Spell Sniper (Tomelock: Message), Cha +2
+
 Observant (Wis +1), Keen Mind (Int +1)
 War Caster, Ressilient (Con +1)
 Skilled (Athletics/Sleight of Hand/Perception), Magic Initiate (Tomelock: healing elixir, true strike, druidcraft)
