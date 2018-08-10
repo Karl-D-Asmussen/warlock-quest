@@ -6,7 +6,7 @@ Spell Sniper (Tomelock: Message), Cha +2
 
 Observant (Wis +1), Keen Mind (Int +1)
 War Caster, Ressilient (Con +1)
-Skilled (Athletics/Sleight of Hand/Perception), Magic Initiate (Tomelock: healing elixir, true strike, druidcraft)
+Skilled (Religion/Nature/Perception), Magic Initiate (Tomelock: healing elixir, true strike, druidcraft)
 
 Tiefling:
   Str 10

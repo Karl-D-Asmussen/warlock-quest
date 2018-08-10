@@ -86,15 +86,22 @@ We bag what we can carry.
 I use all the paper on me taking stone rubbings of the most significant writings and stowing
 them in between the pages of my ritual tome.
 
+On our way out, we find a chamber we missed, a side-room to the main army room. It seems to
+be a staple, with six teracotta horses. Animated golems. It takes me an hour of analysis and a
+casting of _identify_ to figure out how to make them obey us, and unfortunately inscribing the
+spell into them takes a lont time and a lot of arcane ink. We bring one with us, and it turns out
+to be strong enough to carry both of us. The bridles have all rotted away, but rope suffices as a
+replacement.
+
 ----
 
 The trek back is lengthy, but we find the shelf we made camp on the night before and
-camp there again without incident.
+camp there again without incident; I bury our horse automaton in the ground to hide it.
 
 We return to the base camp the following day and run into a group of thugs, who
 are summarily uninterested in bags of unidentifiable grains, and once Eliza-Lee breaks
 a kneecap and I take off the ear of another with a well-placed beam, they are also
-summarily uninterested in our gear.
+summarily uninterested in our gear and magical horse.
 
 Eliza-Lee reveals a bag of sunflower seeds on the way home, and we leave a trail of
 white-black shells all the way back to Three Blue.
@@ -105,7 +112,9 @@ The last night in the wilderness, I spend in contemplation. We haven't spoken mu
 
 It's a very warm evening, and Eliza-Lee lies in the grass in her leather
 bodice and petticoat, barefooted, chewing on a straw of grass. I'm out of my gambeson as well, in my waiscoat,
-chamise, and petticoat. It's... Intimate.
+chamise, and petticoat. It's... Intimate. My swirling thoughts are heavily shaded by having
+sat behind Eliza-Lee on Roofhoof, as we have taken to calling our conveyance, the whole way.
+Holding around her waist.
 
 "Thanks for letting me come along."
 
@@ -160,12 +169,12 @@ she laughs.
 
 "Fell!" she says, giggling. "Do you have the _hots_ for me?"
 
-I shrug. "I don't know," I admit. "I've never been with a woman before."
+I shrug. "I don't know," I admit. "I've never been with a woman before, Eliza-Lee."
 I offer her the bottle.
 
 "And tonight isn't going to be your first time; tempting as it is to have my
-own little Tiefling. I'm on the rag," she says. "And I'm not looking to hook up regardless.
-I'm very flattered though."
+own little Tiefling. I'm on the rag," she says. "I'm not looking to hook up regardless.
+I'm very flattered though. And call me Iza."
 
 ----
 
@@ -175,7 +184,7 @@ I'm very flattered though."
 >     - Hit point total: 36 (roll 3d8: 4 + 2 + 1, bonus: 16, result: 23, kept extant score, capped by Proficiency bonus at 3 dice)
 >   - Pact magic:
 >     - Spells learned: _blindness/deafness_
->   - Pact boon:
+>   - Tome cantrips:
 >     - Spells learned: _message (feat)_
 
 > - Feat gained! Spell Sniper (Warlock of the Tome)
@@ -206,3 +215,7 @@ I'm very flattered though."
 > - Treasure gained!
 >   - Unidentified bags of grains
 >   - Unidentified bottles of booze
+> - Gear gained!
+>   - Golem horse
+> - Gear used up!
+>   - Arcane inks
